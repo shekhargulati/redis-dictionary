@@ -9,16 +9,19 @@
 			<param name="ConversionPattern" value="%-5p: %c - %m%n" />
 		</layout>
 	</appender>
-	
+
 	<!-- Application Loggers -->
 	<logger name="com.shekhar.redis">
 		<level value="info" />
 	</logger>
-	
+
+	<logger name="org.springframework">
+		<level value="info" />
+	</logger>
 	<!-- Root Logger -->
 	<root>
 		<priority value="warn" />
 		<appender-ref ref="console" />
 	</root>
-	
+
 </log4j:configuration>
