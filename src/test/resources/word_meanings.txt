@@ -1,0 +1,4997 @@
+a	able	capable										
+a	abnormal											
+a	absent											
+a	absolute	perfect	or	complete								
+a	abstract	existing	only	in	the	mind						
+a	abundant	plentiful										
+a	academic											
+a	acceptable											
+a	accessible											
+a	accurate											
+a	active	vigorous										
+a	acute											
+a	addicted	hooked										
+a	adequate											
+a	aesthetic											
+a	afraid											
+a	aggressive											
+a	agile	nimble,	spry,	quick								
+a	agricultural											
+a	alert											
+a	alive	live										
+a	aloof	distant										
+a	amber	yellowish										
+a	ambiguous	equivocal										
+a	ambitious											
+a	ample	sizable,	capacious									
+a	angry											
+a	annual	yearly										
+a	anonymous											
+a	applied	concerned	with	concrete	problems	or	data					
+a	appropriate											
+a	arbitrary											
+a	archaeological											
+a	arrogant	self-important										
+a	artificial	unreal,	unnatural									
+a	artistic											
+a	ashamed											
+a	asleep											
+a	assertive	self-assured										
+a	astonishing	astounding,	staggering									
+a	attractive	pleasing	to	the	eye	or	mind					
+a	automatic	operating	with	minimal	human	intervention						
+a	available	obtainable										
+a	awake											
+a	aware	mindful										
+a	awful	dreadful,	terrible									
+a	awkward											
+a	bad	immoral,	evil									
+a	bad	below	average	in	quality	or	performance,	defective				
+a	bad	spoiled,	spoilt,	capable	of	harming						
+a	balanced											
+a	bald	lacking	hair									
+a	bare	lacking	its	natural	or	customary	covering					
+a	basic	pertaining	to	a	base	or	basis					
+a	beautiful	possessing	beauty									
+a	bitter	acrimonious,	resentful									
+a	bitter	bitter-tasting										
+a	black	achromatic										
+a	black	without	cream	or	sugar							
+a	bland	tasteless,	insipid,	flavorless								
+a	blank	empty,	not	filled	in							
+a	blind	unsighted										
+a	blonde	light-haired										
+a	bloody	covered	with	blood								
+a	bold	fearless	and	daring								
+a	brave	courageous,	fearless									
+a	broken	physically	separated	into	pieces							
+a	brown	having	a	brown	color							
+a	bureaucratic											
+a	busy											
+a	capable											
+a	careful											
+a	cautious											
+a	central	in	or	near	a	center						
+a	certain	sure										
+a	characteristic											
+a	charismatic	possessing	a	magnetic	personality							
+a	cheap	inexpensive										
+a	cheerful											
+a	childish	infantile										
+a	chronic											
+a	civic											
+a	civilian											
+a	classical											
+a	clean	free	from	dirt								
+a	clear	free	from	clouds	or	mist	or	haze				
+a	clear	well-defined										
+a	close	close	in	relevance	or	relationship						
+a	close	near										
+a	closed	shut,	unopen									
+a	cold	physically	cold									
+a	cold	without	human	warmth	or	emotion						
+a	color-blind	unable	to	distinguish	colors							
+a	colorful	vivid	in	color								
+a	comfortable	comfy										
+a	commercial											
+a	common	average	or	ordinary	or	usual						
+a	common	belonging	to	a	community							
+a	common	mutual										
+a	comparable											
+a	compatible											
+a	competent											
+a	competitive											
+a	complete	having	every	necessary	part							
+a	complex	complicated										
+a	comprehensive	all-including										
+a	concrete	material										
+a	confident											
+a	conscious	aware										
+a	conservative	resistant	to	change								
+a	considerable											
+a	consistent											
+a	constant	steadfast,	unwavering									
+a	constant	unending,	incessant									
+a	constitutional	relating	to	a/the	constitution							
+a	constructive											
+a	content	contented										
+a	continental	relating	to	a	continent							
+a	continuous	uninterrupted										
+a	controversial											
+a	convenient											
+a	conventional	following	accepted	customs								
+a	cool	neither	warm	or	very	cold	in	temperature				
+a	cool	unenthusiastic,	unfriendly,	unresponsive								
+a	cooperative	co-operative										
+a	corporate											
+a	critical	tending	to	find	errors	and	flaws					
+a	critical	being	in	a	state	of	crisis	or	emergency			
+a	critical	vital	urgently	needed								
+a	crude	unrefined,	unprocessed									
+a	crude	primitive										
+a	cruel	brutal,	barbarous									
+a	cultural	relating	to	arts								
+a	curious											
+a	current											
+a	cute	attractive										
+a	daily											
+a	dangerous	unsafe										
+a	dark	devoid	of	light								
+a	dead	inanimate										
+a	deadly	lethal										
+a	deaf											
+a	decisive	determining										
+a	decorative	cosmetic,	ornamental									
+a	deep	having	great	spatial	extension	downward						
+a	definite	precise,	explicit									
+a	delicate	exquisitely	fine	and	subtle							
+a	delicate	fragile,	frail,	easily	broken,	sensitive						
+a	democratic	based	upon	the	principles	of	democracy					
+a	dependent											
+a	desirable											
+a	different	unlike,	dissimilar									
+a	difficult	hard										
+a	digital	discrete										
+a	diplomatic	diplomatical,	suave									
+a	direct	without	deviation	or	interruption							
+a	dirty	soiled,	unclean									
+a	dirty	obscene,	indecent									
+a	discreet	keeping	private,	prudent,	restrained							
+a	distant	separated	in	space	or	time						
+a	distinct	easy	to	perceive								
+a	domestic	concerning	the	internal	affairs	of	a	nation				
+a	domestic	relating	to	the	home							
+a	dominant	exercising	influence	or	control							
+a	dramatic	pertaining	to	theater								
+a	dry	free	from	liquid	or	moisture						
+a	due	owed										
+a	dull	not	having	a	sharp	edge	or	point				
+a	dull	boring,	lacking	in	liveliness	or	animation					
+a	dynamic	dynamical,	characterized	by	action							
+a	eager											
+a	early											
+a	easy	posing	no	difficulty								
+a	economic	relating	to	economics								
+a	educational											
+a	effective	effectual,	efficacious									
+a	efficient											
+a	electronic											
+a	elegant	refined,	tasteful									
+a	eligible											
+a	articulate	eloquent,	well-spoken									
+a	emotional											
+a	empirical	empiric,	derived	from	experiment	and	observation					
+a	empty											
+a	encouraging											
+a	enjoyable											
+a	enthusiastic											
+a	environmental	relating	to	the	external	surroundings						
+a	equal	like,	equivalent,	same								
+a	essential	basic	and	fundamental								
+a	established	set	up	or	accepted							
+a	eternal	everlasting,	perpetual,	unending								
+a	ethical											
+a	ethnic	cultural										
+a	even	level,	flush									
+a	even	divisible	by	two								
+a	exact	precise										
+a	excited											
+a	exciting											
+a	exclusive	excluding	much	or	all							
+a	exotic	foreign,	alien									
+a	exotic	unusual,	strikingly	strange								
+a	expected											
+a	expensive											
+a	experienced	knowledgeable										
+a	experimental											
+a	explicit	expressed										
+a	express	without	unnecessary	stops								
+a	external											
+a	extinct	non-existent,	not	surviving								
+a	extraordinary											
+a	fair	impartial										
+a	faithful	sexually	trustworthy									
+a	FALSE	not	in	accordance	with	fact	or	reality				
+a	familiar	well	known									
+a	far	at	a	long	distance							
+a	fashionable	stylish										
+a	fast	at	a	rapid	tempo							
+a	fastidious	finicky										
+a	fat	having	much	flesh,	especially	fat						
+a	favorable	encouraging,	approving									
+a	federal											
+a	feminine	womanly										
+a	financial	fiscal										
+a	fine	small-grained	or	smooth								
+a	finished											
+a	finished	ruined										
+a	first	initial										
+a	first-hand	direct										
+a	flat	horizontally	level									
+a	flawed	imperfect,	blemished,	faulty								
+a	flexible	bendable										
+a	foolish											
+a	formal	adhering	to	traditional	standards							
+a	forward	at,	near	or	directed	toward	the	front				
+a	fragrant	pleasant-smelling										
+a	frank	candid,	blunt,	forthright								
+a	free	able	to	act	at	will						
+a	free	complimentary,	costless,	gratis								
+a	free	not	occupied									
+a	frequent											
+a	fresh	recently	made,	produced,	or	harvested						
+a	fresh	insolent,	impertinent,	impudent,	sassy							
+a	friendly	befitting	a	friend								
+a	frozen	unthawed										
+a	full	containing	as	much	as	is	possible					
+a	full	replete,	filled	to	satisfaction	with	food					
+a	full-time											
+a	functional	designed	for	or	capable	of	a	particular	function			
+a	funny	amusing,	laughable									
+a	general	applying	to	most	members	of	a	category				
+a	generous											
+a	genetic	genetical										
+a	genuine	not	fake	or	counterfeit							
+a	geological											
+a	glad											
+a	glorious											
+a	good	beneficial,	salutary									
+a	good	just,	upright,	virtuous								
+a	gradual	proceeding	in	small	stages							
+a	grand	luxurious,	opulent,	sumptuous								
+a	graphic	explicit,	descriptive									
+a	graphic	pictorial,	lifelike,	vivid								
+a	grateful	thankful										
+a	great	outstanding,	very	valuable								
+a	great	large	in	size,	number	or	extent					
+a	green	unripe,	unripened									
+a	gregarious	sociable										
+a	handy	easy	to	use								
+a	happy											
+a	hard	not	yielding	to	pressure							
+a	harmful	noxious										
+a	harsh	coarse,	large-grained	or	rough	to	the	touch				
+a	healthy	fit										
+a	heavy	of	great	physical	weight							
+a	helpful											
+a	helpless	incapacitated										
+a	high	greater	than	normal	in	degree	or	intensity	or	amount		
+a	hilarious	uproarious										
+a	historical											
+a	holy											
+a	homosexual	gay										
+a	honest	sincere										
+a	honorable											
+a	horizontal											
+a	hostile	characterized	by	enmity	or	ill	will					
+a	hot	being	of	high	temperature							
+a	hot	marked	by	intensity,	vehemence,	passion						
+a	huge	immense,	vast									
+a	human											
+a	hungry											
+a	ignorant	lacking	basic	knowledge,	naive,	unsophisticated						
+a	illegal											
+a	immune	resistant										
+a	imperial	relating	to	an	empire							
+a	implicit	inexplicit										
+a	important	significant										
+a	impossible											
+a	impressive											
+a	inadequate											
+a	inappropriate	not	suitable									
+a	incapable	incompetent										
+a	incongruous	discrepant										
+a	incredible	unbelievable										
+a	independent											
+a	indigenous											
+a	indirect	not	direct	in	manner	or	language					
+a	indoor	inside										
+a	industrial											
+a	inevitable											
+a	infinite	having	no	limits	or	boundaries	in	time	or	space		
+a	influential											
+a	informal											
+a	inner											
+a	innocent	guiltless,	clean-handed									
+a	insufficient											
+a	integrated	not	segregated									
+a	intellectual											
+a	intense											
+a	interactive	synergistic										
+a	interesting											
+a	intermediate	lying	between	two	extremes							
+a	internal											
+a	international											
+a	invisible	unseeable										
+a	irrelevant											
+a	jealous	covetous,	envious									
+a	joint	united	or	combined								
+a	judicial	juridical,	juridic									
+a	junior	younger	or	lower	in	rank						
+a	just	equitable										
+a	kind											
+a	large	big										
+a	last	concluding,	final,	terminal								
+a	late	belated,	tardy									
+a	latest	newest,	up-to-date									
+a	lazy	indolent,	otiose,	slothful,	work-shy							
+a	left	belonging	to	the	political	or	intellectual	left				
+a	legal											
+a	legislative											
+a	liberal	tolerant	of	change								
+a	light	of	little	weight								
+a	light	light-colored										
+a	light	bright,	emitting	light								
+a	likely	probable,	plausible									
+a	limited	small	in	range	or	scope						
+a	linear	one-dimensional										
+a	liquid											
+a	literary											
+a	live	unrecorded										
+a	lively											
+a	logical											
+a	lonely	alone,	lone,	solitary								
+a	long	of	great	spatial	extension							
+a	long	of	relatively	great	duration							
+a	loose	not	tight,	constrained	or	constricted						
+a	lost	no	longer	in	your	possession	or	control				
+a	lost	spiritually	or	physically	doomed	or	destroyed					
+a	loud	characterized	by	sound	of	great	volume					
+a	low	being	at	small	elevation							
+a	depressed	blue										
+a	loyal											
+a	lucky											
+a	magnetic	relating	to	magnetism								
+a	main	chief,	primary,	principal								
+a	major	greater	in	scope	or	effect						
+a	major	of	full	legal	age							
+a	manual	requiring	human	effort								
+a	marine	nautical,	maritime,	relating	to	the	sea					
+a	married											
+a	mathematical											
+a	mature	having	reached	full	natural	growth	or	development				
+a	mature	ripe,	fully	developed	and	ready	to	be	eaten			
+a	maximum	maximal										
+a	meaningful											
+a	mechanical	using	a	mechanism								
+a	medieval	from	the	Middle	Ages							
+a	memorable											
+a	mental											
+a	middle-class											
+a	mild	moderate										
+a	military											
+a	minimum	minimal										
+a	minor	lesser	in	scope	or	effect						
+a	miserable	abject,	scummy,	contemptible								
+a	mobile	moving	or	capable	of	moving	readily					
+a	modern											
+a	modest	not	offensive	to	sexual	mores						
+a	molecular											
+a	monstrous	atrocious,	heinous									
+a	monstrous	grotesque										
+a	monthly											
+a	moral	relating	to	principles	of	right	and	wrong				
+a	moving	arousing	deep	emotion								
+a	multiple											
+a	municipal											
+a	musical	talented	in	or	devoted	to	music					
+a	mutual	reciprocal										
+a	narrow	not	wide	spatially								
+a	narrow	narrow-minded										
+a	national	relating	to	a	nation	or	country					
+a	native	belonging	to	one	by	birth						
+a	necessary											
+a	negative	disconfirming										
+a	negative	reckoned	in	a	direction	opposite	to	positive				
+a	nervous	neural										
+a	nervous	skittish										
+a	neutral	of	no	distinctive	quality							
+a	new	recently	created,	unused	or	little	used					
+a	new	unfamiliar										
+a	nice											
+a	noble	having	elevated	character								
+a	noble	belonging	to	hereditary	aristocracy							
+a	noisy											
+a	normal	conforming	with	a	norm	or	standard					
+a	notorious	ill-famed,	infamous									
+a	nuclear	atomic										
+a	obese	overweight										
+a	objective	nonsubjective										
+a	obscure	unknown										
+a	obvious											
+a	occupational											
+a	odd											
+a	offensive	unpleasant	or	disgusting								
+a	offensive	for	the	purpose	of	attack						
+a	official	having	official	authority								
+a	old	elderly,	having	lived	for	a	relatively	long	time			
+a	open	affording	free	passage								
+a	open	overt										
+a	operational	pertaining	to	a	process							
+a	opposed	being	in	opposition								
+a	optimistic											
+a	optional											
+a	oral	of	or	involving	the	mouth						
+a	ordinary	not	exceptional									
+a	organic											
+a	original	fresh,	unusual,	first								
+a	orthodox	adhering	to	what	is	commonly	accepted					
+a	other	not	the	same								
+a	outer	being	on	the	outside							
+a	outside	outdoor,	out-of-door									
+a	painful											
+a	parallel	equidistant	and	not	intersecting							
+a	paralyzed	paralytic,	unable	to	move							
+a	parental											
+a	particular	finicky,	fussy									
+a	particular	peculiar,	special									
+a	part-time											
+a	passionate											
+a	passive	inactive										
+a	past	earlier	than	the	present	time						
+a	patient											
+a	peaceful											
+a	perfect	complete,	without	defect								
+a	permanent	lasting										
+a	persistent	lasting										
+a	personal	concerning	a	particular	person							
+a	petty	small-minded										
+a	philosophical											
+a	physical	involving	the	body								
+a	plain	simple										
+a	pleasant	delightful										
+a	polite	courteous										
+a	political											
+a	poor	characterized	by	poverty								
+a	popular	regarded	with	great	favor,	approval,	or	affection				
+a	portable											
+a	positive	accepting,	confirming									
+a	possible	potential										
+a	powerful											
+a	practical	concerned	with	actual	use	or	practice					
+a	practical	efficient										
+a	precise											
+a	predictable											
+a	pregnant											
+a	premature	untimely										
+a	present	intermediate	between	past	and	future						
+a	present	being	here									
+a	presidential	relating	to	a	president	or	presidency					
+a	primary	of	first	rank	or	importance	or	value				
+a	private	concerning	things	personal								
+a	privileged											
+a	productive	generative										
+a	professional											
+a	profound	deep										
+a	progressive	favoring	or	promoting	progress							
+a	prolonged											
+a	proper	suitable										
+a	proportional											
+a	proud	feeling	self-respect									
+a	provincial	characteristic	of	the	provinces							
+a	public	not	private									
+a	pure	having	no	faults,	sinless							
+a	pure	free	of	extraneous	elements	of	any	kind				
+a	qualified	meeting	the	standards	and	requirements						
+a	quantitative											
+a	quiet	silent										
+a	quiet	quiescent										
+a	racial											
+a	random	arbitrary										
+a	rare	infrequent,	uncommon									
+a	rational	based	on	reasoning								
+a	raw	not	treated	with	heat							
+a	ready	prepared										
+a	real	actual,	existent,	being	or	occurring	in	fact	or	actuality		
+a	real	actual,	genuine									
+a	realistic											
+a	reasonable	sensible										
+a	reckless	foolhardy										
+a	regional											
+a	regular	in	accordance	with	fixed	order	or	procedure				
+a	related	connected	by	kinship								
+a	related	connected	logically	or	causally							
+a	relative	not	absolute									
+a	relevant											
+a	reliable	dependable										
+a	religious											
+a	representative	standing	for	something	else							
+a	resident	living	in	a	particular	place						
+a	residential											
+a	respectable	worthy	of	respect								
+a	responsible	held	accountable,	worthy	of	trust						
+a	restless	antsy,	itchy,	fidgety								
+a	restricted											
+a	retired	no	longer	active	in	your	work					
+a	revolutionary	advocating	or	engaged	in	revolution						
+a	rich	possessing	material	wealth								
+a	right	correct										
+a	romantic	amatory,	amorous									
+a	rotten	decayed,	rotted									
+a	rotten	crappy,	lousy,	shitty,	stinking,	stinky						
+a	rough	unsmooth										
+a	round	circular										
+a	rural											
+a	sacred	concerned	with	religion	or	religious	purposes					
+a	sad											
+a	safe	free	from	danger								
+a	satisfactory											
+a	satisfied	quenched,	slaked									
+a	scientific											
+a	seasonal	occurring	at	a	particular	season						
+a	seasonal	occurring	at	or	dependent	on	a	particular	season			
+a	secondary											
+a	secular	laic,	lay									
+a	secure	protected										
+a	senior	older	or	higher	in	rank						
+a	sensitive	having	acute	mental	or	emotional	sensibility					
+a	separate	independent										
+a	serious	sober										
+a	sexual											
+a	shallow	lacking	physical	depth								
+a	shallow	lacking	depth	of	intellect	or	knowledge	or	feeling			
+a	sharp	having	a	thin	edge	or	sharp	point				
+a	short	having	little	length								
+a	short	of	limited	duration								
+a	shy	timid,	diffident									
+a	sick	ill										
+a	similar	alike,	like									
+a	single	unmarried										
+a	single	individual,	separate									
+a	skilled	skillful										
+a	slippery	slippy										
+a	slow	not	moving	quickly								
+a	small	little										
+a	smart	clever,	bright									
+a	smooth	having	a	surface	free	from	roughness					
+a	social	living	together	or	enjoying	life	in	communities				
+a	socialist	socialistic										
+a	soft	lacking	in	hardness								
+a	soft	relatively	low	in	volume							
+a	soft	nonalcoholic										
+a	solar											
+a	solid	neither	liquid	nor	gaseous							
+a	solid	entirely	of	one	substance	with	no	holes	inside			
+a	sophisticated											
+a	sound	in	good	condition								
+a	sour	having	a	sharp	biting	taste						
+a	spatial											
+a	specified											
+a	spontaneous	self-generated										
+a	square	having	four	equal	sides	and	four	right	angles			
+a	stable	resistant	to	change								
+a	standard	conforming	to	a	standard	of	measurement					
+a	statistical											
+a	steady											
+a	steep	having	a	sharp	inclination							
+a	sticky	gluey,	glutinous,	gummy								
+a	muggy	sticky,	steamy									
+a	still	inactive,	motionless,	static								
+a	straight	square,	honest,	fair,	decent							
+a	straight	free	from	curves	or	angles						
+a	strange	unusual										
+a	strategic	strategical										
+a	strict	severe,	nonindulgent									
+a	strong	potent										
+a	strong	hard,	having	a	high	alcoholic	content					
+a	strong	firm										
+a	strong	secure,	unattackable									
+a	structural											
+a	stubborn	obstinate										
+a	stunning	strikingly	beautiful	or	attractive							
+a	stupid											
+a	subjective											
+a	subsequent											
+a	successful											
+a	sudden											
+a	sufficient											
+a	superior	of	high	or	superior	quality						
+a	supplementary	auxiliary,	subsidiary									
+a	surprised											
+a	surprising											
+a	sweet	sweet-tasting										
+a	sympathetic	appealing,	likeable									
+a	systematic	characterized	by	order	and	planning						
+a	talented	gifted										
+a	talkative	chatty,	gabby,	garrulous								
+a	tall											
+a	tasty	delicious										
+a	technical											
+a	temporary	impermanent										
+a	tender	easy	to	cut	or	chew						
+a	tender	gentle,	sympathetic,	feeling								
+a	tense	taut,	rigid,	stretched	tight							
+a	tense	in	a	state	of	physical	or	nervous	tension			
+a	terminal	endmost										
+a	thick	of	a	specific	thickness							
+a	thick	dense	in	consistency								
+a	thin	lean										
+a	thirsty	needing	or	desiring	to	drink						
+a	thoughtful	considerate,	showing	concern								
+a	tidy	neat,	orderly,	clean								
+a	tight	constrained,	constricted,	constricting								
+a	tired	fatigued										
+a	tolerant	respecting	others									
+a	tough	tough,	hard,	rough								
+a	tough	not	given	to	gentleness	or	sentimentality					
+a	toxic											
+a	traditional											
+a	transparent	see-through,	sheer									
+a	trivial	banal,	commonplace									
+a	tropical	typical	of	the	tropics							
+a	TRUE	consistent	with	fact	or	reality						
+a	typical											
+a	ugly											
+a	ultimate											
+a	unanimous	in	complete	agreement								
+a	unaware	unwitting										
+a	uncomfortable											
+a	uneasy											
+a	unemployed											
+a	unexpected											
+a	unfair	partial,	biased									
+a	unfortunate	not	favored	by	fortune							
+a	uniform	unvarying										
+a	unique	unequaled,	unparalleled									
+a	global	universal,	worldwide									
+a	unlawful	illegitimate,	illicit									
+a	unlike	unequal										
+a	unlikely	improbable										
+a	unpleasant	disagreeable										
+a	urban											
+a	useful	utile										
+a	useless											
+a	usual											
+a	vacant											
+a	vague	undefined										
+a	vain	self-conceited,	swollen-headed									
+a	valid	well	grounded	in	logic	or	truth					
+a	valuable											
+a	varied											
+a	verbal											
+a	vertical	perpendicular										
+a	viable	feasible,	practicable,	workable								
+a	vicious											
+a	vigorous	strong	physically	or	mentally							
+a	violent											
+a	visible	seeable										
+a	visual	ocular,	optic,	optical								
+a	vocational											
+a	voluntary											
+a	vulnerable											
+a	warm	producing	a	comfortable	degree	of	heat					
+a	warm	friendly	and	responsive								
+a	weak	having	little	physical	or	spiritual	strength					
+a	weekly											
+a	welcome											
+a	well	in	good	health								
+a	wet											
+a	white	achromatic										
+a	white	caucasian										
+a	whole	including	all	components								
+a	wild	untamed										
+a	wild	marked	by	lack	of	restraint	or	control				
+a	wise											
+a	written											
+a	wrong	contrary	to	conscience	or	morality	or	law				
+a	wrong	based	on	error								
+a	young	youthful										
+n	abbey	monastery										
+n	ability											
+n	abortion	termination	pregnancy									
+n	absence	failure	to	be	present							
+n	absorption	preoccupation,	engrossment									
+n	absorption	soaking	up									
+n	absorption	social	assimilation									
+n	abuse	maltreatment,	ill-treatment									
+n	abuse	insult										
+n	academy	learned	establishment									
+n	accent	speech	pattern									
+n	acceptance	adoption,	espousal,	favorable	reception							
+n	access	entree,	accession,	admittance								
+n	access	right	to	obtain	or	make	use	of				
+n	accident	fortuity,	chance	event								
+n	accident	mishap										
+n	account	explanation										
+n	account	accounting,	account	statement								
+n	accountant	comptroller,	controller									
+n	accumulation	accretion										
+n	achievement	accomplishment										
+n	acid	water-soluble	compound	with	sour	taste						
+n	acquaintance	familiarity,	personal	knowledge								
+n	acquaintance	familiar	person									
+n	acquisition	possession										
+n	act	human	action,	human	activity							
+n	act	subdivision	of	a	play	or	opera	or	ballet			
+n	action	legal	action									
+n	action	military	action									
+n	action	series	of	events	that	form	a	plot				
+n	activity	activeness,	trait	of	being	active						
+n	addition	summation,	plus									
+n	addition	add-on,	improver									
+n	address	place	where	a	person	or	organization	can	be	found		
+n	administration	presidency										
+n	administrator											
+n	admiration	esteem										
+n	admission	acknowledgment										
+n	admission	entrance	fee									
+n	adoption	child	adoption									
+n	adult	grownup										
+n	advance	cash	advance									
+n	advantage	benefit										
+n	adventure	escapade,	risky	venture								
+n	advertising	ad,	advertisement									
+n	advice	proposal	for	an	appropriate	course	of	action				
+n	adviser	advisor,	consultant									
+n	advocate	proponent										
+n	affair	affaire,	intimacy,	liaison,	involvement							
+n	affinity	natural	attraction									
+n	affinity	kinship										
+n	afternoon											
+n	age	how	long	something	has	existed						
+n	old	age]	years									
+n	age	historic	period									
+n	agency	business	that	serves	other	businesses						
+n	agenda	order	of	business								
+n	agent	representative	who	acts	on	behalf	of	others				
+n	agent	federal	agent									
+n	agony	torment										
+n	agreement	accord										
+n	agriculture	farming,	husbandry									
+n	aid	economic	aid									
+n	AIDS	acquired	immune	deficiency	syndrome							
+n	air	mixture	of	gases								
+n	aircraft											
+n	airline											
+n	airport											
+n	aisle	passage	between	seats	or	supermarket	shelves					
+n	alarm	warning	device,	alarm	system							
+n	alarm	alarm	clock									
+n	alarm	dismay,	consternation,	fear								
+n	album	book	of	blank	pages							
+n	album	record	album									
+n	alcohol	alcoholic	beverage,	intoxicant,	inebriant							
+n	allocation	allotment,	share									
+n	allowance	money	allowed	or	granted							
+n	ally	friendly	nation									
+n	ally	friend										
+n	altar											
+n	aluminium	aluminum,	Al,	silvery	metal							
+n	amateur											
+n	ambiguity	equivocalness										
+n	ambition	ambitiousness										
+n	ambulance											
+n	amendment											
+n	analogy											
+n	analysis	psychoanalysis										
+n	analyst	psychoanalyst										
+n	angel	spiritual	being									
+n	anger	ire										
+n	angle	slant,	bias									
+n	angle	space	between	two	lines							
+n	animal	animate	being,	beast,	brute,	creature,	fauna					
+n	ankle	ankle	joint									
+n	anniversary	day	of	remembrance								
+n	announcement	proclamation,	declaration									
+n	answer											
+n	ant	social	insect									
+n	anticipation	expectancy										
+n	anxiety	anxiousness										
+n	apathy	absence	of	emotion	or	enthusiasm						
+n	apology	expression	of	regret								
+n	apparatus	setup,	equipment									
+n	appeal	appealingness,	charm									
+n	appeal	solicitation										
+n	appearance	visual	aspect									
+n	appendix	body	part									
+n	appendix	supplementary	material									
+n	appetite	craving										
+n	apple	fruit	with	red,	yellow	or	green	skin				
+n	applicant											
+n	application	practical	application									
+n	application	verbal	or	written	request	for	assistance	or	employment	or	admission	
+n	appointment	job,	post									
+n	approval	blessing										
+n	aquarium	fish	tank,	marine	museum							
+n	arch	archway										
+n	architecture	building	design									
+n	archive	archives										
+n	area	expanse,	surface	area								
+n	arena	place	for	spectacles								
+n	argument	argumentation,	debate									
+n	arm	human	limb									
+n	armchair											
+n	army	ground	forces									
+n	arrangement	placement										
+n	arrow	projectile										
+n	arrow	pointer,	indicator									
+n	art	artistic	creation,	artistic	production							
+n	article	nonfictional	prose	forming	an	independent	part	of	a	publication		
+n	artist	creative	person									
+n	ash	residue	from	a	fire							
+n	aspect	facet										
+n	assault	physical	attack									
+n	rape	rape,	violation,	assault,	ravishment							
+n	assembly	assemblage,	gathering	of	people							
+n	assembly	fabrication,	construction									
+n	assertion											
+n	assessment	judgment,	judgement									
+n	assessment	appraisal										
+n	asset	plus,	valuable	quality								
+n	assignment	task										
+n	association	mental	connection									
+n	association	formal	organization	of	people							
+n	association	affiliation										
+n	assumption	premise,	premiss									
+n	assurance											
+n	asylum	refuge,	sanctuary,	shelter								
+n	athlete	jock,	sportive	person								
+n	atmosphere	envelope	of	gases								
+n	atmosphere	ambiance,	ambience									
+n	atom											
+n	attachment	supplementary	part									
+n	attachment	affection,	fondness									
+n	attack	onslaught,	physical	attack								
+n	attack	strong	criticism									
+n	attention	faculty	or	power	of	mental	concentration					
+n	attic	loft,	garret									
+n	attitude	mental	attitude									
+n	attraction	attractiveness										
+n	attraction	entertainment	offered	to	the	public						
+n	attraction	physical	force									
+n	auction	auction	sale									
+n	audience	spectators,	listeners									
+n	auditor	student										
+n	aunt	auntie,	relative									
+n	authority	expert	whose	views	are	taken	as	definitive				
+n	authority	persons	who	exercise	administrative	control						
+n	autonomy	self-sufficiency,	personal	independence								
+n	avenue	boulevard										
+n	average	norm										
+n	aviation	operation	of	aircraft								
+n	award	prize										
+n	axis	axis	of	rotation								
+n	baby	babe,	infant									
+n	back	rear,	side	that	goes	last	or	is	not	normally	seen	
+n	back	spinal	column,	vertebral	column,	spine,	backbone					
+n	background	social	heritage									
+n	background	ground,	part	of	a	scene	behind	objects				
+n	background	setting	context									
+n	bacon	pork										
+n	suitcase	bag,	luggage									
+n	bag	supple	container									
+n	bail											
+n	balance	proportion,	proportionality									
+n	balance	equality	between	credit	and	debit						
+n	balance	state	of	equilibrium								
+n	balcony											
+n	ball	object	that	is	hit	or	thrown	or	kicked	in	games	
+n	ball	formal	dance									
+n	ball	globe,	orb,	object	with	a	spherical	shape				
+n	ballet	dance										
+n	balloon											
+n	ballot	voting	document									
+n	ban	prohibition,	proscription									
+n	banana	elongated	crescent-shaped	yellow	fruit							
+n	band	banding,	stripe									
+n	band	ring,	jewelry									
+n	band	range	of	frequencies	between	two	limits					
+n	band	instrumentalists										
+n	bang	clap,	eruption,	blast,	bam							
+n	bank	depository	financial	institution								
+n	bank	sloping	land									
+n	bankruptcy											
+n	banner	streamer										
+n	bar	rigid	piece	of	metal	or	wood					
+n	bar	barroom,	saloon									
+n	bar	horizontal	rod	that	serves	as	a	support	for	gymnasts		
+n	bar	legal	profession									
+n	bark	tree	covering									
+n	barrel	cask										
+n	barrel	gun	barrel									
+n	barrier	separator	obstructing	vision	or	access						
+n	base	pedestal,	stand									
+n	base	flat	bottom	on	which	something	sits					
+n	base	bottom	side	of	a	geometric	figure					
+n	baseball	baseball	game									
+n	basin	washbasin,	washbowl,	washstand,	lavatory							
+n	basis	base,	foundation,	fundament								
+n	basket	handbasket										
+n	basketball	hoops,	basketball	game								
+n	bat	nocturnal	mouselike	mammal								
+n	bathtub	bath,	bathing	tub,	tub							
+n	bathroom	bath,	toilet,	lavatory								
+n	battery	assault										
+n	battery	electric	battery									
+n	battle	conflict,	fight,	engagement								
+n	battlefield	battleground,	field	of	battle,	field						
+n	bay	indentation	of	a	shoreline							
+n	beach	shore										
+n	beam	long	thick	piece	of	wood,	metal	or	concrete			
+n	beam	light	beam,	ray								
+n	bean	edible	bean									
+n	bear	omnivorous	mammal									
+n	beard	facial	hair									
+n	beat	pulse,	pulsation,	heartbeat								
+n	bed	piece	of	furniture								
+n	bed	plot	of	ground	in	which	plants	are	growing			
+n	bedroom	sleeping	room									
+n	bee	insect										
+n	beef	meat										
+n	beer	alcoholic	beverage									
+n	beginning	first	part	or	section	of	something					
+n	behavior	conduct										
+n	belief	cognitive	content	held	as	TRUE						
+n	bell	doorbell,	buzzer									
+n	belly	abdomen,	stomach									
+n	belt	clothing	accessory									
+n	bench	long	seat									
+n	bench	workbench										
+n	beneficiary	recipient										
+n	benefit	welfare										
+n	benefit	performance	to	raise	money	for	a	charitable	cause			
+n	berry	small	edible	fruit								
+n	bet	wager										
+n	Bible	Christian	Bible,	Book,	Good	Book,	Holy	Scripture				
+n	motorcycle	motorbike,	bike									
+n	bill	beak										
+n	bill	circular,	handbill,	broadside,	broadsheet,	flier						
+n	bin	container										
+n	biography	life	story									
+n	biology	plant	and	animal	life							
+n	bird	warm-blooded	egg-laying	vertebrate								
+n	birthday	anniversary	of	the	day	someone	is	born				
+n	biscuit	cookie										
+n	bishop	clergyman										
+n	bitch	female	dog									
+n	bitch	unpleasant	woman									
+n	snack	bite,	collation,	light	meal							
+n	bite	sting,	insect	bite								
+n	black	total	darkness,	blackness								
+n	blackmail	extortion										
+n	blade	part	of	a	knife							
+n	blade	leaf	blade									
+n	blast	explosion										
+n	block	city	block									
+n	block	cube										
+n	blood											
+n	bloodshed	gore										
+n	blow	powerful	stroke									
+n	blow	reversal,	setback									
+n	blue	blueness,	color									
+n	blue	jean]	jeans,	denim	pants							
+n	board	gameboard										
+n	board	committee	having	supervisory	powers							
+n	board	plank,	stout	length	of	sawn	timber					
+n	boat	a	small	vessel	for	travel	on	water				
+n	body	organic	structure,	physical	structure							
+n	body	torso,	trunk									
+n	body	dead	body									
+n	bolt	type	of	screw	that	screws	into	a	nut			
+n	bolt	thunderbolt,	bolt	of	lightning							
+n	bomb	explosive	device									
+n	bomber	military	aircraft									
+n	bomber	person	who	plants	bombs							
+n	bond	shackle,	hamper									
+n	bond	bail										
+n	bond	alliance										
+n	bone	body	part									
+n	book	volume										
+n	book	written	work									
+n	boom	economic	prosperity									
+n	boot	footwear										
+n	border	boundary	line,	borderline,	delimitation							
+n	bottle	vessel										
+n	freighter	merchant	ship									
+n	bottom	underside,	undersurface									
+n	bow	arrow	launcher									
+n	bow	interlaced	ribbons									
+n	bowel	intestine,	gut									
+n	bowl	vessel										
+n	stadium	bowl,	arena,	sports	stadium							
+n	box	container										
+n	boy	young	male,	male	child							
+n	bracket	punctuation	mark									
+n	bracket	category										
+n	brain	encephalon,	grey	matter								
+n	brain	genius,	mastermind									
+n	brake	restraint	used	to	stop	a	vehicle					
+n	branch	limb										
+n	brand	make										
+n	bread	breadstuff,	food	made	from	dough						
+n	break	fracture										
+n	break	pause,	intermission,	interruption,	suspension							
+n	breakdown	equipment	failure									
+n	breakdown	mental	or	physical	crack-up							
+n	breakfast	morning	meal									
+n	breast	bosom,	tit									
+n	breeze	zephyr,	gentle	wind,	air,	gust						
+n	brewery											
+n	brick	block	of	baked	clay							
+n	bride	participant	in	a	marriage	ceremony						
+n	bridge	span										
+n	broadcast	transmitted	message									
+n	broccoli	vegetable										
+n	bronze	sculpture	made	of	bronze							
+n	brother	sibling,	brother	by	blood	or	adoption					
+n	brother	Brother,	monk									
+n	brother	comrade										
+n	brush	implement	with	hairs	or	bristles						
+n	bubble	hollow	globule	of	gas							
+n	bucket	pail										
+n	budget	sum	of	money	allocated							
+n	buffet	meal	set	out	on	a	counter					
+n	building	edifice										
+n	bulb	light	bulb									
+n	bulb	plant	bulb									
+n	bullet	slug,	projectile									
+n	bulletin	brief	report									
+n	bundle	sheaf										
+n	bureaucracy											
+n	burial	entombment,	inhumation,	interment								
+n	burn	injury										
+n	suntan	tan,	sunburn									
+n	bus	autobus,	coach									
+n	bush	shrub,	woody	plant								
+n	business	occupation,	job,	line	of	work,	line					
+n	business	commercial	enterprise,	business	enterprise							
+n	businessman											
+n	butter											
+n	butterfly	diurnal	insect									
+n	button	round	fastener	for	clothes							
+n	button	push	button									
+n	cabin	aircraft	cabin									
+n	cabin	small	wooden	house								
+n	cabinet	cupboard-like	repository									
+n	cabinet	persons	appointed	by	a	head	of	state				
+n	cable	strong	thick	rope								
+n	cafe	coffee	shop,	coffee	bar							
+n	cage	coop										
+n	cake	mixture	of	flour	and	sugar	and	eggs				
+n	calculation	computation,	figuring,	reckoning								
+n	calculation	deliberation,	planning									
+n	calendar	system	of	timekeeping								
+n	calf	young	cattle									
+n	call	brief	social	visit								
+n	call	phone	call,	telephone	call							
+n	call	cry,	outcry,	yell,	shout,	vociferation						
+n	call	birdcall,	birdsong,	song								
+n	calorie	kilocalorie,	nutritionist's	calorie								
+n	camera	photographic	camera									
+n	camp	forced	labor	prison								
+n	camp	summer	camp									
+n	camp	refugee	camp									
+n	clique	coterie,	ingroup,	inner	circle,	pack,	camp					
+n	campaign	military	campaign									
+n	safari	hunting	expedition									
+n	campaign	political	campaign									
+n	cancer	malignant	disease									
+n	candidate	campaigner,	nominee									
+n	candle	taper,	wax	light								
+n	cane	walking	stick									
+n	canvas	canvass,	fabric									
+n	cap	headdress										
+n	cap	bottle	top									
+n	capital	capital	letter,	upper	case							
+n	capital	seat	of	government								
+n	capital	wealth	in	the	form	of	money	or	property			
+n	capitalism											
+n	captain	skipper,	naval	officer								
+n	car	auto,	automobile,	motorcar								
+n	carbon	C,	atomic	number	6							
+n	card	playing	card									
+n	card	postcard										
+n	card	identity	card									
+n	card	calling	card,	visiting	card							
+n	card	menu,	bill	of	fare,	carte	du	jour,	carte			
+n	care	maintenance,	upkeep									
+n	care	attention,	aid,	tending								
+n	care	caution,	precaution,	forethought,	judiciousness							
+n	concern	fear,	anxious	feeling								
+n	career	calling,	vocation									
+n	carpet	rug,	carpeting									
+n	carriage	baby	carriage,	perambulator,	pram,	stroller						
+n	posture	bearing,	carriage									
+n	mail	carrier]	mailman,	postman,	letter	carrier						
+n	carrot	deep	orange	edible	root							
+n	cart	handcart,	pushcart									
+n	case	lawsuit,	suit,	cause,	causa							
+n	case	display	case,	showcase,	vitrine							
+n	case	instance,	example									
+n	cash	hard	cash,	hard	currency							
+n	cassette	container	holding	magnetic	tape							
+n	cast	plaster	cast,	plaster	bandage							
+n	cast	actors										
+n	castle	fortified	building									
+n	casualty	someone	injured	or	killed							
+n	cat	feline										
+n	catalogue	catalog										
+n	catch	hidden	drawback									
+n	category	general	concept									
+n	cathedral	large	church									
+n	cattle	cows,	bull									
+n	cause	causal	agent									
+n	cave	underground	enclosure									
+n	ceiling	surface	of	a	room							
+n	ceiling	cap,	upper	limit								
+n	celebration	festivity										
+n	cell	basic	structural	and	functional	unit	of	all	organisms			
+n	cell	jail	cell									
+n	cell	cubicle										
+n	cell	phone]	cellular	telephone								
+n	cellar	basement										
+n	cemetery	graveyard,	burial	site,	burial	ground						
+n	censorship	deletion	of	material	in	art	works					
+n	census	nose	count									
+n	center	building	dedicated	to	a	particular	activity					
+n	center	midpoint										
+n	center	middle,	heart									
+n	century	period	of	100	years							
+n	cereal	breakfast	food									
+n	ceremony	ceremonial	occasion									
+n	certificate											
+n	chain	series	of	rings	or	links						
+n	necklace	chain										
+n	chain	number	of	similar	establishments							
+n	chair	professorship										
+n	chair	seat										
+n	chalk	piece	of	chalk								
+n	challenge	questioning	a	statement								
+n	challenge	demanding	or	stimulating	situation							
+n	champagne	bubbly	wine									
+n	champion	champ,	title-holder									
+n	chance	probability										
+n	chance	luck,	fortune,	hazard								
+n	chance	opportunity										
+n	change	alteration,	modification									
+n	change	money	received	in	return							
+n	channel	TV	channel									
+n	channel	narrow	body	of	water,	canal						
+n	chaos	pandemonium,	bedlam,	topsy-turvyness								
+n	crevice	cranny,	crack,	fissure								
+n	chapter	subdivision	of	a	written	work						
+n	character	grapheme,	graphic	symbol,	written	symbol						
+n	character	fictional	character									
+n	character	good	repute									
+n	characteristic	distinguishing	quality									
+n	charge	billing										
+n	charge	accusation										
+n	charge	electric	charge									
+n	charity	gift										
+n	charity	institution	set	up	to	provide	help	for	the	needy		
+n	charm	good	luck	charm								
+n	chart	map	for	navigation								
+n	chart	display	of	information								
+n	charter	document										
+n	chauvinist	prejudiced	person									
+n	check	chess	move									
+n	check	confirmation,	verification									
+n	check	tab,	restaurant	bill								
+n	check	check	mark,	tick								
+n	cheek	boldness,	nerve,	brass,	face							
+n	cheek	side	of	the	face							
+n	cheek	impudence,	impertinence									
+n	cheese	food										
+n	chemical											
+n	chemistry	chemical	science									
+n	cheque	check,	bank	check								
+n	cherry	fruit										
+n	chest	chest	of	drawers,	bureau,	dresser						
+n	chest	thorax,	pectus,	part	of	the	human	torso				
+n	chicken	domestic	fowl									
+n	chicken	wimp,	crybaby									
+n	chief	foreman,	boss									
+n	child	kid										
+n	childhood											
+n	chimney	flue										
+n	chin	lower	jaw									
+n	chip	microchip										
+n	chip	crisp,	potato	chip								
+n	chip	bit,	flake,	fleck,	scrap,	small	fragment					
+n	chocolate	sweet	food									
+n	choice	option,	alternative									
+n	chord	combination	of	notes								
+n	chorus	choir,	singing	group								
+n	church	church	building									
+n	cigarette	butt,	fag									
+n	cinema	movie	theater,	theater								
+n	circle	geometric	figure									
+n	circulation	movement	through	a	circuit							
+n	circumstance	context										
+n	citizen	member	of	a	state							
+n	city	metropolis,	urban	center								
+n	civilian	nonmilitary	citizen									
+n	civilization	society	in	an	advanced	state						
+n	claim	demand										
+n	claim	assertion										
+n	clash	friction,	conflict									
+n	class	social	class,	socio-economic	class							
+n	class	form,	grade									
+n	classroom	schoolroom										
+n	corpse	cadaver,	remains									
+n	clay	fine-grained	soil									
+n	clearance	headroom										
+n	clerk	clerical	worker									
+n	salesperson	salesclerk,	shop	clerk								
+n	climate	clime,	weather									
+n	clinic	medical	establishment									
+n	clock	timepiece										
+n	clothes	apparel,	wearing	apparel,	dress							
+n	cloud											
+n	club	bat,	stout	stick	that	is	larger	at	one	end		
+n	club	playing	card	in	the	minor	suit	of	clubs			
+n	club	cabaret,	nightclub,	nightspot								
+n	club	society,	guild,	gild,	lodge,	order						
+n	clue	cue,	evidence,	hint								
+n	cluster	bunch,	clump									
+n	coach	private	instructor,	tutor								
+n	coal	fossil	fuel									
+n	coalition	coalescence,	conglutination									
+n	coast	seashore,	seacoast,	sea-coast								
+n	coat	garment										
+n	coat	coating,	thin	layer								
+n	code	coding	system	for	brief	or	secret	messages				
+n	code	computer	code									
+n	coffee	beverage										
+n	coffin	casket										
+n	coin	money										
+n	coincidence	happenstance										
+n	cold	coldness,	low	temperature								
+n	cold	common	cold									
+n	collar	harness										
+n	colleague	co-worker,	fellow	worker								
+n	collection	aggregation,	accumulation,	assemblage								
+n	college	institution	of	higher	education							
+n	colon	part	of	the	large	intestine						
+n	colon	punctuation	mark									
+n	colony	politically	controlled	country								
+n	color	hue										
+n	column	pillar,	support									
+n	column	linear	array	of	numbers							
+n	coma	deep	unconsciousness									
+n	combination	things	occurring	together								
+n	comedy	humorous	drama									
+n	comet											
+n	comfort	consolation,	solace									
+n	comfort	comfortableness										
+n	comfort	ease,	financial	freedom								
+n	command	control,	mastery									
+n	command	authoritative	instruction									
+n	comment	remark										
+n	gossip	scuttlebutt										
+n	commerce	commercialism,	mercantilism									
+n	commission	deputation,	delegation									
+n	commission	fee										
+n	commitment	allegiance,	loyalty,	dedication								
+n	committee	commission										
+n	communication	something	communicated	between	people							
+n	communist	Marxist										
+n	community	residential	district,	residential	area							
+n	compact	compact	car									
+n	company	troupe										
+n	company	companionship,	fellowship,	society								
+n	comparison											
+n	compartment	small	space	or	subdivision	for	storage					
+n	compensation	recompense,	payment									
+n	competence	competency										
+n	competition	contention,	rivalry									
+n	competition	contest										
+n	compliance	conformity,	abidance									
+n	complication	complex	situation									
+n	composer	music	composer									
+n	compound	chemical	compound									
+n	compromise	allowance,	accommodation	with	concessions							
+n	computer	computing	machine									
+n	computing	computer	science									
+n	concentration	strength	of	solution								
+n	concentration	engrossment,	absorption,	immersion								
+n	concept	conception,	construct									
+n	conception	fertilization										
+n	concern	interest										
+n	concern	feeling	of	sympathy								
+n	concert	musical	performance									
+n	concession	point	conceded									
+n	conclusion	ending,	finish									
+n	concrete	strong	building	material								
+n	condition	circumstance										
+n	condition	precondition,	stipulation									
+n	terms	condition										
+n	condition	status,	state									
+n	conductor	person	who	collects	fares							
+n	conductor	substance	that	readily	transmits	electricity	or	heat				
+n	conference	meeting										
+n	confession	admission	of	misdeeds								
+n	confidence	feeling	of	trust								
+n	conflict	incompatibility	of	dates	or	events						
+n	conflict	state	of	opposition	between	persons	or	ideas				
+n	confrontation	clash										
+n	confusion	mix-up										
+n	conglomerate	empire,	group	of	companies							
+n	congress	national	legislative	assembly								
+n	connection	shifting	from	one	transportation	to	another					
+n	connection	person	who	is	influential							
+n	connection	link,	connectedness									
+n	conscience	scruples,	moral	sense								
+n	consciousness	alert	cognitive	state								
+n	consensus	agreement										
+n	conservation	preservation,	environmental	management								
+n	consideration	thoughtfulness										
+n	consideration	careful	thought									
+n	conspiracy	cabal,	plot									
+n	constellation	configuration	of	stars								
+n	constituency	body	of	voters								
+n	constitution	composition,	makeup									
+n	constitution	fundamental	law									
+n	constraint	restraint,	physical	constraint								
+n	consultation	discussion	to	consider	a	point						
+n	consumer	person	who	uses	goods	or	services					
+n	consumption	ingestion										
+n	contact	close	interaction									
+n	contact	touch										
+n	contact	middleman										
+n	contemporary	coeval										
+n	contempt	disdain,	scorn,	despite,	lack	of	respect					
+n	content	capacity										
+n	contest											
+n	context	linguistic	context,	context	of	use						
+n	continuation	lengthiness,	prolongation,	extension								
+n	contract	binding	agreement	between	two	or	more	persons				
+n	contraction	muscular	contraction									
+n	contradiction	contradiction	in	terms								
+n	contrary	exact	opposition									
+n	contrast	opposition	or	dissimilarity								
+n	contribution	donation										
+n	control	restraint,	discipline	in	personal	activities						
+n	control	dominance										
+n	convenience	appliance,	contraption,	gadget,	gizmo							
+n	convention	custom										
+n	convention	large	formal	assembly								
+n	conversation	talk										
+n	conviction	strong	belief									
+n	cook											
+n	cooperation	group	action,	collaboration								
+n	copper	Cu,	metal									
+n	copy	secondary	representation	of	an	original						
+n	copyright	right	of	publication								
+n	cord	corduroy,	fabric									
+n	core	center	of	an	object							
+n	corn	edible	corn									
+n	corner	point	where	three	areas	or	surfaces	meet				
+n	corner	recess,	recession,	niche								
+n	correction	rectification										
+n	correlation											
+n	correspondence	exchange	of	letters								
+n	corruption	bribery										
+n	costume	attire	for	special	occasions							
+n	cottage	bungalow,	small	house								
+n	cotton	cotton	cloth,	fabric								
+n	council	administrative	body									
+n	counter	business	table									
+n	country	state,	nation,	land								
+n	country	rural	area									
+n	countryside	rural	regions									
+n	coup	coup	d'etat,	putsch,	takeover							
+n	couple	twosome,	duo,	duet								
+n	courage	bravery,	braveness									
+n	course	course	of	action								
+n	course	course	of	study,	course	of	instruction,	class				
+n	course	path,	track									
+n	court	courtyard										
+n	court	tribunal,	judicature									
+n	court	royal	court									
+n	courtesy	considerate	act									
+n	cousin	first	cousin									
+n	cover	blanket										
+n	cover	screen,	concealment									
+n	coverage	reporting,	reportage									
+n	coverage	insurance	coverage									
+n	cow	bovine										
+n	wisecrack	crack,	quip,	witty	remark							
+n	crack	cleft,	crevice,	fissure								
+n	cunning	craftiness,	guile,	slyness,	wiliness							
+n	craft	craftsmanship,	workmanship									
+n	craftsman	artisan										
+n	crash	wreck,	serious	accident								
+n	crash	collapse,	financial	decline								
+n	cream	ointment,	emollient,	balm								
+n	cream	fat	part	of	milk							
+n	creation	creative	activity									
+n	credibility	credibleness,	believability									
+n	credit	course	credit									
+n	credit	recognition										
+n	credit	deferred	payment									
+n	credit	money	available	for	a	client	to	borrow				
+n	credit	card]	plastic	money								
+n	creed	credo,	system	of	principles	or	beliefs					
+n	crew	men	who	man	a	ship	or	aircraft				
+n	cricket	insect										
+n	crime	law-breaking										
+n	criminal	felon,	crook,	outlaw,	malefactor							
+n	crisis	unstable	situation									
+n	critic	one	who	offers	opinions	on	art					
+n	criticism	critique,	unfavorable	judgment								
+n	crop	harvest										
+n	cross	hybrid										
+n	cross	wooden	structure									
+n	crosswalk	crossing,	crossover									
+n	crossing	intersection,	crossroad									
+n	crowd	large	number	of	things	or	people					
+n	crown	diadem,	jewelled	headdress								
+n	cruelty	mercilessness,	pitilessness,	ruthlessness								
+n	crutch	staff	used	as	walking	aid						
+n	crystal	fancy	glassware									
+n	crystal	quartz	glass,	quartz,	vitreous	silica						
+n	cucumber	cuke,	green	salad	vegetable							
+n	culture	product	of	cultivating	micro-organisms							
+n	culture	attitudes	and	behavior								
+n	culture	civilization,	civilisation									
+n	culture	polish,	refinement									
+n	cup	small	open	container	used	for	drinking					
+n	cup	cupful										
+n	cupboard	closet										
+n	currency	money										
+n	current	electric	current									
+n	curriculum	course	of	study,	academic	program						
+n	curtain	drape										
+n	curve	bend,	curved	road	or	river	segment					
+n	curve	line	on	a	graph							
+n	curve	curved	shape									
+n	cushion											
+n	custody	holding	by	the	police							
+n	customer	client,	patron									
+n	snub	cold	shoulder									
+n	cut	reduction	of	amount	or	number						
+n	cut	share	of	the	profits							
+n	cut	gash,	slash,	wound								
+n	cutting	clipping,	newspaper	clipping								
+n	cycle	periodically	repeated	sequence								
+n	cylinder	shape										
+n	dairy	dairy	farm									
+n	damage	harm,	impairment									
+n	danger	condition	of	being	susceptible	to	harm					
+n	dark	darkness										
+n	date	sweet	edible	fruit								
+n	date	appointment,	engagement									
+n	date	escort										
+n	date	day	of	the	month							
+n	daughter	girl,	offspring									
+n	day	twenty-four	hours,	solar	day							
+n	daylight											
+n	deadline											
+n	deal	act	of	distributing	playing	cards						
+n	deal	agreement,	bargain									
+n	dealer	trader										
+n	death	decease,	expiry,	departure	from	life						
+n	debate	disputation,	public	debate								
+n	debt	money,	goods	or	services	owed						
+n	decade	decennary,	decennium,	period	of	10	years					
+n	decay	decomposition,	rotting									
+n	decay	radioactive	decay									
+n	deck	floor	on	a	ship							
+n	deck	pack	of	cards,	deck	of	cards					
+n	declaration	statement										
+n	decoration	ornament,	ornamentation									
+n	decrease	lessening,	drop-off									
+n	deer	forest	animal									
+n	default	default	option									
+n	nonremittal	default,	nonpayment									
+n	defeat	frustration,	feeling	of	defeat							
+n	defendant	suspect										
+n	deficiency	insufficiency,	inadequacy									
+n	deficit	shortage,	shortfall									
+n	definition	concise	explanation									
+n	degree	grade,	level,	position	on	a	scale					
+n	degree	seriousness	of	something								
+n	degree	academic	degree									
+n	degree	unit	of	temperature								
+n	delay	holdup										
+n	delegate											
+n	delivery	birth										
+n	demand	urgent	or	peremptory	request							
+n	demand	ability	and	desire	to	purchase	goods	and	services			
+n	democracy											
+n	demonstration	public	display									
+n	demonstration	demo										
+n	demonstrator	protester										
+n	denial	disaffirmation										
+n	density	denseness										
+n	dentist	tooth	doctor									
+n	departure	going	away									
+n	dependence	addiction										
+n	deposit	sediment										
+n	deposit	down	payment									
+n	deposit	bank	deposit									
+n	depression	natural	depression,	geological	formation							
+n	depression	low,	low	pressure								
+n	depression	slump,	economic	crisis								
+n	depression	depressive	disorder,	clinical	depression							
+n	deprivation	want,	neediness									
+n	deputy	surrogate										
+n	descent	movement	downward									
+n	lineage	descent										
+n	desert	arid	land									
+n	design	preliminary	sketch,	outline								
+n	design	invention,	innovation									
+n	architect	designer	of	buildings								
+n	designer	couturier,	fashion	designer								
+n	designer	interior	designer,	interior	decorator							
+n	desire	feeling										
+n	desk	furniture										
+n	despair	desperate	feeling									
+n	destruction	demolition,	wipeout									
+n	detail	particular,	item									
+n	detective	investigator,	police	detective								
+n	detector	sensor										
+n	development	land	developed	for	some	purpose						
+n	development	growth,	growing,	maturation								
+n	deviation	diversion,	digression,	deflection								
+n	diagnosis											
+n	diagram	drawing										
+n	dialect	idiom,	special	language								
+n	dialogue	lines	spoken	in	drama	or	fiction					
+n	dialogue	dialog,	conversation									
+n	diameter	line	through	the	center	of	a	circle				
+n	diamond	gem										
+n	dictionary	lexicon										
+n	diet	dieting										
+n	difference	dispute,	difference	of	opinion,	conflict						
+n	difference	remainder,	number	that	remains	after	subtraction					
+n	difficulty	trouble										
+n	difficulty	difficultness										
+n	dignity	self-respect,	self-esteem,	self-regard								
+n	dilemma	quandary										
+n	dimension	magnitude										
+n	dinner	supper										
+n	diplomat	official	engaged	in	international	negotiations						
+n	direction	course,	orientation									
+n	direction	guidance,	counsel									
+n	director	conductor,	music	director								
+n	director	member	of	a	board	of	directors					
+n	directory	alphabetical	list	of	names	and	addresses					
+n	disability	disablement,	handicap,	impairment								
+n	disadvantage											
+n	disagreement	dissension,	dissonance,	discord								
+n	disappointment	letdown										
+n	disaster	calamity,	catastrophe,	tragedy								
+n	discipline	correction,	punishment									
+n	disco	discotheque										
+n	discount	price	reduction,	deduction								
+n	sermon	preaching,	discourse									
+n	discovery	breakthrough,	find									
+n	discrimination	unfair	treatment									
+n	disease											
+n	dish	container										
+n	dish	dish	aerial,	dish	antenna							
+n	dish	item	of	prepared	food							
+n	disk	disc,	flat	circular	plate							
+n	dismissal	pink	slip									
+n	disorder	disorderliness,	mess									
+n	display	exhibit,	showing									
+n	disposition	temperament										
+n	distance	property	created	by	the	space	between	two	objects	or	points	
+n	distance	aloofness										
+n	distortion	misrepresenting										
+n	distortion	optical	aberration									
+n	distributor	marketing	company									
+n	district	territory,	territorial	dominion								
+n	disturbance	disruption,	commotion,	stir								
+n	dividend	bonus										
+n	division	arithmetic	operation									
+n	division	army	unit									
+n	division	administrative	unit									
+n	divorce											
+n	doctor	doc,	physician,	MD								
+n	doctor	Dr.,	person	who	holds	Ph.D.	degree					
+n	document	written	document,	papers								
+n	dog	domestic	dog									
+n	hotdog	frankfurter										
+n	doll	toy										
+n	dollar	dollar	bill,	buck								
+n	dolphin											
+n	dome	hemispherical	roof									
+n	domination	mastery										
+n	donor	organ	donor									
+n	door	swinging	or	sliding	barrier							
+n	dose	portion	of	medicine								
+n	double	twice	the	quantity								
+n	double	stunt	man,	stand-in	per	person						
+n	doubt	question,	dubiousness,	doubtfulness								
+n	doubt	uncertainty,	incertitude,	dubiety,	doubtfulness							
+n	dough	flour	mixture									
+n	dozen	twelve										
+n	draft	conscription,	selective	service								
+n	draft	draft	copy,	preliminary	version							
+n	draft	draught,	air	current								
+n	dragon	mythical	creature									
+n	drain	drainpipe,	waste	pipe								
+n	drama	dramatic	event									
+n	drawer	part	of	a	piece	of	furniture					
+n	drawing	lottery										
+n	drawing	representation,	artwork									
+n	dream	dreaming										
+n	dream	ambition,	aspiration									
+n	dressing	medical	dressing									
+n	drift	something	heaped	up	by	wind	or	water				
+n	drift	gradual	departure	from	a	course						
+n	drill	training	of	soldiers	to	march						
+n	drill	tool	with	a	sharp	point						
+n	drunkenness											
+n	drink	beverage,	drinkable,	potable								
+n	drive	ride,	journey									
+n	drive	driveway										
+n	drive	high	motivation									
+n	driver	operator	of	a	motor	vehicle						
+n	drop	cliff,	drop-off									
+n	drop	bead,	pearl									
+n	drug	substance	used	as	a	medicine	or	narcotic				
+n	drum	tympan,	percussion	instrument								
+n	drum	barrel										
+n	duck	bird										
+n	duke	nobleman										
+n	duration											
+n	dust											
+n	duty	work	that	you	are	obliged	to	perform				
+n	duty	tariff										
+n	eagle	bird										
+n	eagle	emblem	representing	power								
+n	ear	sense	organ									
+n	earthquake	quake,	seism									
+n	east	East,	Orient									
+n	east	due	east,	E								
+n	echo	reverberation,	sound	reflection								
+n	economics	economic	science									
+n	economist	economic	expert									
+n	economy	thriftiness,	frugality									
+n	economy	economic	system									
+n	edge	sharp	side	formed	by	the	intersection	of	two	surfaces	of	an
+n	edge	slight	competitive	advantage								
+n	edition	publication										
+n	education	instruction,	teaching,	pedagogy								
+n	education	knowledge	acquired	by	learning							
+n	effect	impression										
+n	effect	consequence,	outcome,	result								
+n	effort	attempt,	endeavor									
+n	egg	eggs,	food									
+n	ego	egotism,	self-importance									
+n	elbow	elbow	joint									
+n	election	vote										
+n	electorate											
+n	electricity											
+n	electron	elementary	particle									
+n	electronics	branch	of	physics								
+n	element	component,	constituent									
+n	element	chemical	element									
+n	elephant	pachyderm										
+n	elite	elite	group									
+n	embarrassment	shame										
+n	embassy											
+n	embryo	conceptus,	fertilized	egg								
+n	emergency	exigency,	pinch,	crisis								
+n	emotion	strong	feeling									
+n	emphasis	accent										
+n	empire	monarchy										
+n	employee	worker										
+n	employer											
+n	employment											
+n	end	goal										
+n	end	conclusion,	close,	closing,	ending							
+n	end	boundary										
+n	enemy	hostile	people									
+n	energy	vigor										
+n	engagement	betrothal										
+n	engine	motor										
+n	engine	locomotive										
+n	engineer	applied	scientist,	technologist								
+n	entertainment	amusement										
+n	enthusiasm	lively	interest									
+n	entitlement	right	granted	by	law	or	contract					
+n	entry	entrance,	entranceway,	entryway								
+n	entry	submission										
+n	envelope											
+n	environment	environs,	surroundings									
+n	episode	installment,	part	of	a	broadcast	serial					
+n	equation	mathematical	statement									
+n	equilibrium											
+n	equipment											
+n	era	epoch										
+n	erosion											
+n	error	mistake,	fault									
+n	error	erroneous	belief									
+n	essay	literary	composition									
+n	perfume	essence										
+n	estate	everything	you	own								
+n	estimate	estimation,	approximation									
+n	estimate	esteem,	respect									
+n	estimate	appraisal	of	value								
+n	estimate	likely	cost									
+n	ethics	moral	philosophy									
+n	Europe	continent										
+n	evening	eve										
+n	evolution	phylogeny,	phylogenesis									
+n	examination	test										
+n	example	illustration,	instance,	representative								
+n	example	exemplar,	model,	good	example							
+n	excavation	dig,	archeological	site								
+n	exception	instance	that	does	not	conform	to	a	rule			
+n	excess	surplus										
+n	exchange	act	of	changing	one	thing	for	another				
+n	exchange	mutual	expression	of	views							
+n	excitement	agitation,	turmoil,	upheaval,	hullabaloo							
+n	excitement	excitation,	fervor,	mental	state							
+n	excuse	alibi,	exculpation,	self-justification								
+n	execution	capital	punishment,	death	penalty							
+n	executive	branch	of	government								
+n	executive	administrator										
+n	exemption	immunity										
+n	exercise	exercising,	physical	exercise								
+n	exhibition	exposition,	expo									
+n	exile	deportation,	expatriation,	expulsion								
+n	exit	issue,	outlet,	way	out							
+n	expansion	enlargement										
+n	expectation	anticipation										
+n	expedition											
+n	expenditure	outgo,	outlay									
+n	experience	accumulation	of	knowledge	or	skill						
+n	experiment	experimentation										
+n	expert											
+n	expertise	expertness										
+n	explanation											
+n	exploration	geographic	expedition									
+n	explosion	detonation,	blowup									
+n	exposure	vulnerability	to	the	elements							
+n	expression	saying,	locution									
+n	extension	wing,	annex,	addition	to	a	building					
+n	extension	telephone	extension									
+n	extension	delay	of	deadline								
+n	extent	point	or	degree	to	which	something	extend				
+n	extraterrestrial	alien										
+n	extreme	highest	degree									
+n	eye	oculus,	optic,	organ	of	sight						
+n	eyebrow	brow										
+n	facade	frontage,	frontal									
+n	face	human	face									
+n	facility	installation,	building	or	place	providing	a	particular	service			
+n	facility	adeptness,	adroitness,	deftness,	quickness							
+n	fact											
+n	factor	anything	that	contributes	causally	to	a	result				
+n	factory	mill,	manufacturing	plant,	manufactory							
+n	failure	loser,	nonstarter,	unsuccessful	person							
+n	failure	lack	of	success								
+n	failure	bankruptcy										
+n	fair	traveling	show,	carnival,	funfair							
+n	fair	promotional	gathering	of	producers							
+n	fairy	faery,	faerie,	sprite,	magical	creature						
+n	faith	religion,	religious	belief								
+n	fall	drop,	free	descent								
+n	descent	declivity,	decline,	fall								
+n	fall	autumn										
+n	twilight	dusk,	nightfall									
+n	fame	celebrity,	renown									
+n	family	folk,	kinfolk,	kinsfolk,	kin							
+n	fan	buff,	devotee,	lover								
+n	fantasy	illusion,	phantasy,	fancy								
+n	fare	transportation	fee									
+n	farm											
+n	farmer											
+n	fashion	latest	style,	rage,	fad							
+n	fat	excess	bodily	weight								
+n	fat	soft	greasy	substance								
+n	father	male	parent									
+n	fault	responsibility	for	a	bad	situation						
+n	fault	defect,	flaw									
+n	favor	kind	act,	gracious	act							
+n	favour	act	of	gracious	kindness							
+n	favourite	darling,	favorite,	pet								
+n	fax	facsimile										
+n	fear	fearfulness,	fright									
+n	feast	banquet										
+n	feather	plume,	plumage									
+n	feature	facial	feature									
+n	feature	characteristic										
+n	federation	confederation,	confederacy,	political	union							
+n	fee	fixed	charge									
+n	feedback	response										
+n	feeling	intuitive	feeling									
+n	feeling	touch,	touch	sensation								
+n	feminist	women's	rightist									
+n	fence	barrier										
+n	ferry	ferryboat										
+n	festival											
+n	fever	high	body	temperature								
+n	few	indefinite	but	relatively	small	number						
+n	fibre	fiber										
+n	fiction	literary	work									
+n	field	piece	of	land								
+n	field	playing	field,	athletic	field							
+n	fig	fruit										
+n	fight	fighting,	combat									
+n	figure	design,	pattern									
+n	figure	amount	of	money	expressed	numerically						
+n	file	steel	hand	tool								
+n	file	file	cabinet,	filing	cabinet							
+n	file	data	file									
+n	file	single	file,	Indian	file							
+n	film	thin	coating									
+n	film	photographic	film									
+n	film	cinema										
+n	filter	device	that	removes	something	small						
+n	final	final	examination									
+n	finance	management	of	money								
+n	finger	terminal	members	of	the	hand						
+n	fireplace	fire										
+n	fire	attack,	flak,	flack,	blast							
+n	fire	ardor,	fervor,	fervency,	fervidness							
+n	fire	flame										
+n	firefighter	fireman										
+n	firm	house,	business	firm,	company							
+n	fish	cold-blooded	aquatic	vertebrates								
+n	fish	flesh	of	fish	used	as	food					
+n	fisherman	fisher										
+n	fist	clenched	fist									
+n	convulsion	fit,	paroxysm									
+n	fitness	physical	fitness,	good	shape							
+n	fixture	object	firmly	fixed	in	place						
+n	flag	emblem										
+n	flash	photoflash,	flashbulb									
+n	flash	flare,	burst	of	light							
+n	flash	heartbeat,	instant,	jiffy,	split	second						
+n	flat	apartment										
+n	flat	flat	tire									
+n	flavor	savor,	smack,	tang,	taste	experience						
+n	fleet	group	of	ships								
+n	flesh	body	tissue									
+n	flesh	pulp,	part	of	a	fruit						
+n	flight	escape										
+n	flight	trip	by	plane								
+n	flight	flight	of	stairs								
+n	flock	group	of	animals								
+n	flood	inundation										
+n	floor	flooring										
+n	flour	powdery	foodstuff									
+n	flower	plant	cultivated	for	its	blooms	or	blossoms				
+n	flu	influenza,	viral	disease								
+n	fluctuation	wavering,	instability									
+n	fluid											
+n	fly	insect										
+n	fog	daze,	haze,	confusion								
+n	fog	water	vapor									
+n	fold	crease,	crimp									
+n	folk	music]	ethnic	music								
+n	folk	folks,	common	people								
+n	folklore	unwritten	literature	or	songs							
+n	food	nutrient										
+n	fool	moron										
+n	fool	clown,	jester									
+n	foot	human	foot									
+n	foot	ft,	linear	unit	of	length	equal	to	12	inches		
+n	football	football	game									
+n	force	violence,	act	of	aggression							
+n	force	forcefulness,	strength,	physical	energy,	intensity						
+n	force	military	unit,	military	force,	military	group					
+n	forecast	prognosis										
+n	forehead											
+n	foreigner	alien,	noncitizen									
+n	forest	woodland,	timberland,	timber								
+n	forestry	science	of	planting	and	caring	for	forests				
+n	fork	cutlery										
+n	form	shape,	pattern									
+n	form	printed	document	with	spaces	in	which	to	write			
+n	form	variant,	strain									
+n	format	formatting,	data	format,	data	formatting						
+n	formation	spatial	arrangement									
+n	formula	statement	of	a	fundamental	principle						
+n	fortune	luck										
+n	fortune	wealth,	prosperity									
+n	fate	destiny,	fortune,	luck,	lot,	circumstances						
+n	forum	public	meeting									
+n	fossil	plant	or	animal	remains							
+n	foundation	institution	supported	by	an	endowment						
+n	foundation	basis										
+n	fountain	water	dispenser,	font								
+n	fox	animal										
+n	fraction	quotient										
+n	fragment	broken-off	piece									
+n	skeleton	frame,	bones	and	cartilages							
+n	franchise	dealership										
+n	fraud	fraudulence,	dupery,	hoax								
+n	imposter	pretender,	fake,	faker,	sham,	fraud						
+n	freckle	skin	pigment									
+n	freedom	condition	of	being	free							
+n	freight	transportation										
+n	frequency	frequence,	oftenness									
+n	freshman	first	year	student								
+n	refrigerator	fridge										
+n	friend	acquaintance										
+n	friendship											
+n	frog	toad,	toad	frog								
+n	front	the	side	that	is	seen	or	that	goes	first		
+n	front	battlefront,	front	line								
+n	front	atmospheric	phenomenon	at	the	boundary	between	two	air	masses		
+n	fruit	ripened	reproductive	body	of	a	seed	plant				
+n	frustration											
+n	fuel	energy										
+n	fun	merriment,	playfulness									
+n	function	affair,	occasion,	social	occasion							
+n	function	mathematical	function									
+n	fund	monetary	fund									
+n	funeral	ceremony										
+n	fur	pelt,	hairy	coat	of	a	mammal					
+n	furniture	piece	of	furniture								
+n	fuss	bustle,	hustle,	flurry,	ado,	stir						
+n	future	hereafter,	futurity,	time	to	come						
+n	galaxy	extragalactic	nebula									
+n	gallery	art	gallery									
+n	gallon	gal,	liquid	unit								
+n	game	contest	with	rules	to	determine	a	winner				
+n	game	amusement	or	pastime								
+n	gap	crack,	narrow	opening								
+n	garage	building										
+n	garage	car	repair	shop								
+n	garbage	refuse,	waste									
+n	garden											
+n	garlic	aromatic	bulb	used	as	seasoning						
+n	gas	pedal]	accelerator									
+n	gas	state	of	matter	distinguished	from	solid	and	liquid			
+n	gas	gasoline,	petrol									
+n	gate	door										
+n	gear	gear	mechanism									
+n	gene	segment	of	DNA								
+n	general	full	general,	officer								
+n	generation	coevals,	contemporaries									
+n	brilliance	brilliance										
+n	gentleman											
+n	geography											
+n	gesture	motion	of	hands	or	body						
+n	ghost	visible	disembodied	soul								
+n	ghostwriter	ghost										
+n	giant	hulk,	very	large	person							
+n	gift	present										
+n	girlfriend	lady	friend									
+n	girl	female	child									
+n	glacier	mass	of	ice								
+n	glance	glimpse,	quick	look								
+n	glass	drinking	glass									
+n	glass	looking	glass,	mirror								
+n	glass	brittle	transparent	solid								
+n	glasses	eyeglasses,	spectacles									
+n	glimpse	brief	view									
+n	gloom	gloominess,	glumness,	atmosphere	of	depression						
+n	glory	prestige										
+n	glove	handwear										
+n	glow	steady	even	light								
+n	glue	adhesive										
+n	goal	successful	attempt	at	scoring							
+n	goal	sports	equipment									
+n	goal	finish,	destination									
+n	goalkeeper	goalie,	goaltender									
+n	goat	domestic	animal									
+n	god	deity,	divinity									
+n	gold	Au,	atomic	number	79							
+n	golf	golf	game									
+n	good	commodity,	trade	good								
+n	good	goodness,	moral	excellence								
+n	government	authorities,	regime									
+n	governor	head	of	a	state							
+n	gown	robe	for	ceremonial	occasions							
+n	grace	beauty	of	movement								
+n	grace	good	will,	kindness								
+n	gradient	grade	of	a	slope							
+n	graduate	alumnus,	alumna,	alum,	grad							
+n	grain	food	grain,	cereal								
+n	grain	small	hard	particle								
+n	grammar											
+n	grandfather	gramps,	grandad									
+n	grandmother	grandma										
+n	grant	monetary	aid									
+n	graph											
+n	graphics											
+n	grass	pot,	dope,	weed,	Mary	Jane,	marijuana					
+n	grass	lawn										
+n	grave	tomb										
+n	gravel	crushed	rock									
+n	gravity	graveness,	sobriety,	soberness,	somberness							
+n	gravity	gravitation,	gravitational	force								
+n	green	greenness,	viridity									
+n	green	Green,	environmentalist									
+n	greeting	salutation										
+n	grief	heartache,	heartbreak,	brokenheartedness								
+n	grimace	face,	contorted	facial	expression							
+n	grip	grasp,	controlling	influence								
+n	traction	grip,	adhesive	friction								
+n	ground	land,	dry	land,	earth,	solid	ground,	terra	firma			
+n	grounds	evidence,	basis	for	belief	or	disbelief					
+n	growth	vegetation	that	has	grown							
+n	growth	increase,	increment									
+n	growth	abnormal	proliferation	of	tissue							
+n	guarantee	warrant,	warrantee									
+n	guard	bodyguard										
+n	guard	watchman										
+n	guerrilla	insurgent										
+n	guest	invitee										
+n	guide	guidebook										
+n	guide	someone	who	shows	the	way						
+n	guideline	guidepost,	rule	of	thumb							
+n	guilt	guiltiness										
+n	guitar	stringed	instrument									
+n	gun	weapon										
+n	gutter	trough,	channel	for	collecting	rainwater						
+n	habit	established	custom									
+n	habitat	home	ground									
+n	hair											
+n	hair	natural	body	covering								
+n	haircut	hairstyle										
+n	half	one-half,	one	of	two	equal	parts					
+n	hall	large	building	for	meetings	or	entertainment					
+n	hall	large	room	for	gatherings	or	entertainment					
+n	hall	hallway										
+n	dorm	dormitory,	residence	hall								
+n	hallway	passage,	corridor									
+n	halt	freeze,	interruption,	temporary	suspension							
+n	ham	meat										
+n	hammer	hand	tool									
+n	hand	helping	hand									
+n	hand	manus,	mitt,	paw								
+n	hand	round	of	applause								
+n	hand	deal,	cards	held	in	a	game	by	a	player		
+n	hand	hired	hand,	hired	man							
+n	harbor	seaport										
+n	hardship	adversity										
+n	hardware	computer	hardware									
+n	harmony	concord,	harmoniousness,	compatibility								
+n	harmony	musical	harmony									
+n	harvest	harvest	time									
+n	hat	headdress										
+n	hay	grass	mowed	and	cured							
+n	head	obverse	side	of	a	tail						
+n	head	body	part									
+n	head	chief,	top	dog,	person	who	is	in	charge			
+n	headline	newspaper	headline									
+n	headquarters	central	office,	main	office							
+n	health	wellness,	healthy	state	of	wellbeing						
+n	health	general	condition	of	body	and	mind					
+n	heart	playing	card	in	the	major	suit	of	hearts			
+n	heart	bodily	organ									
+n	heart	locus	of	feelings	and	intuitions						
+n	heart	figure	with	rounded	sides	curving	inward	at	the	top		
+n	heat	heating	system									
+n	heat	passion										
+n	heaven	paradise,	place	of	complete	bliss						
+n	hedge											
+n	heel	back	of	the	foot							
+n	height	altitude										
+n	heir	inheritor,	heritor									
+n	helicopter	chopper										
+n	hell	infernal	region,	netherworld								
+n	helmet	headgear										
+n	help	aid,	assist,	assistance								
+n	help	assistant,	helper,	supporter								
+n	hemisphere	cerebral	hemisphere									
+n	hemisphere	half	of	the	terrestrial	globe						
+n	hen	female	chicken									
+n	herb	cooking	herb									
+n	herd	group	of	cattle								
+n	sandwich	bomber,	grinder,	hero,	hoagie,	sub						
+n	hero	person	with	exceptional	courage							
+n	heroin	drug										
+n	hierarchy	power	structure,	pecking	order							
+n	highlight	high	spot									
+n	hill	elevation	of	the	land							
+n	hip	either	side	of	the	body	below	the	waist	and	above	the
+n	historian											
+n	history	discipline	that	interprets	past	events						
+n	history	account,	chronicle,	story								
+n	history	the	aggregate	of	past	events						
+n	custody	detention,	detainment,	hold								
+n	hole	opening	into	or	through	something						
+n	mess	difficult	situation,	fix,	jam,	muddle,	pickle					
+n	holiday	vacation										
+n	holiday	day	on	which	work	is	suspended					
+n	home	dwelling,	domicile,	abode,	habitation							
+n	home	nursing	home,	rest	home							
+n	honey	sweet	food									
+n	honor	honorableness										
+n	honor	laurels										
+n	hook	bent	implement									
+n	bait	come-on,	lure,	sweetener,	hook							
+n	hope	wish,	desire	and	expectancy							
+n	horizon	skyline										
+n	horn	bony	outgrowths	on	the	head						
+n	horn	car	horn									
+n	horoscope	prediction	of	the	future							
+n	horror	repugnance,	repulsion,	revulsion								
+n	horse	animal										
+n	horse	knight,	chessman									
+n	hospital	infirmary										
+n	hospitality	cordial	reception,	kindness	in	welcoming	guests	or	strangers			
+n	host	master	of	ceremonies,	emcee							
+n	host	inviter										
+n	hostage	prisoner	held	for	ransom							
+n	hostility	aggression										
+n	hostility	enmity,	antagonism									
+n	hotel											
+n	hour	hr,	60	minutes,	period	of	time					
+n	hour	time	of	day,	clock	time						
+n	house	dwelling										
+n	house	legislature										
+n	family	household,	home,	menage								
+n	houseplant	plant	for	indoor	use							
+n	housewife	homemaker										
+n	housing	lodging,	living	accommodations								
+n	human	body]	physical	body								
+n	humanity	humanness										
+n	humor	sense	of	humor								
+n	hunter	huntsman										
+n	hunting	hunt										
+n	husband	hubby										
+n	hut	hovel,	hutch,	shack								
+n	hypothesis	guess,	conjecture,	surmise,	speculation							
+n	ice	frozen	water									
+n	ice	cream]	frozen	dessert								
+n	idea	thought										
+n	ideal	paragon,	model	of	excellence	or	perfection					
+n	identification	identity	papers									
+n	identity	personal	identity,	individuality								
+n	identity	identicalness,	indistinguishability									
+n	ideology	political	theory									
+n	ignorance	lack	of	knowledge								
+n	illness	unwellness,	malady,	sickness								
+n	illusion	FALSE	mental	representation								
+n	illustration											
+n	image	mental	image									
+n	image	double,	look-alike									
+n	imagination											
+n	immigrant											
+n	immigration											
+n	impact	striking	of	one	body	against	another					
+n	impact	forceful	consequence,	strong	effect							
+n	implication	logical	implication									
+n	import	importation										
+n	importance											
+n	improvement	condition	superior	to	an	earlier	one					
+n	momentum	impulse,	force									
+n	impulse	caprice,	whim									
+n	incentive	inducement,	motivator,	carrot								
+n	inch	in,	unit	of	length							
+n	incident	event										
+n	income											
+n	increase	increment										
+n	index	finger]	forefinger									
+n	index	alphabetical	listing									
+n	indication	suggestion										
+n	individual											
+n	industry	manufacture										
+n	industry	diligence,	industriousness									
+n	infection	contagion,	transmission									
+n	inflation	rising	prices									
+n	influence	power	to	affect	persons	or	events					
+n	influence	effect	of	one	thing	or	person					
+n	information	info										
+n	infrastructure	basic	features	of	a	system						
+n	ingredient											
+n	inhabitant	habitant,	dweller,	denizen								
+n	inhibition	suppression,	conscious	exclusion	of	unacceptable	thoughts	or	desires			
+n	initial	first	letter	of	a	word						
+n	initiative	first	step									
+n	injection	shot										
+n	injury	hurt,	harm,	trauma								
+n	inn	hostel,	hostelry,	lodge								
+n	innovation	invention										
+n	inquiry	inquest										
+n	insect											
+n	inside	interior										
+n	insider											
+n	brainstorm	sudden	insight									
+n	insight	perceptiveness,	understanding									
+n	insistence	insistency,	act	of	insisting							
+n	inspector	examiner										
+n	inspiration	sudden	intuition									
+n	instinct	inherent	aptitude									
+n	institution	mental	hospital									
+n	institution	establishment										
+n	instruction	teaching,	pedagogy									
+n	instrument	device										
+n	instrument	musical	instrument									
+n	insurance	indemnity,	protection									
+n	integration	desegregation										
+n	integrity	moral	soundness									
+n	intelligence	ability	to	comprehend								
+n	intelligence	intelligence	service,	intelligence	agency							
+n	intention	volition										
+n	interaction											
+n	interest	pastime,	pursuit									
+n	interest	fixed	charge	for	borrowing	money						
+n	interface	user	interface									
+n	interference	hindrance,	hitch,	preventive,	encumbrance							
+n	intervention	interference										
+n	interview											
+n	introduction	first	section	of	a	communication						
+n	introduction	presentation,	intro									
+n	introduction	basic	instructional	text								
+n	invasion	encroachment,	intrusion									
+n	investigation	probe										
+n	investigator											
+n	investment	investment	funds									
+n	invitation											
+n	iron	ferrous	metal									
+n	irony	sarcasm,	satire									
+n	island	land	mass	surrounded	by	water						
+n	isolation	state	of	separation								
+n	issue	important	question									
+n	offspring	progeny,	issue									
+n	item	token,	individual	instance								
+n	ivory	tusk										
+n	jacket	short	coat									
+n	jam	preserve										
+n	jar	vessel										
+n	jaw	part	of	the	skull							
+n	jazz											
+n	jelly	gelatinous	substance									
+n	jet	squirt,	spurt,	spirt								
+n	jewel	gem,	precious	stone								
+n	job	task,	chore									
+n	job	workplace										
+n	jockey	rider										
+n	joint	disreputable	place	of	entertainment							
+n	joint	body	part									
+n	joke	gag,	laugh,	jest								
+n	journal	periodical										
+n	journal	diary										
+n	joy	joyousness,	joyfulness									
+n	judge	justice,	jurist,	magistrate								
+n	judgment	judicial	decision									
+n	judgment	cognitive	process									
+n	juice											
+n	jump	leap,	sudden	increase								
+n	junction											
+n	jungle	impenetrable	forest									
+n	jurisdiction	legal	power									
+n	jury	trial	jury									
+n	justice	justness										
+n	justification											
+n	kettle	boiler,	metal	pot								
+n	key	opening	device									
+n	key	tonality										
+n	key	legend,	list	of	words	that	explain	symbols				
+n	kick	sudden	stimulation									
+n	kid	young	goat									
+n	kidney	bean-shaped	excretory	organ								
+n	killer	slayer										
+n	king	chess	piece									
+n	king	playing	card									
+n	king	male	monarch									
+n	kingdom	monarchy										
+n	kinship	family	relationship									
+n	kit	outfit,	gear									
+n	kitchen	room	equipped	for	preparing	meals						
+n	kite	toy										
+n	knee	knee	joint									
+n	knife	tool										
+n	knot	fastening	formed	by	looping	and	tying					
+n	knowledge	cognition,	result	of	perception,	learning,	or	reasoning				
+n	Koran	Quran,	al-Qur'an,	Islam	Holy	Book						
+n	label											
+n	laboratory	lab,	research	lab								
+n	labour	toil										
+n	labour	working	class,	proletariat								
+n	laborer	manual	laborer									
+n	lace	delicate	fabric									
+n	lack	deficiency,	want									
+n	ladder	steps										
+n	lady											
+n	lake	body	of	water								
+n	lamb	young	sheep									
+n	lamp	furniture	holding	lightbulbs								
+n	land	estate,	landed	estate								
+n	land	kingdom,	realm									
+n	landlord											
+n	landowner	landholder,	property	owner								
+n	landscape	scenery										
+n	lane	narrow	road									
+n	language	linguistic	communication									
+n	language	terminology,	nomenclature									
+n	lap	body	part									
+n	laser	coherent	light									
+n	laundry	wash,	washables									
+n	law	natural	scientific	law								
+n	law	jurisprudence										
+n	law	police,	police	force								
+n	lawn											
+n	lawyer	attorney										
+n	layer	thin	sheet									
+n	layout	plan,	design									
+n	lead	position	of	leadership								
+n	leash	tether										
+n	lead	advantage	held	by	a	competitor						
+n	lead	Pb,	atomic	number	82,	soft	heavy	toxic	metal			
+n	leader	commander,	person	who	rules	or	guides	or	inspires	others		
+n	leadership	leading										
+n	leaf	leafage,	foliage									
+n	leaflet	brochure,	folder,	pamphlet								
+n	lease	rental	lease									
+n	leather											
+n	farewell	leave,	leave-taking,	parting								
+n	leave	leave	of	absence								
+n	lecture	instruction,	teaching									
+n	left	left	side,	left	hand	side						
+n	leftovers	leftover	food									
+n	leg	one	of	the	supports	for	a	piece	of	furniture		
+n	leg	limb										
+n	legend	caption										
+n	legend	fable,	story									
+n	legislation	legislating,	lawmaking									
+n	legislature	legislative	assembly									
+n	leisure											
+n	lemon	defective	artifact									
+n	lemon	fruit										
+n	length	duration,	continuance	in	time							
+n	length	extent	of	something	from	beginning	to	end				
+n	lesson	unit	of	instruction								
+n	letter	missive,	written	message	addressed							
+n	letter	letter	of	the	alphabet							
+n	level	floor,	storey,	story								
+n	level	layer,	stratum									
+n	level	grade,	tier									
+n	liability	legal	obligation	and	responsibility							
+n	liberty	freedom										
+n	library											
+n	licence	license,	permit									
+n	lid	movable	top									
+n	lid	eyelid										
+n	lie	prevarication										
+n	life											
+n	lifestyle	way	of	living								
+n	lift	ride	in	a	car							
+n	lift	elevator										
+n	lift	ski	tow,	ski	lift							
+n	light	light	source,	source	of	illumination						
+n	lighter	igniter,	device	for	lighting	or	igniting					
+n	light	luminosity,	brightness,	luminance								
+n	lily	flower										
+n	limb	body	part									
+n	limit	demarcation,	demarcation	line								
+n	limit	limitation										
+n	limitation											
+n	line	railway	line,	rail	line							
+n	line	telephone	line,	phone	line							
+n	line	production	line,	assembly	line							
+n	line	dividing	line,	demarcation								
+n	line	argumentation,	logical	argument,	line	of	reasoning					
+n	line	line	of	text								
+n	line	formation	of	people	or	things	one	behind	another			
+n	line	wrinkle,	furrow,	crease,	crinkle,	seam						
+n	linen	white	goods									
+n	link	fastener										
+n	lion	king	of	beasts								
+n	lip	brim,	rim,	top	edge	of	a	vessel				
+n	lip	fleshy	folds	of	tissue	surrounding	the	mouth				
+n	liquid											
+n	list	tilt,	inclination									
+n	list	listing										
+n	literacy	ability	to	read	and	write						
+n	literature	creative	writing									
+n	litigation	judicial	proceeding									
+n	liver	organ										
+n	load	burden,	weight									
+n	loan	temporary	provision	of	money							
+n	lobby	vestibule,	foyer,	entrance	hall							
+n	lobby	pressure	group									
+n	location	point	in	space								
+n	lock	fastener	fitted	to	a	door						
+n	lock	curl,	ringlet,	whorl								
+n	log	logarithm										
+n	log	tree	trunk									
+n	logic											
+n	look	physical	appearance									
+n	look	spirit,	tone,	feel,	feeling,	flavor						
+n	loop	iteration										
+n	loop	round	or	oval	shape							
+n	loss	red	ink,	financial	loss							
+n	loss	something	that	is	lost							
+n	lot	parcel	of	land	having	fixed	boundaries					
+n	lot	deal,	flock,	good	deal,	great	deal,	heap				
+n	lounge	waiting	room,	waiting	area							
+n	sofa	couch										
+n	love	passion										
+n	love	beloved,	dear,	dearest,	loved	one,	honey					
+n	lover	significant	other									
+n	loyalty	trueness										
+n	lump	chunk,	gob,	clod								
+n	lunch	luncheon,	midday	meal								
+n	lung	respiratory	organ									
+n	machine											
+n	machinery	machines										
+n	magazine	periodic	publication									
+n	magnitude	size,	extent									
+n	maid	maidservant,	housemaid									
+n	mail	earth	mail									
+n	mainstream	prevailing	thought									
+n	alimony											
+n	majority	absolute	majority									
+n	majority	legal	age									
+n	makeup	cosmetics										
+n	man	homo,	human	being,	human							
+n	man	adult	male,	male								
+n	management	direction										
+n	manager	director										
+n	manner	personal	manner,	way	of	acting	or	behaving				
+n	manual	handbook										
+n	manufacture	fabrication										
+n	manufacturer	producer										
+n	manuscript											
+n	map	representation	of	the	earth's	surface						
+n	marathon	footrace	of	26	miles							
+n	marble	glass	ball	for	games							
+n	marble	rock										
+n	march	marching	music									
+n	march	procession	of	people								
+n	march	March,	month									
+n	margin	edge,	blank	space	on	a	page					
+n	mark	scratch,	scrape,	scar,	indication	of	damage					
+n	mark	grade,	score									
+n	market	grocery	store,	grocery,	food	market						
+n	marketing	promoting	and	selling								
+n	wedding	marriage,	marriage	ceremony								
+n	marriage	married	couple,	man	and	wife						
+n	Mars	the	red	planet								
+n	marsh	marshland,	fen,	fenland								
+n	mask	disguise										
+n	mass	body	of	matter								
+n	master	maestro,	artist	of	consummate	skill						
+n	match	lighter,	friction	match								
+n	match	formal	contest									
+n	match	peer,	equal,	compeer								
+n	match	catch,	a	good	matrimonial	prospect						
+n	material	fabric,	cloth,	textile								
+n	material	stuff										
+n	mathematics	math,	maths									
+n	matrix	rectangular	array									
+n	matter	substance										
+n	maximum	upper	limit									
+n	mayor	city	manager									
+n	maze	labyrinth										
+n	meadow	hayfield										
+n	meal	repast										
+n	meaning	significance,	signification									
+n	means	instrumentality	for	accomplishing	some	end						
+n	measure	measuring	stick,	measuring	rod							
+n	meat	flesh	of	animals								
+n	mechanism	piece	of	machinery								
+n	medal	decoration,	laurel	wreath,	medallion,	ribbon						
+n	medicine	medical	profession									
+n	medicine	medication,	medicament,	medicinal	drug							
+n	medium	mass	medium,	mass	media							
+n	medium	spiritualist										
+n	medium	intermediate	state									
+n	meeting	planned	coming	together								
+n	meeting	encounter,	casual	or	unexpected	convergence						
+n	member	part	of	a	social	group						
+n	membership											
+n	memorandum	memo										
+n	memorial	monument										
+n	memorial	commemoration,	remembrance									
+n	memory	computer	memory,	storage								
+n	memory	capacity	to	remember								
+n	memory	something	that	is	remembered							
+n	menu	computer	menu									
+n	menu	dishes	planned	for	a	meal						
+n	merchant	merchandiser,	businessperson									
+n	mercy	clemency,	mercifulness,	leniency								
+n	merit	deservingness,	meritoriousness									
+n	message	written,	spoken,	or	signaled	communication						
+n	metal	metallic	element									
+n	method	way	of	doing	something							
+n	methodology											
+n	microphone	mike										
+n	middle	intermediate	part	or	section							
+n	midnight	12	o'clock									
+n	migration	movement	from	one	country	to	another					
+n	mile	distance										
+n	milk											
+n	mill	grinder										
+n	mind	head,	brain,	what	is	responsible	for	one's	thoughts	and	feelings	
+n	mind	intellect,	knowledge	and	intellectual	ability						
+n	mine	explosive	device									
+n	mine	excavation	of	ores	and	minerals						
+n	miner	mineworker										
+n	mineral											
+n	minimum	lower	limit									
+n	minister	pastor,	rector									
+n	minister	government	minister									
+n	ministry	government	department									
+n	minority	smaller	in	number								
+n	minute	min,	unit	of	time	equal	to	60	seconds			
+n	miracle	supernatural	event									
+n	mirror	reflector										
+n	miscarriage	stillbirth										
+n	misery	wretchedness,	miserableness									
+n	missile	projectile,	weapon									
+n	mist	thin	fog									
+n	mixture	mix										
+n	model	simulation										
+n	model	framework										
+n	model	poser	for	a	photographer	or	painter	or	sculptor			
+n	model	role	model									
+n	model	fashion	model									
+n	module	component										
+n	mole	small	velvety-furred	burrowing	mammal							
+n	mole	pigmented	spot	on	the	skin						
+n	mole	counterspy										
+n	molecule											
+n	moment	here	and	now,	present	moment						
+n	momentum											
+n	monarch	sovereign,	crowned	head								
+n	monarchy											
+n	monastery											
+n	money	currency										
+n	money	wealth										
+n	monk	inhabitant	of	a	monastery							
+n	monkey	long-tailed	primate									
+n	monopoly	exclusive	control									
+n	monster	freak										
+n	month	calendar	month									
+n	mood	temper,	humor									
+n	moon	satellite	of	the	Earth							
+n	morale	team	spirit									
+n	morale	individual	psychological	well-being								
+n	morning	morn,	morning	time,	forenoon							
+n	dawn	dawning,	aurora,	first	light,	daybreak						
+n	morsel	bit,	bit									
+n	mortgage											
+n	mosaic	colored	stone	or	glass	art						
+n	mosque	place	of	worship								
+n	mosquito	blood-sucking	insect									
+n	mother	female	parent									
+n	motif	design										
+n	motivation	motive,	need									
+n	motivation											
+n	motorist	automobilist										
+n	highway	expressway,	freeway,	state	highway							
+n	mold	fungus,	mould									
+n	mountain	mount,	land	mass	projecting	above	its	surroundings				
+n	mourning	bereavement										
+n	mouse	rodent										
+n	mouse	computer	mouse									
+n	mouth	oral	cavity									
+n	move	relocation,	changing	your	residence	or	business					
+n	move	player's	turn	to	move	a	piece	or	act			
+n	movement	motion,	move,	change	of	position						
+n	crusade	campaign,	cause									
+n	movement	social	movement,	front,	people	with	a	common	ideology			
+n	mud	clay,	soft	wet	earth							
+n	mug	cup										
+n	multimedia	multimedia	system									
+n	murder	slaying,	execution									
+n	muscle	bodily	tissue									
+n	museum	exhibition	hall									
+n	mushroom	fungus										
+n	music											
+n	musician											
+n	mutation	genetic	mutation									
+n	myth	traditional	story									
+n	nail	thin	pointed	piece	of	metal						
+n	nail	body	part									
+n	name	language	unit	by	which	a	person	or	thing	is	known	
+n	name	person's	reputation									
+n	nationalism	patriotism,	love	of	country							
+n	nationalist	patriot										
+n	nationality											
+n	nature	essential	qualities	or	characteristics							
+n	nature	natural	physical	world	including	plants	and	animals				
+n	nature	causal	agent	creating	and	controlling	the	universe				
+n	navy	dark	blue,	navy	blue							
+n	navy	naval	forces									
+n	neck	cervix,	connection	from	head	to	the	rest	of	the	body	
+n	need	demand										
+n	need	indigence,	penury,	extreme	poverty							
+n	needle	sharp	pointed	implement								
+n	needle	indicator	for	readings								
+n	neglect	disregard										
+n	negligence	neglect										
+n	negotiation	dialogue,	talks									
+n	neighbour	neighbor,	person	living	nearby							
+n	neighborhood	vicinity,	neck	of	the	woods						
+n	nephew											
+n	nerve	bundle	of	nerve	fibers							
+n	nest	structure	in	which	animals	lay	eggs					
+n	net	Internet,	Net,	cyberspace								
+n	net	game	equipment									
+n	network	communication	system	with	a	group	of	broadcasting	stations			
+n	network	web,	interconnected	system								
+n	newcomer											
+n	news	intelligence,	tidings,	word								
+n	news	news	program,	news	show							
+n	news	new	information									
+n	night	nighttime,	dark									
+n	nightmare	upsetting	dream									
+n	node	connecting	point									
+n	noise	randomness,	haphazardness									
+n	noise	sound										
+n	nomination	naming	a	candidate								
+n	nonsense	bunk,	hokum									
+n	norm	standard										
+n	north	due	north,	N,	direction							
+n	nose	olfactory	organ									
+n	note	annotation										
+n	note	short	letter,	line,	billet							
+n	note	musical	note,	tone								
+n	note	bill,	banknote									
+n	notebook	notebook	computer									
+n	notebook	book	with	blank	pages							
+n	notice	announcement										
+n	notice	advance	notification									
+n	notion	concept										
+n	noun											
+n	novel	fictional	work									
+n	number	quantity										
+n	number	numeral										
+n	number	phone	number,	telephone	number							
+n	nun	sister,	religious	woman								
+n	nurse											
+n	nursery	plant	nursery,	greenhouse,	glasshouse							
+n	nursery	baby's	room									
+n	crackpot	crank,	nut,	nutcase,	fruitcake							
+n	nut	hard-shelled	seed									
+n	oak	oak	tree									
+n	object	physical	object,	tangible	and	visible	entity					
+n	object	aim,	objective,	target								
+n	objection											
+n	obligation	duty,	responsibility									
+n	observation	facts	learned	by	observing							
+n	observer	perceiver,	beholder									
+n	obstacle	block										
+n	occasion	time	of	a	particular	event						
+n	occupation	military	control									
+n	ocean											
+n	offense	offensive,	attack									
+n	offense	misdemeanor,	infraction,	violation								
+n	offense	discourtesy,	offence									
+n	offender	wrongdoer										
+n	offer	offering,	verbal	act	of	offering						
+n	office	business	office,	workplace								
+n	officer	policeman,	police	officer								
+n	official	functionary										
+n	offspring	young										
+n	oil	cooking	oil,	vegetable	oil							
+n	oil	viscous	liquid									
+n	omission	skip,	mistake	resulting	from	neglect						
+n	onion	edible	bulb									
+n	opera	drama	set	to	music							
+n	operation	surgery										
+n	operation	military	operation									
+n	operation	business	especially	one	run	on	a	large	scale			
+n	operation	functioning,	performance									
+n	opinion	public	opinion,	popular	opinion							
+n	opinion	legal	opinion,	judgment,	judgement							
+n	opponent	adversary,	antagonist									
+n	opposite	reverse,	contrary									
+n	opposition	resistance										
+n	opposition	political	party	opposed								
+n	opposition	enemy,	foe									
+n	optimism											
+n	option	right	to	buy	or	sell	property					
+n	orange	orangeness,	color	between	red	and	yellow					
+n	orange	citrus	fruit									
+n	orbit	celestial	orbit									
+n	orchestra	musical	group									
+n	order	decree,	edict									
+n	order	request	for	food	or	refreshment						
+n	order	orderliness										
+n	organ	pipe	organ									
+n	organ	body	part									
+n	organisation	group	of	people	who	work	together					
+n	orientation	position,	alignment									
+n	origin	descent,	extraction,	background,	provenance							
+n	outfit	getup,	clothing									
+n	outlet	retail	store,	sales	outlet							
+n	outlet	wall	socket,	electric	outlet							
+n	outlet	wall	socket,	wall	plug,	electric	outlet					
+n	outline	abstract,	precis									
+n	outline	lineation,	linear	boundary								
+n	outlook	mentality,	mindset									
+n	output	end	product									
+n	outside	exterior,	outer	side	or	surface						
+n	oven	kitchen	appliance									
+n	overall	clothing										
+n	overview	summary										
+n	owl	nocturnal	bird									
+n	owner	proprietor	someone	who	owns	a	business					
+n	ownership											
+n	oxygen											
+n	pace	tempo,	rate									
+n	pack	bundle	carried	on	the	back						
+n	pack	group	of	hunting	animals							
+n	package	bundle,	packet,	parcel								
+n	packet	small	package,	bundle								
+n	page	one	side	of	one	leaf						
+n	pain	physical	pain									
+n	pain	emotional	distress,	painfulness								
+n	pain	pain	in	the	neck,	nuisance						
+n	paint	substance	used	to	protect	or	decorate					
+n	painter	artist										
+n	pair	two	people	considered	as	a	unit					
+n	palace	residence	of	a	sovereign							
+n	palm	palm	tree									
+n	chimpanzee	primate										
+n	pan	cooking	pan									
+n	panel	plate	or	sheet	that	is	a	component	of	something		
+n	panel	team	of	experts								
+n	panic	terror,	overwhelming	fear								
+n	paper	composition,	report									
+n	paper	scholarly	article									
+n	paper	newspaper										
+n	paper	cellulose,	material	for	writing	or	printing	on				
+n	paper	material	made	of	cellulose	pulp						
+n	parade	ceremonial	procession									
+n	paradox	self-contradiction										
+n	paragraph	subdivisions	of	a	text							
+n	parallel	analogue,	analog									
+n	parameter	factor										
+n	pardon	amnesty										
+n	parent											
+n	park	commons,	common,	green								
+n	parking	parking	space									
+n	parliament											
+n	part	portion,	component	part,	component							
+n	participant											
+n	particle	small	body	of	mass							
+n	partner	spouse,	married	person,	mate,	better	half					
+n	partner	member	of	a	partnership							
+n	partnership	cooperation	among	people								
+n	party	festivity										
+n	party	political	party									
+n	pass	passing,	qualifying	grade								
+n	pass	permission	to	enter	or	do	something					
+n	passage	passageway										
+n	passage	section	of	text								
+n	passenger	rider										
+n	passion	passionateness,	strong	emotion								
+n	passport											
+n	password	watchword,	word									
+n	past	past	times,	yesteryear								
+n	pastel	light	pale	color								
+n	pasture	pastureland,	grazing	land								
+n	patch	piece	of	cloth								
+n	patch	bandage,	cover	for	injury							
+n	patch	plot,	small	area								
+n	patent	patent	of	invention								
+n	path	route,	itinerary									
+n	patience	forbearance										
+n	patient	person	who	requires	medical	care						
+n	patrol	security	detachment									
+n	pattern	model,	design									
+n	pause	temporary	inactivity									
+n	pavement	sidewalk										
+n	payment	defrayal										
+n	peace	peacefulness,	peace	of	mind,	repose,	serenity					
+n	peace	state	prevailing	during	the	absence	of	war				
+n	peak	vertex,	apex,	acme,	highest	point						
+n	peanut	goober										
+n	peasant	agricultural	laborer									
+n	pedestrian	walker										
+n	pen	writing	implement									
+n	pen	playpen										
+n	penalty	punishment										
+n	pencil	writing	implement									
+n	penny	cent										
+n	pension	payment	during	retirement								
+n	retiree	pensioner										
+n	people											
+n	pepper	spice										
+n	percent	percentage										
+n	perception	process	of	perceiving								
+n	performance	execution,	carrying	out								
+n	performance	act	of	presenting	a	play	or	a	piece			
+n	performer	performing	artist									
+n	period	point,	full	stop,	stop,	full	point					
+n	period	time	period									
+n	period	interval	taken	to	complete	one	cycle					
+n	period	historic	period									
+n	permission	approval	to	do	something							
+n	person	individual										
+n	personality	personal	attributes									
+n	pest	blighter,	cuss,	pesterer,	gadfly,	persistently	annoying	person				
+n	pet	animal										
+n	phenomenon											
+n	philosopher											
+n	philosophy	investigation	of	existence,	knowledge,	ethics						
+n	philosophy	doctrine,	school	of	thought,	set	of	beliefs				
+n	photograph	photo										
+n	photographer											
+n	photography	picture	taking									
+n	physics	physical	science									
+n	piano	keyboard	instrument									
+n	picture	image,	icon,	visual	representation							
+n	picture	painting,	graphic	art								
+n	movie	film										
+n	pie	dish										
+n	piece	separate	part	of	a	whole						
+n	piece	musical	composition,	opus,	composition,	piece	of	music				
+n	pier	support	for	two	adjacent	bridge	spans					
+n	pig	hog,	swine									
+n	pig	hog,	greedy	person								
+n	policeman	cop										
+n	pig	slob,	sloven,	slovenly	person							
+n	pigeon	wild	and	domesticated	bird							
+n	pile	heap,	mound									
+n	pill	birth	control	pill								
+n	pillow	cushion										
+n	pilot	airplane	pilot									
+n	pin	personal	identification	number,	PIN,	PIN	number					
+n	pioneer	innovator,	trailblazer,	groundbreaker								
+n	pipe	tube										
+n	pit	pitfall,	trap									
+n	pit	cavity,	hole	in	the	ground						
+n	pitch	property	of	sound								
+n	slant	pitch,	deviation	from	the	horizontal						
+n	pitch	sales	pitch									
+n	pity	compassion										
+n	place	topographic	point,	spot								
+n	place	seat										
+n	plaintiff	complainant										
+n	plan	design,	arrangement,	scheme								
+n	plane	airplane,	aeroplane									
+n	planet	celestial	body									
+n	plant	flora,	plant	life								
+n	plant	industrial	plant,	factory								
+n	plaster	adhesive	plaster									
+n	plastic	materials										
+n	plate	dish										
+n	platform	horizontal	surface									
+n	play	child's	play									
+n	play	drama,	dramatic	play								
+n	player	actor,	role	player								
+n	player	participant										
+n	pleasure	delight										
+n	plot	secret	plan,	game,	secret	scheme						
+n	plot	story										
+n	plot	chart										
+n	pneumonia	respiratory	disease									
+n	pocket	pouch	inside	a	garment							
+n	poem	verse	form									
+n	poetry	poesy,	verse									
+n	point	detail,	item									
+n	point	tip,	peak,	V-shape								
+n	point	dot										
+n	poison	poisonous	substance									
+n	pole	long	rod									
+n	pole	Earth's	antipodal	point								
+n	policy	insurance	policy									
+n	politician											
+n	politics											
+n	poll	counting	of	votes								
+n	poll	opinion	poll									
+n	pollution	contamination										
+n	pony	small	horse									
+n	pool	puddle										
+n	pop	pop	music									
+n	pop	soda,	soda	pop								
+n	pop	dad,	dada,	daddy,	pa,	papa						
+n	population	people	who	inhabit	a	territory						
+n	porter	person	employed	to	carry	luggage	and	supplies				
+n	portion	helping,	serving									
+n	portrait	portrayal,	likeness									
+n	position	placement,	location									
+n	position	stance,	posture									
+n	position	status										
+n	possession	ownership										
+n	possibility	possible	action									
+n	post	mail,	mail	service,	postal	service						
+n	post	stake										
+n	postcard											
+n	pot	cooking	vessel									
+n	pot	flowerpot										
+n	potato											
+n	potential	potentiality										
+n	pottery	clayware										
+n	pound	dog	pound									
+n	pound	lb,	16	ounces								
+n	powder	fine-grained	substance									
+n	power	world	power,	major	power,	great	power,	superpower				
+n	power	force,	might									
+n	practice	pattern,	customary	way	of	operation	or	behavior				
+n	practice	exercise,	drill,	practice	session,	recitation						
+n	praise	congratulations,	kudos									
+n	prayer	supplication										
+n	precedent	case	in	point								
+n	precision	preciseness										
+n	predator	predatory	animal									
+n	predecessor											
+n	preference	predilection,	predisposition									
+n	prejudice	bias,	preconception									
+n	premium	insurance	premium									
+n	preoccupation	idea	that	preoccupies	the	mind						
+n	preparation	readiness,	preparedness									
+n	prescription	prescription	drug									
+n	prescription	physician's	instructions									
+n	presence	bearing,	comportment									
+n	presence	state	of	being	present							
+n	present	gift										
+n	present	nowadays										
+n	presentation	making	publicly	available	or	known						
+n	preservation											
+n	presidency	presidentship										
+n	president	chief	executive	of	a	republic						
+n	president	chairman,	chairwoman,	chair								
+n	press	printing	press									
+n	press	newspaper	writers									
+n	pressure	pressure	sensation									
+n	pressure	pressure	level,	force	per	unit	area					
+n	pressure	imperativeness,	insistence,	insistency								
+n	prestige	prestigiousness										
+n	prevalence	preponderance,	superiority	in	number							
+n	prey	quarry	hunted	animal								
+n	price	monetary	value,	cost								
+n	price	cost,	toll									
+n	pride	proud	feeling									
+n	primary	primary	election									
+n	prince	son	of	a	sovereign							
+n	princess											
+n	principle	basic	truth	or	law	or	assumption					
+n	print	picture,	design									
+n	printer	output	device	that	prints	data						
+n	priority	precedence										
+n	prison	prison	house,	correctional	institution							
+n	prisoner	captive										
+n	privacy	privateness,	seclusion									
+n	privilege	special	advantage									
+n	prize	trophy										
+n	loot	booty,	pillage,	plunder,	dirty	money,	prize					
+n	probability											
+n	problem	trouble										
+n	problem	question										
+n	procedure											
+n	process	procedure										
+n	produce	green	goods,	green	groceries							
+n	producer	film	or	play	producer							
+n	product	merchandise,	ware									
+n	product	mathematical	product	obtained	by	multiplication						
+n	product	consequence	of	someone's	efforts							
+n	production	act	or	process	of	producing	something					
+n	production	presentation	for	the	stage	or	screen	or	radio	or	TV	
+n	production	output,	yield									
+n	profession	occupation										
+n	professional	professional	person									
+n	professor	prof										
+n	profile	side	view									
+n	profit	gain										
+n	program	plan,	series	of	steps	to	be	carried				
+n	program	announcement	of	a	theatrical	event						
+n	program	broadcast										
+n	program	computer	program									
+n	progress	advancement,	gain									
+n	project	undertaking,	task,	enterprise								
+n	prediction	projection										
+n	projection	image	projection									
+n	promise	verbal	commitment									
+n	promotion	rising	in	rank								
+n	promotion	publicity										
+n	proof	cogent	evidence									
+n	proof	mathematical	proofs									
+n	propaganda											
+n	property	attribute,	dimension									
+n	property	belongings,	holding,	material	possession							
+n	proportion	dimension										
+n	proportion	quotient	of	magnitude	of	a	part	and	magnitude	of	the	whole
+n	proposal	proposition										
+n	proposal	marriage	proposal									
+n	proposition	statement										
+n	prosecution	criminal	prosecution									
+n	prospect	expectation,	outlook									
+n	prosperity	economic	prosperity									
+n	protection	protecting	someone	or	something							
+n	shelter	physical	protection									
+n	protein											
+n	protest	objection,	dissent									
+n	provision	supply,	supplying									
+n	psychologist											
+n	psychology	psychological	science									
+n	bar	tavern,	pub									
+n	public											
+n	publication	issue										
+n	publication	printed	work									
+n	publicity	public	scrutiny									
+n	publisher	publishing	house,	publishing	firm							
+n	pudding	soft	sweet	dessert								
+n	pump	mechanical	device									
+n	pumpkin	large	yellow	fruit								
+n	punch	blow,	lick,	biff								
+n	punch	mixed	drink									
+n	pupil	contractile	aperture	in	the	iris	of	the	eye			
+n	pupil	schoolchild,	school-age	child								
+n	purpose	intent,	intention,	aim,	design							
+n	hobby	pursuit,	by-line,	hobby,	sideline,	spare-time	activity					
+n	pursuit	quest,	search									
+n	puzzle	toy										
+n	pyramid	polyhedron										
+n	qualification	reservation,	limitation									
+n	quality	degree	or	grade	of	excellence						
+n	quantity	amount										
+n	quarter	district	of	a	city							
+n	quarter	United	States	coin	worth	25	cents					
+n	quarter	one-fourth										
+n	quarter	fourth	part	of	a	year,	three	months				
+n	queen	female	monarch									
+n	quest	seeking										
+n	question	inquiry,	query,	interrogation								
+n	questionnaire											
+n	queue	waiting	line									
+n	quota	proportional	share									
+n	quotation	quote,	citation,	words								
+n	quotation	price	quotation									
+n	rabbit	burrowing	animal									
+n	race	contest	of	speed								
+n	race	people	belonging	to	the	same	genetic	stock				
+n	racism	prejudice										
+n	rack	framework	for	holding	objects							
+n	radiation	radioactivity										
+n	radiation	sickness]	radiation	syndrome								
+n	radical	person	with	radical	ideas							
+n	radio	radiocommunication,	wireless,	medium								
+n	radio	radio	receiver,	receiving	set,	radio	set					
+n	rage	fury,	madness,	intense	anger							
+n	raid	foray,	sudden	attack								
+n	railcar	railroad	car,	wagon								
+n	railroad	railroad	line,	railway	system							
+n	track	railroad	track,	line	of	track						
+n	rain	rainfall										
+n	rainbow	colored	light	in	the	sky						
+n	rally	mass	meeting									
+n	range	stove,	kitchen	stove								
+n	range	scope,	reach,	orbit,	compass							
+n	range	large	tract	of	grassy	open	land	where	livestock	graze		
+n	range	mountain	range,	range	of	mountains						
+n	rank	status										
+n	rat	rodent										
+n	strikebreaker	scab										
+n	rate	pace										
+n	ratio	relative	magnitude									
+n	reaction	equal	and	opposite	force							
+n	reaction	response	revealing	a	person's	feelings	or	attitude				
+n	reaction	chemical	reaction									
+n	reactor	nuclear	reactor									
+n	reader	subscriber										
+n	reader	reviewer,	referee									
+n	realism	pragmatism										
+n	reality	realness										
+n	reason	explanation	of	the	cause							
+n	reason	rationality										
+n	rebel	insurgent,	insurrectionist,	freedom	fighter							
+n	rebellion	insurrection,	revolt,	rising,	uprising							
+n	receipt	acknowledgment	of	payment								
+n	reception	broadcast	reception									
+n	reception	formal	party									
+n	recession	declining	economy									
+n	recognition	acknowledgment										
+n	recommendation	testimonial,	good	word								
+n	record	extreme	attainment,	the	best/worst	performance	ever					
+n	record	criminal	record									
+n	record	document	serving	as	legal	evidence	of	a	transaction			
+n	record	number	of	wins	versus	losses	and	ties				
+n	recording	information	storage	device								
+n	recovery	retrieval,	regaining									
+n	recovery	convalescence,	recuperation									
+n	recreation											
+n	red	redness										
+n	reduction	decrease,	diminution									
+n	redundancy	redundance,	superfluousness									
+n	referee	sports	referee									
+n	reference	citation,	acknowledgment,	credit,	mention,	quotation						
+n	reference	reference	point,	point	of	reference						
+n	referral	recommendation	to	consult	someone							
+n	reflection	reflexion,	mirror	image								
+n	reform	change	for	the	better							
+n	refugee											
+n	refusal											
+n	regard	gaze,	long	fixed	look							
+n	region											
+n	register	cash	register									
+n	register	registry,	official	written	record							
+n	registration	enrollment,	enrolment									
+n	regret	sorrow,	rue,	ruefulness								
+n	regulation	authoritative	rule									
+n	rehabilitation	treatment	of	physical	disabilities							
+n	rehabilitation	vindication	of	character,	exoneration							
+n	rehearsal	dry	run									
+n	reign	time	of	rule								
+n	rejection											
+n	relation	relative,	person	related	by	blood	or	marriage				
+n	relationship	state	of	connectedness	between	people						
+n	relaxation	easiness,	absence	of	tension							
+n	release	waiver,	discharge									
+n	relevance	relevancy										
+n	reliance	state	of	relying	on	something						
+n	relief	ease,	alleviation									
+n	reluctance	hesitancy,	hesitation,	disinclination								
+n	remark	explicit	notice									
+n	remedy	curative,	cure,	medicine								
+n	rent	payment	to	a	landlord							
+n	repetition	repeat										
+n	replacement	surrogate,	alternate,	substitute								
+n	report	news	report,	story,	account							
+n	report	study,	written	report,	evaluation							
+n	reporter	journalist,	newsperson									
+n	representative	person	who	represents	others							
+n	representative	congressman										
+n	reproduction	replica,	replication,	copy								
+n	reptile	reptilian										
+n	republic											
+n	reputation	notoriety	for	some	characteristic							
+n	request	petition										
+n	requirement	necessity,	essential,	requisite								
+n	research	systematic	investigation	to	establish	facts						
+n	researcher	research	worker,	investigator								
+n	reserve	reticence,	quietness									
+n	supply	backlog,	stockpile,	reserve,	reservoir							
+n	reservoir	artificial	lake									
+n	residence	abode										
+n	resident	occupant										
+n	resignation	giving	notice									
+n	resignation	surrender										
+n	resolution	decision	to	do	something							
+n	resort	holiday	resort									
+n	resource	source	of	aid	or	support						
+n	response	answer,	reply									
+n	response	reaction										
+n	responsibility	duty,	obligation									
+n	rest	support	on	which	things	can	be	put				
+n	rest	remainder,	balance,	residual,	residue							
+n	rest	respite,	relief,	rest	period							
+n	restaurant	eating	place									
+n	restoration	renovation,	refurbishment									
+n	restraint	limitation										
+n	restriction	limitation										
+n	result	resultant,	final	result,	outcome,	consequence						
+n	retailer	retail	merchant									
+n	retirement	withdrawal	from	a	position							
+n	retreat	hideaway										
+n	return	act	of	returning	to	a	prior	location				
+n	return	homecoming										
+n	return	restitution,	restoration,	regaining								
+n	return	tax	return,	income	tax	return						
+n	revenge	retaliation										
+n	reverse	reversion,	reversal,	turnabout,	turnaround							
+n	review	brushup										
+n	review	recapitulation,	recap,	summary								
+n	review	critique,	critical	review,	review	article						
+n	review	periodical										
+n	revival	resurgence,	revitalization									
+n	revolution	overthrow	of	government								
+n	revolution	rotation,	gyration									
+n	reward	bounty,	money	for	helping	to	find	criminals				
+n	rhetoric	technique	for	speaking								
+n	rhythm	beat,	musical	rhythm								
+n	rib	bone										
+n	ribbon	strip	of	material								
+n	rice	grains	used	as	food							
+n	rider	person	riding	an	animal							
+n	ridge	long	narrow	range	of	hills						
+n	rifle	firearm										
+n	right	rightfulness										
+n	right	right	hand	side								
+n	right	wing]	right									
+n	ring	hoop										
+n	ring	boxing	ring									
+n	ring	characteristic	sound									
+n	riot	public	violence									
+n	orgy	orgy,	debauchery,	saturnalia,	bacchanal,	riot						
+n	rise	upgrade,	rising	slope								
+n	rise	raise,	wage	hike,	hike,	wage	increase					
+n	risk	peril										
+n	ritual	rite										
+n	river	large	natural	stream	of	water						
+n	road	route,	open	way	for	travel	or	transportation				
+n	robbery											
+n	looting	plundering										
+n	robot	automaton										
+n	rock	rock	n'	roll								
+n	rocket	vehicle	propelled	by	a	rocket	engine					
+n	role	normal	or	customary	activity	of	a	person				
+n	role	character,	theatrical	role,	part							
+n	roll	cylindrical	form									
+n	roll	roster,	list	of	names							
+n	roll	drum	roll,	sound	of	a	drum					
+n	roll	bun,	bread									
+n	roof	top	of	a	building							
+n	room	area	within	a	building							
+n	ancestor	ancestor										
+n	root	part	of	plant								
+n	rope											
+n	rose	flower										
+n	rotation	rotary	motion									
+n	rung	stave,	round,	crosspiece	between	chair	legs					
+n	route	path,	itinerary									
+n	routine	modus	operandi									
+n	quarrel	row,	wrangle,	words,	run-in,	dustup						
+n	row	arrangement	of	objects	or	people	side	by	side	in	a	line
+n	royalty	royal	family,	royal	line,	royal	house					
+n	royalty	payment	for	a	patent	or	copyright					
+n	rubbish	trash,	scrap,	worthless	material							
+n	rugby	rugby	football									
+n	ruin	ruined	building									
+n	ruin	downfall,	ruination									
+n	rule	ruler,	measuring	stick								
+n	rule	regulation										
+n	rule	convention,	norm	of	behavior,	pattern						
+n	rule	principle,	law	concerning	a	natural	phenomenon					
+n	rule	formula	standard	procedure	for	solving	a	mathematical	problem			
+n	rule	directions	defining	a	game	or	sport					
+n	rule	dominion,	dominance	or	power	through	legal	authority				
+n	rule	duration	of	a	monarch's	or	government's	power				
+n	rumor	hearsay										
+n	runner	athlete										
+n	rush	haste,	hurry,	rushing								
+n	sacrifice	ritual	killing									
+n	sacrifice	loss										
+n	safety	state	of	being	certain	that	adverse	effects	will	not	be	caused
+n	cruise											
+n	sailor	crewman										
+n	salad	food	mixture									
+n	sale	cut-rate	sale,	sales	event							
+n	sale	general	activity	of	selling							
+n	salmon	fish										
+n	salon	beauty	salon,	beauty	parlor							
+n	salt	table	salt,	common	salt							
+n	salvation	being	saved	from	harm							
+n	sample	small	part	representative	of	the	whole					
+n	sanctuary	consecrated	place									
+n	sand	finely	ground	particles								
+n	sandal	footwear										
+n	satellite	orbiter										
+n	satisfaction	contentment										
+n	sauce											
+n	sausage	wurst,	meat									
+n	scale	body	covering	of	many	animals						
+n	scale	weighing	machine									
+n	scale	scale	of	measurement,	graduated	table						
+n	scandal	outrage										
+n	scenario	sequence	of	possible	events							
+n	scene	subdivision	of	an	act	of	a	play				
+n	scene	shot,	unit	of	action	in	a	film				
+n	scene	setting										
+n	scene	fit,	tantrum,	conniption								
+n	schedule											
+n	scheme	schema	organization	of	concepts							
+n	scholar	scholarly	person,	student,	learned	person						
+n	scholar											
+n	scholarship											
+n	school	schoolhouse										
+n	school	educational	institution									
+n	science	scientific	discipline									
+n	scientist											
+n	grudge	grievance										
+n	score	game	score									
+n	scrap	small	piece									
+n	screen	protective	covering									
+n	sieve											
+n	screen	movie	screen,	projection	screen							
+n	screw	fastener	with	a	tapered	threaded	shank					
+n	script	writing	system									
+n	sculpture	plastic	art									
+n	sea	ocean										
+n	seal	marine	mammal									
+n	seal	stamp	on	a	document							
+n	search											
+n	season	time	of	year								
+n	seat	furniture	designed	for	sitting	on						
+n	buttocks	butt,	bum,	tush								
+n	second	following	the	first								
+n	second	sec,	01/01/60	of	a	minute						
+n	mystery	secret,	enigma,	closed	book							
+n	secret											
+n	secretary	secretarial	assistant									
+n	secretion	glandular	substance									
+n	section	segment,	one	of	several	parts						
+n	sector	sphere,	particular	aspect	of	life	or	activity				
+n	security	security	system,	security	measure							
+n	seed	seeded	player									
+n	seed	small	hard	fruit								
+n	selection	excerpt,	excerption,	extract								
+n	selection	assortment	of	things	from	which	to	choose				
+n	selection	survival,	survival	of	the	fittest,	natural	selection				
+n	self	ego										
+n	seller	marketer,	vender,	vendor								
+n	seminar	course										
+n	senior	student										
+n	sensation	public	excitement									
+n	sense	sensation,	sentience,	sentiency,	sensory	faculty						
+n	sense	common	sense,	good	sense							
+n	sense	signified,	the	meaning	of	a	word	or	expression			
+n	sensitivity	sensitiveness										
+n	sentence	conviction										
+n	sentence	string	of	words								
+n	sentiment	emotion										
+n	separation	disassociation,	division									
+n	sequence	serial	arrangement									
+n	series	serial,	serial	publication								
+n	series	serial,	serialized	set	of	programs						
+n	servant											
+n	waiter	server										
+n	service	help,	assistance									
+n	service	religious	service,	divine	service							
+n	service	overhaul,	inspection	and	repair							
+n	service	military	service,	armed	service							
+n	session	meeting										
+n	session	school	term,	academic	term							
+n	set	stage	set									
+n	set	group	of	things	of	the	same	kind	that	belong	together	
+n	settlement	resolution,	outcome									
+n	settlement	colony										
+n	sex	gender,	sexuality									
+n	nuance	shade,	nicety,	subtlety,	refinement							
+n	shadow	shade										
+n	shaft	long	rod	or	pole							
+n	shaft	vertical	passage	into	a	mine						
+n	shame	pity,	unfortunate	event								
+n	shame	painful	emotion									
+n	disgrace	shame,	ignominy,	dishonor								
+n	share	parcel,	portion,	result	of	parcelling	out	or	sharing			
+n	share	any	of	the	equal	portions	into	which	the	capital	stock	of
+n	shareholder	stockholder										
+n	shark	carnivorous	fish									
+n	sheep	woolly	mammal									
+n	sheet	bed	sheet									
+n	sail	canvas										
+n	sheet	piece	of	paper								
+n	shelf	support	for	holding	objects							
+n	shell	covering	of	a	mollusc							
+n	shell	ammunition										
+n	shell	eggshell										
+n	shell	outer	layer	of	nuts	or	fruits					
+n	shelter	temporary	housing	for	homeless							
+n	shield	protective	covering									
+n	shift	switch										
+n	shift	work	shift									
+n	shirt	garment										
+n	shock	electric	shock									
+n	shock	daze,	stupor,	feeling	of	distress	and	disbelief				
+n	shoe	footwear										
+n	horseshoe	shoe	for	horses								
+n	shop	store										
+n	shop	workshop										
+n	shopping											
+n	short	circuit]	short									
+n	shortage	dearth,	famine									
+n	shorts	short	pants									
+n	shot	shooting,	act	of	firing	a	projectile					
+n	shot	injection										
+n	shoulder	berm,	edge	of	a	road						
+n	shoulder	part	of	the	body							
+n	show	public	exhibition	or	entertainment							
+n	shower	plumbing	fixture									
+n	shower	rain	shower									
+n	sickness	nausea										
+n	side	position										
+n	side	face										
+n	side	slope,	incline									
+n	siege	besieging,	beleaguering,	military	blockade							
+n	sight	vision,	visual	sense								
+n	sign	signboard										
+n	sign	gesture	that	is	part	of	a	sign	language			
+n	sign	signal										
+n	sign	mark										
+n	sign	augury,	foretoken,	preindication								
+n	sign	sign	of	the	zodiac,	house						
+n	signature											
+n	silence	quiet										
+n	silence	secrecy,	secretiveness									
+n	silk	fabric										
+n	flatware	silverware										
+n	silver	ash	gray,	ash	grey,	silver	gray					
+n	silver	metal										
+n	similarity											
+n	simplicity	simpleness,	uncomplicatedness									
+n	sin	sinning,	transgression									
+n	singer	vocalist										
+n	sink	plumbing	fixture									
+n	sister	sis,	female	sibling								
+n	site	web	site,	website,	internet	site						
+n	site	land	site									
+n	situation	state	of	affairs								
+n	size	physical	magnitude									
+n	sketch	cartoon,	humorous	drawing								
+n	ski											
+n	skill											
+n	skin	hide,	pelt,	body	covering	of	a	living	animal			
+n	skin	cutis,	person's	body	covering							
+n	peel	skin,	rind	of	a	fruit	or	vegetable				
+n	skirt	garment										
+n	skull											
+n	sky											
+n	slab	block,	thick	piece								
+n	slave	person	who	is	owned							
+n	sleep	slumber										
+n	sleeve	arm,	part	of	a	garment	that	is	attached	at	armhole	
+n	slice	thin	flat	piece								
+n	slide	chute,	sloping	trough								
+n	slide	plaything										
+n	slime	sludge,	goo,	gunk,	muck							
+n	gaffe	slip,	faux	pas								
+n	slogan	motto,	catchword									
+n	slot	small	slit									
+n	slot	time	slot									
+n	smell	aroma,	odor,	odour,	scent							
+n	smell	sense	of	smell,	olfaction							
+n	smile	smiling,	grin,	grinning,	facial	expression						
+n	smoke	fumes										
+n	snail	slug										
+n	snake	serpent										
+n	snow	snowfall										
+n	soap	cleansing	agent									
+n	soccer											
+n	society	extended	social	group								
+n	sociology											
+n	sock	stocking,	hosiery									
+n	sodium	Na										
+n	software	computer	software									
+n	soil	territory										
+n	soil	dirt,	earth's	surface								
+n	soldier	enlisted	man	or	woman							
+n	solidarity											
+n	solo	activity	performed	alone								
+n	solution	successful	action	of	solving	a	problem					
+n	solution	mixture	of	two	or	more	substances					
+n	soprano	voice	range									
+n	soul	psyche										
+n	sound	auditory	event									
+n	soup	liquid	food									
+n	source	documentary	reference									
+n	source	beginning,	origin,	root								
+n	source	informant,	person	who	supplies	information						
+n	south	Confederacy,	Confederate	States								
+n	south	due	south,	S								
+n	space	blank										
+n	space	empty	area									
+n	speaker	loudspeaker,	speaker	unit								
+n	speaker	talker,	utterer									
+n	specialist											
+n	species	taxonomic	group									
+n	specimen	medical	specimen									
+n	spectrum	broad	range	of	related	values						
+n	speech	address										
+n	speech	exchange	of	spoken	words,	verbal	discourse					
+n	speech	manner	of	speaking								
+n	speed	amphetamine,	pep	pill,	upper							
+n	speed	velocity										
+n	spell	magic	spell,	charm								
+n	trance	spell										
+n	sphere	sphere	of	influence								
+n	sphere	ball										
+n	spider	arachnid										
+n	spinach	vegetable										
+n	spine	thorn,	prickle									
+n	spirit	intent,	purport,	intended	meaning							
+n	spirit	disembodied	spirit									
+n	spirit	emotional	state									
+n	spite	malice,	maliciousness,	spitefulness,	venom							
+n	split	schism,	division	into	opposing	factions						
+n	split	lengthwise	crack									
+n	spokesman											
+n	spoon	cutlery										
+n	sport	athletics										
+n	spot	smudge,	blot,	daub,	smear							
+n	spray	water	in	small	drops							
+n	ranch	cattle	ranch,	cattle	farm							
+n	spread	paste,	food	mixture								
+n	banquet	feast										
+n	spring	metal	elastic	device								
+n	spring	fountain										
+n	spring	springtime										
+n	spy	undercover	agent									
+n	squad	army	unit									
+n	square	public	square,	plaza,	place							
+n	square	rectangle	with	four	equal	sides						
+n	stable	stalls,	horse	barn								
+n	staff	rod										
+n	staff	personnel										
+n	stage	large	platform	on	which	people	are	seen	by	an	audience	
+n	stage	phase,	distinct	time	period	in	a	sequence	of	events		
+n	staircase	stairway										
+n	stake	stakes,	bet,	wager								
+n	stall	booth,	cubicle									
+n	stamp	postage	stamp									
+n	stand	stall,	sales	booth								
+n	stand	viewpoint,	standpoint									
+n	standard	criterion,	measure,	touchstone								
+n	star	asterisk										
+n	star	celestial	body									
+n	star	ace,	champion,	virtuoso,	hotshot,	superstar						
+n	star	plane	figure	with	5	or	more	points				
+n	start	beginning,	commencement,	first,	outset,	get-go						
+n	state	province										
+n	state	state	of	matter								
+n	statement	financial	statement									
+n	statement	affirmation,	assertion									
+n	station	post										
+n	statistics											
+n	statue											
+n	steak	slice	of	meat								
+n	steam	boiling	water									
+n	steel	metal	alloy									
+n	stem	stalk,	part	of	a	plant						
+n	step	measure,	maneuver	made	as	part	of	progress	toward	a	goal	
+n	step	stair										
+n	step	footstep,	pace,	stride								
+n	step	gradation										
+n	steward	flight	attendant									
+n	stick	piece	of	wood								
+n	joystick	control	stick									
+n	stimulation	act	of	arousing	an	organism	to	action				
+n	stitch	sewing										
+n	stock	livestock,	farm	animal								
+n	stock	inventory										
+n	stock	shares										
+n	stomach	tummy,	tum									
+n	stone	rock										
+n	pit	stone,	hard	inner	core	of	some	fruits				
+n	gem	gemstone,	stone									
+n	stool	simple	seat									
+n	stop	stopover,	layover									
+n	storage	repositing,	warehousing									
+n	storm	weather	condition									
+n	story	fib,	trivial	lie								
+n	story	narrative,	narration									
+n	strap	shoulder	strap									
+n	straw	drinking	straw									
+n	straw	chaff,	husk,	shuck,	stalk							
+n	strawberry	fruit										
+n	stream	watercourse										
+n	street											
+n	strength	property	of	being	physically	or	mentally	strong				
+n	strength	forte,	strong	suit,	specialty,	strong	point					
+n	stress	tension,	tenseness									
+n	strike	work	stoppage									
+n	strike	attack										
+n	strike	rap,	tap,	gentle	blow							
+n	string	twine,	lightweight	cord								
+n	comic	strip]										
+n	strip	long	narrow	piece								
+n	stroke	apoplexy,	cerebrovascular	accident								
+n	structure	construction										
+n	struggle	strenuous	effort									
+n	student	pupil,	learner									
+n	studio	workplace	for	teaching	or	practice	of	an	art			
+n	study	room	used	for	reading	and	writing	and	studying			
+n	study	discipline,	subject,	subject	area							
+n	study	report,	written	report								
+n	style	dash,	elan,	flair,	panache							
+n	style	editorial	directions									
+n	subject	depicted	object									
+n	subject	topic,	theme									
+n	subject	guinea	pig									
+n	substance	stuff										
+n	suburb	suburbia,	suburban	area								
+n	success											
+n	suffering	hurt,	mental	or	physical	pain						
+n	sugar	refined	sugar									
+n	suggestion	proposition										
+n	suicide											
+n	suit	suit	of	clothes								
+n	courtship	wooing,	courting,	suit								
+n	suite	rooms										
+n	sulphur	sulfur,	S									
+n	sum	sum	total									
+n	summary	brief	statement									
+n	summer	summertime										
+n	summit	summit	meeting									
+n	sun	star	that	is	the	source	of	light	and	heat		
+n	sun	sunlight,	sunshine									
+n	Sunday	Lord's	Day									
+n	sunrise	daily	morning	event								
+n	sunshine	fair	weather									
+n	superintendent	super										
+n	supermarket											
+n	supervisor											
+n	supply	amount	of	something	available	for	use					
+n	support	aiding	the	cause	or	policy	or	interests	of			
+n	support	documentation,	documentary	validation								
+n	support	device	that	bears	the	weight	of	another	thing			
+n	support	keep,	livelihood,	living,	bread	and	butter,	sustenance				
+n	surface	extended	two-dimensional	outer	boundary							
+n	surgeon	operating	surgeon									
+n	surgery											
+n	surprise	unexpected	event									
+n	survey	sketch,	resume									
+n	survival	endurance										
+n	survivor	one	who	outlives	another							
+n	survivor	survivor	of	a	disaster							
+n	suspect	someone	under	suspicion								
+n	suspicion	misgiving,	mistrust,	distrust								
+n	suspicion	intuition,	hunch									
+n	sweat	perspiration										
+n	sweater	knitted	garment									
+n	sweet	dessert										
+n	swing	rapid	fluctuation,	vacillation								
+n	swing	plaything										
+n	switch	electric	switch									
+n	sword	blade,	weapon									
+n	syllable											
+n	symbol	sign										
+n	symmetry											
+n	symptom	medical	symptom									
+n	syndrome	pattern	of	symptoms								
+n	system	scheme										
+n	table	piece	of	furniture								
+n	table	tabular	array,	data	arranged	in	rows	and	columns			
+n	tablet	pill,	lozenge,	medicine								
+n	tactic	tactics,	maneuver									
+n	tail	posterior	part	of	the	body	of	a	vertebrate			
+n	tail	side	of	a	coin							
+n	talk	talking										
+n	talk	lecture,	public	lecture								
+n	tank	army	tank,	armored	combat	vehicle						
+n	tap	wiretap,	telephone	tap								
+n	tap	water	faucet,	spigot								
+n	tape	adhesive	tape									
+n	tape	tape	recording									
+n	tape	tape	measure									
+n	target	mark										
+n	taste	gustation,	sense	of	taste							
+n	taste	preference,	penchant,	predilection								
+n	tax	taxation,	revenue	enhancement								
+n	taxi	cab,	hack,	taxicab								
+n	taxpayer											
+n	tea	beverage										
+n	teacher	instructor										
+n	team	squad,	cooperative	unit								
+n	tear	teardrop										
+n	technique	proficiency										
+n	technology	engineering										
+n	teenager	adolescent										
+n	telephone	phone,	telephone	set								
+n	television	television	system,	telecommunication	system							
+n	television	television	receiver,	T.V.	set							
+n	temperature	degree	of	hotness	or	coldness						
+n	temple	place	of	worship								
+n	temple	side	of	the	forehead							
+n	temptation	enticement										
+n	tenant	renter										
+n	tendency	inclination,	disposition									
+n	tennis											
+n	tension	latent	hostility									
+n	tension	tautness										
+n	tent	collapsible	shelter									
+n	term	word	or	expression								
+n	terminal	keyboard	and	monitor								
+n	terrace	patio										
+n	terrorist											
+n	test	trial,	trial	run,	tryout							
+n	test	examination,	exam									
+n	text	textual	matter									
+n	text	textbook,	text	edition,	schoolbook							
+n	texture	appearance	of	a	surface	or	fabric					
+n	thanks	acknowledgment	of	appreciation								
+n	theater	dramaturgy,	dramatic	art,	dramatics,	theatre						
+n	theft	larceny,	thievery,	stealing								
+n	theme	motif										
+n	theme	melodic	theme,	musical	theme							
+n	theology											
+n	theorist	theoretician,	theorizer									
+n	theory	hypothesis										
+n	therapist	healer										
+n	therapy											
+n	thesis	dissertation										
+n	thigh	part	of	the	leg							
+n	thinker	creative	thinker,	mind,	important	intellectual						
+n	thought	thinking,	cerebration									
+n	thread	thin	yarn,	fine	cord	of	twisted	fibers				
+n	threat	menace,	source	of	danger							
+n	threshold	doorsill,	doorstep									
+n	brink	threshold,	verge									
+n	throat	pharynx,	passage	to	the	stomach	and	lungs				
+n	throne	chair	of	a	monarch							
+n	thumb	finger										
+n	ticket	traffic	ticket,	summons								
+n	ticket	entry	or	access	ticket							
+n	tide											
+n	tie	necktie										
+n	tie	draw,	standoff									
+n	tiger	large	feline									
+n	tile	flat	thin	slab								
+n	timber	lumber										
+n	time	clock	time									
+n	timetable	arrival	and	departure	schedule							
+n	can	tin	can									
+n	tin	atomic	number	50,	silvery	metal						
+n	tip	lead,	confidential	information								
+n	tip	point,	extreme	end								
+n	tip	gratuity										
+n	tissue	aggregate	of	cells								
+n	tissue	tissue	paper									
+n	title	claim										
+n	title	heading										
+n	title	title	of	respect								
+n	title	deed,	deed	of	conveyance,	legal	document					
+n	title	championship										
+n	toast	bread										
+n	toe											
+n	toll	fee	for	the	use	of	roads	or	bridges			
+n	tomato											
+n	ton	unit	of	weight								
+n	tone	tone	of	voice								
+n	tongue	body	part									
+n	tongue	natural	language									
+n	tool	implement										
+n	tooth	projection	on	a	gear							
+n	tooth	bonelike	structure	in	the	jaws						
+n	top	garment	that	extends	from	the	shoulders	to	the	waist	or	hips
+n	top	spinning	top									
+n	top	top	side,	upper	side,	upside						
+n	top	peak,	crown,	crest,	tip,	summit						
+n	flashlight											
+n	torch	lit	stick	carried	in	one's	hand					
+n	torture	torturing										
+n	touch	sense	of	touch								
+n	tourism											
+n	tourist	visitor	on	holiday								
+n	tournament	tourney,	sporting	competition								
+n	towel											
+n	tower	structure										
+n	town											
+n	toy	plaything										
+n	trace	footprint										
+n	track	data	track,	circular	magnetic	path	on	a	disk			
+n	track	racetrack,	racecourse,	raceway								
+n	track	lead,	trail,	evidence								
+n	tract	pamphlet										
+n	trade	craft,	skilled	practice	of	a	practical	occupation				
+n	trade	deal,	business	deal,	instance	of	buying	or	selling			
+n	trade	barter,	swap,	swop								
+n	tradition	custom,	practice	of	long	standing						
+n	traffic	buying	and	selling								
+n	traffic	pedestrians	or	vehicles								
+n	tragedy	theatrical	drama									
+n	train	railroad	train									
+n	trainer	one	who	trains	persons	or	animals					
+n	training	preparation,	grooming									
+n	trait	distinguishing	feature	of	your	personal	nature					
+n	transaction	commercial	dealing									
+n	transfer	transportation,	transferral,	conveyance								
+n	transition	conversion,	changeover									
+n	transmission	automobile	transmission									
+n	transport	transportation,	shipping									
+n	ecstasy	rapture										
+n	trap	snare,	device	for	catching							
+n	tray	open	receptacle									
+n	treasure											
+n	treasurer	financial	officer									
+n	treat	special	pleasurable	occurrence								
+n	treatment	handling										
+n	treatment	discussion,	discourse									
+n	treaty	pact,	accord									
+n	tree	tall	perennial	woody	plant							
+n	trench	ditch										
+n	trend	tendency										
+n	trial	legal	proceedings									
+n	trial	tribulation										
+n	triangle	trilateral										
+n	tribe	clan										
+n	tribute	testimonial,	expression	of	esteem							
+n	trick	magic	trick									
+n	trick	fast	one									
+n	trolley	streetcar,	tram									
+n	troop	group	of	soldiers								
+n	trouble	event	causing	distress	or	pain						
+n	trouble	worry										
+n	trouser	pants										
+n	truck	motortruck,	lorry									
+n	trunk	luggage	compartment,	automobile	trunk							
+n	trust	corporate	trust,	combine,	cartel							
+n	trust	confidence,	trustful	relationship								
+n	trustee	legal	guardian									
+n	truth	TRUE	statement									
+n	truth	verity,	trueness,	conformity	to	reality						
+n	t-shirt											
+n	subway	metro,	underground,	tube								
+n	tube	hollow	cylinder									
+n	tumour	tumor,	neoplasm									
+n	tune	melody,	air,	strain,	melodic	line						
+n	tunnel	passageway										
+n	turkey	bird	domesticated	for	food							
+n	turn	bend,	crook,	circular	segment	of	a	curve				
+n	twin	offspring	born	at	the	same	time					
+n	braid	plait,	tress,	hairdo								
+n	twist	wrench,	jerky	pulling	movement							
+n	tycoon	baron,	big	businessman,	business	leader,	king,	magnate,	mogul			
+n	tire	hoop	covering	a	wheel							
+n	ulcer											
+n	umbrella	handheld	collapsible	canopy								
+n	uncertainty	uncertainness,	precariousness									
+n	uncle	parent's	brother									
+n	understanding	sympathy,	compassion									
+n	unemployment											
+n	uniform	professional	clothing									
+n	union	labor	union,	trade	union							
+n	marriage	union,	matrimony,	spousal	relationship,	wedlock						
+n	unit	single	undivided	whole								
+n	unity	integrity,	wholeness									
+n	university											
+n	unrest	feeling	of	agitation								
+n	urge	strong	restless	desire								
+n	urgency	urgent	situation	calling	for	prompt	action					
+n	urine	piss,	pee,	piddle,	weewee,	water						
+n	use	habit,	usage									
+n	use	function,	purpose,	role								
+n	use	consumption										
+n	user											
+n	user	drug	user,	substance	abuser							
+n	vacuum	vacuum	cleaner									
+n	vacuum	void,	vacancy,	emptiness								
+n	valley	vale										
+n	value	numerical	quantity	measured	or	assigned	or	computed				
+n	value	ideal	accepted	by	some	individual	or	group				
+n	value	economic	value,	amount	of	money	or	goods	or	services		
+n	van	vehicle										
+n	avant-garde	vanguard,	new	wave								
+n	variable	variable	quantity									
+n	variant	variation,	something	a	little	different						
+n	variation	fluctuation										
+n	variety	diverseness,	diversity									
+n	vat	tub										
+n	vector											
+n	vegetable	veggie,	greens									
+n	vegetarian	person	who	eats	no	meat						
+n	vegetation	flora,	botany									
+n	vehicle	conveyance										
+n	veil	head	covering									
+n	vein	blood	vessel									
+n	velvet	silky	densely	piled	fabric							
+n	venture	risky	commercial	undertaking								
+n	Venus	planet	evening	star	morning	star						
+n	verdict	legal	verdict									
+n	version	interpretation	from	a	certain	viewpoint						
+n	version	adaptation										
+n	vessel	watercraft										
+n	vessel	container										
+n	veteran	veteran	soldier									
+n	victim											
+n	victory	triumph										
+n	video	video	recording									
+n	view	aspect,	prospect,	scene,	vista,	panorama						
+n	view	position,	perspective									
+n	view	opinion										
+n	villa											
+n	village	small	town,	settlement								
+n	villager											
+n	violation	infringement										
+n	virgin	person	who	has	never	had	sex					
+n	virtue	moral	excellence									
+n	virus	infectious	agent									
+n	computer	virus]	virus									
+n	vision	vivid	mental	image								
+n	visit											
+n	visitor											
+n	vitamin											
+n	voice	ability	to	speak								
+n	spokesperson	interpreter,	representative									
+n	volcano	mountain										
+n	volume	loudness,	intensity									
+n	volume	publication										
+n	volume	3-dimensional	space									
+n	volunteer	unpaid	worker									
+n	vote	ballot,	voting,	balloting								
+n	vote	right	to	vote,	suffrage							
+n	voter	elector										
+n	voucher	coupon										
+n	voyage	journey	to	some	distant	place						
+n	wage	pay,	earnings,	remuneration,	salary							
+n	wagon	wheeled	vehicle									
+n	waist	waistline										
+n	wake	viewing,	vigil	over	a	corpse						
+n	wall	architectural	partition									
+n	war	warfare,	armed	conflict								
+n	ward	hospital	ward									
+n	ward	town	district									
+n	ward	person	under	protection	or	custody						
+n	wardrobe	collection	of	clothing								
+n	warning	admonition,	cautionary	advice								
+n	warrant	court	warrant									
+n	warrior											
+n	waste	thriftlessness,	wastefulness									
+n	waste	waste	material,	waste	matter,	waste	product					
+n	watch	chronograph,	timepiece									
+n	watch	lookout,	sentinel,	sentry								
+n	water	H2O										
+n	waterfall	cascade										
+n	wave	ridge	moving	across	the	surface	of	a	liquid			
+n	way	path,	way	of	life,	course	of	conduct				
+n	way	means,	agency									
+n	weakness	lack	of	strength								
+n	weakness	failing,	flaw,	weak	point							
+n	wealth	riches										
+n	weapon	arm										
+n	weather	weather	condition									
+n	wedding	wedding	ceremony,	nuptials								
+n	weed	plant	that	crowds	out	cultivated	plants					
+n	week	calendar	week									
+n	weekend											
+n	weight	free	weight,	exercising	weight,	barbell						
+n	weight	vertical	force	exerted	by	a	mass					
+n	weight	weight	unit,	unit	used	to	measure	weight				
+n	welcome	greeting,	reception									
+n	welfare	social	welfare,	government-sponsored	program							
+n	welfare	wellbeing										
+n	well	deep	hole	with	water,	oil,	or	gas				
+n	west	West,	Occident									
+n	west	due	west,	W								
+n	whale	marine	mammal									
+n	wheat	cereal										
+n	wheel	frame	with	spokes								
+n	bike	bicycle,	bike,	cycle,	wheel							
+n	whip	lash	used	for	whipping							
+n	whiskey											
+n	egg	white]	albumen									
+n	widow											
+n	width	breadth										
+n	wife	married	woman,	spouse								
+n	wilderness	wild,	uninhabited	area								
+n	wildlife											
+n	will	volition										
+n	will	testament										
+n	willpower	self-control										
+n	win	winnings,	profits									
+n	wind	air	current,	current	of	air						
+n	window	opening	in	the	wall	of	a	building				
+n	wine	beverage	made	from	fermented	grapes						
+n	wing	biological	organ	for	flying							
+n	wing	airplane	wing									
+n	winner	victor										
+n	winter	wintertime										
+n	wire	metal	ligament									
+n	witch	enchantress,	sorceress									
+n	withdrawal	backdown,	retraction									
+n	withdrawal	detachment,	avoidance	of	emotional	involvement						
+n	witness	spectator,	viewer,	watcher,	looker							
+n	witness	person	who	testifies	in	court						
+n	wolf	canine	mammal									
+n	woman	adult	female									
+n	wonder	marvel										
+n	wood	hard	substance	under	the	bark	of	trees				
+n	wool	fabric										
+n	word	unit	of	language								
+n	word	parole,	word	of	honor							
+n	wording	phrasing,	choice	of	words							
+n	work	employment										
+n	work	workplace										
+n	work	oeuvre,	body	of	work							
+n	worker	person	who	works	at	a	specific	occupation				
+n	workshop	brief	intensive	course								
+n	world	reality										
+n	world	populace,	public									
+n	world	Earth,	globe									
+n	world	universe,	existence,	cosmos,	macrocosm							
+n	worm	animal										
+n	worm	software	program									
+n	worth	value										
+n	wound	lesion										
+n	wreck	something	dilapidated									
+n	wrist	carpus,	wrist	joint								
+n	writer	author										
+n	X-ray	radiogram,	X-ray	picture								
+n	yacht											
+n	yard	grounds										
+n	yard	3	feet									
+n	year	twelvemonth,	yr									
+n	youth	young	people									
+n	youth	time	of	life	between	childhood	and	maturity				
+n	zero	0,	naught									
+n	zone	geographical	region									
+v	abandon	forsake,	desert									
+v	abolish	get	rid	of								
+v	abridge	shorten,	cut									
+v	absorb	take	in,	suck	up							
+v	accept	live	with,	put	up	with						
+v	accompany	go	or	come	with							
+v	activate	make	active									
+v	add	total										
+v	adjust	conform,	adapt									
+v	admire	look	up	to								
+v	admit	acknowledge										
+v	admit	allow	in,	let	in,	allow	to	enter				
+v	adopt	take	in	as	a	child						
+v	adopt	borrow,	take	over,	take	up						
+v	advance	progress,	pass	on,	move	on,	march	on,	go	on		
+v	affect	impact,	bear	upon								
+v	feign	sham,	pretend,	dissemble,	simulate							
+v	afford	have	the	financial	means							
+v	age	get	older									
+v	agree	consent,	assent									
+v	match	fit,	correspond,	check,	agree							
+v	allow	permit,	let									
+v	amputate	cut	off,	remove	surgically							
+v	amuse	make	laugh									
+v	answer	reply,	respond									
+v	apologize											
+v	appeal	challenge	a	decision								
+v	appear	come	into	view								
+v	applaud	clap	one's	hands								
+v	appoint	name,	nominate									
+v	appreciate	recognize	with	gratitude								
+v	approach	near,	draw	near,	draw	close,	come	near				
+v	approve	O.K.,	okay,	sanction								
+v	arrange	set	up,	order								
+v	arrange	set	up,	put	in	systematic	order					
+v	arrest	apprehend,	pick	up,	take	into	custody					
+v	articulate	enunciate										
+v	ascertain											
+v	ask	inquire										
+v	expect	require,	ask									
+v	assume	presume,	take	for	granted,	take	to	be	the	case		
+v	impound	confiscate,	seize									
+v	attack	assail,	assault,	attack	physically	or	emotionally					
+v	attract	appeal,	be	attractive	to							
+v	authorise	empower										
+v	avoid											
+v	endorse	second,	back,	support								
+v	bake	prepare	with	dry	heat							
+v	balance	equilibrate,	bring	into	balance	or	equilibrium					
+v	ostracize	shun,	blackball,	expel	from	a	community					
+v	banish	bar,	relegate,	expel								
+v	bargain	negotiate,	dicker									
+v	bark	make	barking	sounds								
+v	carry	bear										
+v	beat	vanquish,	come	out	better	in	a	competition	or	race		
+v	beat	hit	repeatedly									
+v	scramble	beat,	stir	vigorously								
+v	beat	pound,	thump,	move	rhythmically							
+v	beat	be	superior	to								
+v	become											
+v	beg	ask	for	money	or	goods						
+v	begin	start,	commence,	cause	to	start						
+v	behave	comport,	act	in	a	certain	manner					
+v	behead	decapitate,	cut	the	head	off						
+v	belong	be	owned	by								
+v	flex	bend										
+v	bend	crouch,	stoop,	bow								
+v	bet	wager										
+v	betray	deceive										
+v	bind	tie	or	secure	with	a	rope	or	cable			
+v	bond	create	social	or	emotional	ties						
+v	bite	seize	with	teeth								
+v	blame	fault	put	the	blame	on						
+v	blame	find	fault,	pick	on							
+v	blast	blare										
+v	bleed	shed	blood									
+v	bless	give	a	benediction	to							
+v	block	obstruct,	hinder,	stymie								
+v	waste	squander,	blow,	throw	away,	spend	thoughtlessly					
+v	board	get	on									
+v	boil											
+v	bomb	bombard										
+v	borrow	obtain	temporarily									
+v	bother	annoy,	irritate									
+v	bounce	move	up	and	down	repeatedly						
+v	bow	bend	the	head	or	the	upper	body	in	respect	or	greeting
+v	brag	show	off,	boast								
+v	break	destroy										
+v	disclose	bring	out,	reveal,	expose,	divulge						
+v	pause	pause,	take	a	break							
+v	wear	out]	bust,	fall	apart,	break						
+v	break	in]	enter	illegally								
+v	breathe	take	a	breath,	respire							
+v	breed	raise,	cause	to	reproduce							
+v	bring	bring	along									
+v	bring	fetch,	bring	in,	be	sold	for	a	certain	price		
+v	brush	rub	with	a	brush							
+v	displace	bump										
+v	burn	bite,	sting,	cause	a	sharp	or	stinging	pain			
+v	burn	combust,	cause	to	burn							
+v	burst	bust,	break	open								
+v	bury	place	in	the	ground	as	for	hiding				
+v	buy	purchase,	acquire									
+v	call	telephone,	call	up,	phone,	ring						
+v	call	name										
+v	call	send	for									
+v	call	shout,	shout	out,	cry,	yell,	holler					
+v	predict	call,	foretell,	prognosticate,	forebode							
+v	calm	calm	down,	quiet,	tranquilize,	quieten						
+v	cancel	call	off									
+v	captivate	beguile,	charm,	bewitch,	entrance,	enchant						
+v	capture	take	possession	of	by	force,	seize,	conquer				
+v	care	feel	concern	or	interest							
+v	carry	transport										
+v	carve	cut	up,	cut	to	pieces						
+v	hurl	cast,	hurtle,	throw	forcefully							
+v	cast	select	for	a	play	or	movie					
+v	catch	grab,	take	hold	of							
+v	capture	catch										
+v	cater	supply	food	ready	to	eat						
+v	challenge	dispute,	call	into	question							
+v	change	alter,	make	or	become	different						
+v	switch	change,	shift,	change	one	thing	for	another				
+v	charge	energize	a	battery								
+v	charge	accuse										
+v	charge	pay	with	a	credit	card						
+v	charge	demand	payment									
+v	chase	chase	after,	give	chase							
+v	check	check	off,	mark,	mark	off,	tick	off,	tick			
+v	check	check	out,	verify								
+v	chew	masticate										
+v	choke	gag,	suffocate									
+v	choke	strangle										
+v	choose											
+v	chop	chop	up									
+v	claim	assert,	affirm									
+v	clarify	clear	up,	elucidate,	make	comprehensible						
+v	classify	declare	unavailable									
+v	clear	empty,	remove	the	occupants	of						
+v	acquit	clear,	pronounce	not	guilty							
+v	climb	climb	up,	mount,	go	up						
+v	close	shut										
+v	close	finish,	terminate,	conclude,	end							
+v	coincide	concur,	happen	simultaneously								
+v	collapse	crumble,	crumple,	tumble								
+v	collect	pick	up									
+v	combine	blend,	mix,	conflate,	commingle,	fuse,	merge					
+v	comfort	soothe,	console									
+v	compare											
+v	remunerate	compensate										
+v	compete	vie,	contend									
+v	complain	express	discontent									
+v	compromise	make	a	compromise								
+v	concede	acknowledge	defeat									
+v	conceive	become	pregnant									
+v	concentrate	focus,	focus	one's	attention							
+v	confine	detain										
+v	confront	come	face	to	face	with						
+v	congratulate											
+v	consider	debate,	think	about								
+v	consolidate	unite	into	one								
+v	construct	manufacture,	fabricate									
+v	contain	incorporate,	comprise									
+v	control	operate,	handle									
+v	command	control										
+v	convert	change	religious	beliefs								
+v	convict	find	guilty									
+v	convince	convert,	win	over								
+v	falsify	manipulate,	fake,	fudge,	cook,	misrepresent						
+v	cooperate	collaborate,	join	forces								
+v	cope	get	by,	make	do,	manage						
+v	copy	imitate,	simulate									
+v	copy	re-create,	replicate									
+v	correspond	exchange	messages									
+v	cough											
+v	count	number,	enumerate									
+v	treat	handle,	deal	with,	address,	cover						
+v	cover	provide	with	a	covering							
+v	crash	cease	operating	abruptly								
+v	smash	break	apart									
+v	dash	smash,	hurl	or	thrust	violently						
+v	crash	fall	or	come	down	violently						
+v	create	bring	into	existence								
+v	creep	crawl										
+v	cower	fawn,	cringe,	grovel,	show	submission	or	fear				
+v	crop	cut	short									
+v	graze	pasture										
+v	cross	traverse										
+v	crouch	squat										
+v	cry	weep										
+v	cultivate	domesticate,	naturalize,	naturalise,	tame							
+v	curl	coil,	loop									
+v	reduce	cut	down,	cut	back,	trim						
+v	cut	cleave										
+v	damn	curse										
+v	dance	move	in	a	pattern	to	music					
+v	dare	be	courageous	enough	to	try	or	do	something			
+v	debate	deliberate										
+v	debut	appear	in	public	for	the	first	time				
+v	decide	make	up	one's	mind							
+v	determine	influence										
+v	decline	worsen										
+v	decrease	lessen,	make	smaller	or	less						
+v	dedicate	inscribe	or	address	by	way	of	compliment				
+v	defend	represent	in	a	court	of	law					
+v	define	give	a	definition	for							
+v	delay	detain,	hold	up								
+v	delay	act	later	than	planned							
+v	delete	erase,	wipe	out	information							
+v	deliver	make	a	delivery,	bring							
+v	deport	extradite,	hand	over	to	the	authorities	of	another	country		
+v	rescue	deliver,	free	from	harm							
+v	demand	request	urgently	and	forcefully							
+v	demolish	destroy										
+v	demonstrate	march,	march	in	protest							
+v	denounce											
+v	deny	contradict,	declare	untrue								
+v	deny	refuse	to	grant								
+v	digress	sidetrack										
+v	depend	be	contingent	upon								
+v	deprive	keep	from	having	or	obtaining						
+v	describe	depict										
+v	desert	defect										
+v	deserve	merit,	be	worthy	or	deserving						
+v	despise	scorn,	disdain									
+v	deter	dissuade										
+v	deteriorate	become	worse,	disintegrate								
+v	modernize	develop										
+v	train	prepare,	educate									
+v	develop	make	something	new,	invent							
+v	arise	originate,	develop,	come	into	existence						
+v	devote	dedicate,	commit	to	a	specific	cause	or	function			
+v	dictate	say	out	loud	for	the	purpose	of	recording			
+v	break	down]	die,	conk	out							
+v	die	suffer	death									
+v	disagree	differ,	take	issue								
+v	differ	be	different									
+v	dig											
+v	excavate	hollow,	hollow	out								
+v	dilute	thin,	reduce,	cut								
+v	dine	have	supper									
+v	dip	slope	downwards									
+v	direct	point	somebody	into	a	certain	direction					
+v	direct	guide	actors									
+v	disappear	vanish										
+v	disappoint	let	down									
+v	discourage	deter										
+v	discover	come	upon,	chance	upon,	come	across					
+v	discuss	talk	over									
+v	disguise											
+v	dislike											
+v	dismiss	fire,	give	notice,	give	the	axe,	sack				
+v	display	expose,	exhibit									
+v	quarrel	dispute,	argue									
+v	thaw	unfreeze,	unthaw,	dethaw,	melt							
+v	distort	falsify										
+v	distribute	give	out,	hand	out							
+v	dive	plunge	into	water								
+v	divide	split,	split	up,	separate							
+v	divorce	split	up									
+v	document	record	in	detail								
+v	dominate	be	in	control								
+v	donate											
+v	double	increase	twofold,	duplicate								
+v	doubt	consider	unlikely									
+v	drag	pull	against	a	resistance							
+v	trail	be	behind,	hang	back,	drop	behind					
+v	drain	empty	of	liquid								
+v	tie	tie,	finish	a	game	with	an	equal	number	of	points	
+v	pull	draw										
+v	draw	attract,	pull,	pull	in,	draw	in					
+v	draw	represent	by	making	a	drawing	of					
+v	withdraw	take	out,	draw	off							
+v	dress	clothe										
+v	drink	imbibe,	take	in	liquids							
+v	drive	travel	by	vehicle								
+v	deteriorate	degenerate,	grow	worse								
+v	dribble	drip										
+v	drop	let	fall									
+v	drown	die	in	water								
+v	drug	dose,	medicate									
+v	dump	discard,	dispose,	toss	out							
+v	ditch	dump,	unceremoniously	sever	all	ties	with					
+v	eat	take	in	solid	food							
+v	eavesdrop	listen	in									
+v	choose	elect	to	do								
+v	elect	select	by	in	an	election						
+v	eliminate	get	rid	of,	do	away	with					
+v	embark	venture										
+v	employ	hire,	engage									
+v	encourage	spur	on									
+v	endure	weather,	brave									
+v	enhance	make	better	or	more	attractive						
+v	enlarge	magnify,	blow	up								
+v	ensure	guarantee,	insure,	assure,	secure							
+v	enter	come	in,	get	into,	get	in,	go	into,	go	in	
+v	enter	enroll,	inscribe									
+v	entertain	provide	entertainment									
+v	escape	get	away,	break	loose,	run	away	from	confinement			
+v	establish	install,	set	up								
+v	exaggerate	overstate										
+v	exceed	surpass,	outstrip,	outmatch,	outdo							
+v	exclude	except,	leave	out,	leave	off,	omit					
+v	eject	expel,	throw	out,	kick	out						
+v	excuse	forgive,	pardon									
+v	execute	put	to	death								
+v	exhibit											
+v	prosper	boom,	thrive,	flourish								
+v	elaborate	expand,	expatiate,	enlarge,	flesh	out						
+v	expand	spread	out,	extend	in	one	or	more	directions,	spread		
+v	expect	anticipate										
+v	experiment	conduct	a	test	or	investigation						
+v	explain	explicate										
+v	explode	detonate,	blow	up								
+v	explode	show	a	violent	emotional	reaction						
+v	exploit	manipulate	to	one's	advantage							
+v	export	sell	abroad									
+v	expose	debunk										
+v	extend	widen,	broaden	in	scope	or	range	or	area			
+v	confront	face,	face	up	to							
+v	fade	wither										
+v	fail	go	wrong									
+v	faint	pass	out									
+v	decrease	diminish,	fall									
+v	fall	descend	in	free	fall							
+v	fan	agitate	the	air								
+v	fascinate	intrigue										
+v	fast	abstain	from	food								
+v	fear	dread,	be	afraid	of							
+v	feel	experience,	undergo	an	emotional	sensation						
+v	fight	struggle										
+v	fill	fill	up,	make	full							
+v	film	record	on	film								
+v	find	discover										
+v	find	recover,	retrieve,	regain								
+v	finish	complete										
+v	fire	discharge	a	weapon								
+v	equip	fit	out,	outfit								
+v	fit	conform	to	shape	or	size						
+v	fix	repair,	mend									
+v	flash	blink,	wink,	twinkle								
+v	fling	throw	with	force	or	recklessness						
+v	splurge	indulge	oneself									
+v	flood	inundate,	fill	quickly	beyond	capacity						
+v	flourish	thrive,	prosper									
+v	flush	blush,	redden									
+v	flush	cause	to	flow	or	flood						
+v	fly	travel	through	the	air,	be	airborne					
+v	fold	fold	up,	bend	or	lay	so	that	one	part	covers	the
+v	follow	go	behind									
+v	follow	comply										
+v	follow	succeed,	come	after								
+v	fool	around]	horse	around,	fool							
+v	forbid	prohibit,	interdict									
+v	force	move	something	forcibly								
+v	coerce	pressure,	force,	compel								
+v	forge	fake,	counterfeit									
+v	forget	block,	blank	out,	draw	a	blank,	fail	to	remember		
+v	form	shape,	give	shape	to							
+v	organize	form										
+v	formulate	word,	phrase,	articulate								
+v	foster	nurture										
+v	frame	ensnare,	entrap,	set	up							
+v	frame	enclose	in	a	frame							
+v	exempt	free,	grant	an	exemption							
+v	freeze	feel	or	be	cold							
+v	freeze	change	to	ice								
+v	frighten	scare,	cause	fear	in							
+v	fund	finance,	underwrite									
+v	gain	profit,	benefit									
+v	gasp	pant,	puff,	heave								
+v	stare											
+v	generate	bring	forth,	produce								
+v	get	acquire										
+v	feed	provide	with	food								
+v	give	yield,	be	flexible								
+v	give	render,	yield,	return,	generate							
+v	give	collapse,	fall	in,	cave	in,	give	way				
+v	give	present,	give	as	a	gift						
+v	give	pass,	hand,	reach								
+v	glance	peek										
+v	glare	glower										
+v	glide	move	smoothly	and	effortlessly							
+v	glow	emit	light									
+v	die	perish										
+v	go	move										
+v	graduate	receive	an	academic	degree							
+v	greet	send	greetings									
+v	grin											
+v	grind	mash,	crunch									
+v	groan	moan										
+v	grow	mature,	maturate									
+v	guard	ward,	watch	over,	shield	from	danger	or	harm			
+v	guess	make	a	guess								
+v	handicap	hinder,	hamper									
+v	hang	hang	up,	suspend								
+v	happen	go	on,	occur								
+v	harm	do	harm	to								
+v	hate	detest,	loathe									
+v	haul	transport										
+v	haunt	stalk										
+v	have	have	got									
+v	heal	cure										
+v	hear	perceive	sound									
+v	help	assist,	aid									
+v	hesitate	pause	or	hold	back	in	uncertainty	or	unwillingness			
+v	hiccup	breathe	spasmodically									
+v	hide	conceal										
+v	hide	hide	out,	be	or	go	into	hiding				
+v	hike	walk	for	pleasure,	take	a	hike					
+v	hit	strike										
+v	hit	strike,	run	into,	collide	with						
+v	defend	guard,	protect									
+v	support	hold,	sustain,	hold	up							
+v	hold	reserve,	book									
+v	hold	bear,	carry,	contain								
+v	hook	fasten	with	a	hook							
+v	host	be	the	host								
+v	hover	levitate										
+v	offend	wound,	hurt									
+v	hurt	ache,	be	the	source	of	pain					
+v	hypnothize	mesmerize										
+v	identify	name										
+v	ignore	neglect,	disregard									
+v	dismiss	disregard,	brush	aside,	brush	off,	discount					
+v	illustrate	exemplify										
+v	imagine	conceive	of,	ideate,	envisage							
+v	import	bring	in	from	abroad							
+v	impress	make	a	good	impression							
+v	improve	better,	amend,	ameliorate								
+v	include	admit,	let	in								
+v	include	have	as	a	part							
+v	increase	become	bigger	or	greater							
+v	indulge	enjoy	to	excess								
+v	infect	communicate	a	disease								
+v	inflate	blow	up,	fill	with	air						
+v	inherit											
+v	inject	take	by	injection								
+v	injure	wound,	hurt									
+v	insert	place	inside									
+v	insist	take	a	firm	stand							
+v	inspire	supply	the	inspiration	for							
+v	instal	put	in,	set	up	for	use					
+v	install	put	into	an	office	or	a	position				
+v	insure	take	out	insurance								
+v	intensify	escalate,	step	up								
+v	translate	interpret	in	another	language							
+v	interrupt	disrupt										
+v	introduce	inaugurate,	usher	in								
+v	introduce	present,	acquaint									
+v	introduce	bring	in									
+v	invite	ask	over,	invite	to	one's	house					
+v	jail	imprison,	incarcerate									
+v	twitch	jerk										
+v	jest	act	or	speak	playfully							
+v	skip	pass	over,	skip	over							
+v	jump	leap,	bound									
+v	parachute	jump	from	an	airplane							
+v	justify	excuse,	rationalize									
+v	keep	preserve										
+v	keep	maintain										
+v	keep	hold	on,	retain	possession	of						
+v	keep	observe,	celebrate	holidays	or	rites						
+v	kick	strike	with	the	foot							
+v	kill	cause	to	die,	put	to	death					
+v	kiss											
+v	knead											
+v	kneel	rest	one's	weight	on	one's	knees					
+v	knit	make	textiles	by	knitting							
+v	knock	rap,	strike	with	the	knuckles						
+v	know	be	familiar	or	acquainted	with	a	person	or	an	object	
+v	know	be	aware	of	the	truth	of	something				
+v	know	know	how	to	do	or	perform	something				
+v	land	come	down	on	the	ground						
+v	endure	last,	persist									
+v	laugh											
+v	launch	propel	with	force,	set	in	motion					
+v	lay	put	down,	lay	down							
+v	lead	head,	travel	in	front	of						
+v	lead	be	in	charge								
+v	leak	escape	through	an	opening							
+v	lean	tilt,	tip,	slant,	angle,	incline,	bend					
+v	learn	memorize										
+v	teach	instruct										
+v	leave	leave	behind									
+v	leave	exit,	go	out,	get	out						
+v	leave	bequeath,	will,	pass	on							
+v	lend	loan										
+v	lease	rent,	let									
+v	level	raze,	rase,	dismantle,	tear	down						
+v	license	certify										
+v	lick	lap,	pass	the	tongue	over						
+v	lie	tell	an	untruth								
+v	lie	lie	down									
+v	revoke	lift,	annul,	reverse,	repeal,	overturn,	rescind					
+v	plagiarize	steal	intellectual	property								
+v	light	light	up,	illuminate,	make	light						
+v	ignite	light,	light	up								
+v	like	be	fond	of								
+v	restrict	limit,	restrain									
+v	linger	loiter										
+v	link	connect,	tie,	fasten	together							
+v	list	include	in	a	list							
+v	listen	hear										
+v	load	place	on	a	surface	or	a	conveyance				
+v	locate	situate,	determine	the	location							
+v	lock	fasten	with	a	lock							
+v	lodge	stay	temporarily									
+v	yearn	hanker,	long									
+v	look	appear,	seem									
+v	look	search										
+v	lose	fail	to	win								
+v	misplace	lose										
+v	love	be	in	love	with							
+v	enjoy	enjoy	doing,	love	to	do						
+v	frown	glower,	look	angry	or	sullen						
+v	make	produce,	create									
+v	cook	fix,	ready,	prepare								
+v	make	gain,	take	in,	clear,	earn						
+v	manage	oversee,	supervise									
+v	manage	pull	off,	bring	off,	carry	off					
+v	fabricate	cook	up,	make	up,	invent						
+v	march	walk										
+v	market	commercialize										
+v	master	get	the	hang	of							
+v	match	be	equal	or	harmonize							
+v	matter	count,	weigh,	carry	weight							
+v	mean	intend,	signify,	stand	for							
+v	measure	quantify,	express	as	a	number	or	quantity				
+v	evaluate	valuate,	assess,	appraise,	value							
+v	meet	gather,	assemble									
+v	meet	get	to	know								
+v	mention	note,	observe,	remark								
+v	mind	be	offended	or	bothered	by						
+v	minimize	understate,	downplay									
+v	mislead	misinform,	give	FALSE	information							
+v	miss	feel	or	suffer	from	the	lack	of				
+v	miss	fail	to	reach	or	get	to					
+v	lack	be	without									
+v	miss	fail	to	attend	an	event	or	activity				
+v	mix	shuffle,	randomize									
+v	model	simulate										
+v	move	be	active									
+v	move	arouse	sympathy	or	compassion							
+v	move	change	position									
+v	move	change	residence,	affiliation,	or	employment						
+v	multiply	calculate										
+v	mutter	mumble,	murmur									
+v	nap	catnap,	take	a	nap							
+v	need	require										
+v	nod											
+v	nominate	put	up,	put	forward,	propose						
+v	notice	note,	perceive									
+v	obey											
+v	object	raise	an	objection								
+v	obscure	make	less	visible								
+v	obtain											
+v	occupy	fill,	occupy	the	whole	space	of					
+v	offend	cause	to	feel	resentment							
+v	offer	bid,	propose	to	pay							
+v	offer	volunteer	to	do								
+v	offset	countervail,	compensate,	counterbalance,	make	up	for					
+v	open	open	up									
+v	oppose	be	against									
+v	organize	bring	order	and	organization	to						
+v	mastermind	engineer,	direct,	orchestrate,	organize							
+v	overlook	fail	to	notice								
+v	overwhelm	overpower										
+v	owe	be	obliged	to	pay							
+v	pack	arrange	in	a	container							
+v	paint	apply	paint	to,	coat	with	paint					
+v	paint	make	a	painting								
+v	park	maneuver	a	vehicle	into	a	parking	space				
+v	participate	take	part									
+v	pass	go	through,	go	across							
+v	pass	overtake,	travel	past								
+v	elapse	pass	by,	go	by							
+v	legislate											
+v	pass	make	it,	be	successful							
+v	exceed	pass,	go	past,	top							
+v	pat	dab,	hit	lightly								
+v	pay	give	money	in	exchange	for	goods	or	services			
+v	penetrate	enter	into									
+v	perceive	sense										
+v	perforate	pass	in	or	through							
+v	perform	give	a	performance								
+v	persist	persevere										
+v	persuade											
+v	photocopy	xerox,	run	off								
+v	pick	select	carefully									
+v	pluck	pick,	cull									
+v	pile	stack,	heap									
+v	rank	rate,	place,	range,	order,	grade						
+v	plan	make	plans									
+v	design	conceive										
+v	play	participate	in	games	or	sport						
+v	bet	wager,	stake									
+v	play	act,	roleplay,	playact								
+v	play	play	on	an	instrument							
+v	play	engage	in	playful	activity							
+v	plead	enter	a	plea	in	courts	of	law				
+v	please	delight,	give	pleasure								
+v	pledge	promise	solemnly									
+v	plot	plan	secretly									
+v	plot	diagram										
+v	plug	stop	up									
+v	poison	administer	poison	to								
+v	polish	refine										
+v	pop	burst	open	with	a	sharp,	explosive	sound				
+v	post	publicize	with,	or	as	if	with,	a	poster			
+v	postpone											
+v	swarm	pour,	teem,	move	in	large	numbers					
+v	pour	cause	to	flow								
+v	pray	say	a	prayer								
+v	beg	implore,	entreat									
+v	preach	deliver	a	sermon								
+v	precede	predate,	antecede,	antedate								
+v	prefer	favor										
+v	present	submit,	hand	over	formally							
+v	urge	urge	on									
+v	press	exert	pressure	or	force	on						
+v	squeeze	compress,	constrict,	press,	compact							
+v	prevent	forestall,	keep	from	happening							
+v	print	reproduce	by	printing								
+v	proclaim	exclaim,	promulgate,	state,	announce							
+v	produce	grow,	raise,	farm,	cultivate							
+v	profit	turn	a	profit								
+v	prosecute	bring	a	criminal	action	against						
+v	protect	shield	from	danger								
+v	prove	show,	demonstrate,	establish								
+v	provide	supply,	render,	furnish								
+v	provoke	arouse,	evoke	an	emotion	or	response					
+v	harass	hassle,	plague,	molest								
+v	publish	bring	out,	put	out,	issue,	release					
+v	extract	pull,	pull	out,	pull	up,	take	out				
+v	pump	raise	fluid	with	a	pump						
+v	punch	hit	with	the	fist							
+v	punch	make	a	hole	in							
+v	punish	penalize										
+v	advertise	push,	promote									
+v	push	press										
+v	put	place,	set,	pose,	lay,	position						
+v	qualify	modify										
+v	qualify	measure	up,	prove	capable,	meet	requirements					
+v	question	interrogate										
+v	quit	drop	out,	give	up,	throw	in	the	towel			
+v	quote	cite										
+v	race	rush,	hasten,	speed,	hurry							
+v	build	raise,	put	up,	construct,	raise						
+v	lift	raise,	elevate,	move	up							
+v	raise	collect	funds									
+v	raise	rear,	bring	up,	nurture,	parent						
+v	promote	upgrade,	advance,	kick	upstairs							
+v	rape	ravish,	violate,	assault								
+v	achieve	accomplish,	attain,	gain	with	effort						
+v	reach	extend	to,	touch								
+v	read	interpret	something	that	is	written	or	printed				
+v	realize	recognize,	be	fully	aware	of						
+v	rear	rise	up									
+v	recognize	perceive	to	be	the	same						
+v	recognize	accredit,	grant	credentials								
+v	recommend	commend										
+v	record	tape,	register	electronically								
+v	recover	recuperate,	convalesce									
+v	recruit	seek	to	employ								
+v	recycle	reprocess,	reuse									
+v	redeem	exchange	for	ransom	under	threat						
+v	refer	mention,	advert,	bring	up,	cite,	name					
+v	reflect	think	over,	meditate,	ponder,	contemplate						
+v	reflect	shine										
+v	reform	improve	by	alteration	or	correction						
+v	refuse	decline	to	do								
+v	reject	pass	up,	turn	down,	refuse,	decline					
+v	deny	refuse	to	let	have							
+v	register	enroll	to	vote								
+v	regret	repent,	rue,	feel	remorse							
+v	reinforce	reward,	support	with	rewards							
+v	reject	rule	out,	eliminate								
+v	relate	tie	in,	link,	connect	logically	or	causally				
+v	relax	loosen	up,	unwind								
+v	release	free,	liberate									
+v	relieve	free	from	a	burden	or	distress					
+v	relinquish	renounce,	give	up,	foreswear							
+v	trust	rely	on,	have	confidence	in						
+v	remain	persist,	stay	behind								
+v	commemorate	remember										
+v	remind	prompt,	cue									
+v	repeat	duplicate,	reduplicate,	double,	replicate							
+v	replace	substitute	for	a	defective	or	inadequate	one				
+v	represent	be	a	delegate	or	spokesperson						
+v	represent	stand	for,	correspond	to							
+v	reproduce	make	a	copy								
+v	request	call	for									
+v	command	compel										
+v	rescue	free	from	harm	or	evil						
+v	resemble											
+v	resent											
+v	reserve	obtain	or	arrange	in	advance						
+v	resign	leave	office,	quit,	step	down						
+v	resist	withstand,	hold	up	against							
+v	resist	baulk,	refuse	to	comply							
+v	respect	esteem,	value									
+v	rest	breathe,	catch	one's	breath,	take	a	breather				
+v	restrain	encumber,	constrain,	hold	back							
+v	retain	remember,	keep	in	one's	mind						
+v	retire	go	to	bed,	turn	in						
+v	retire	go	into	retirement								
+v	retreat	move	away									
+v	return	go	back									
+v	return	bring	back,	take	back							
+v	refund	repay,	pay	back								
+v	reveal	uncover,	bring	out,	make	visible						
+v	reverse	invert,	turn	inside	out	or	upside	down				
+v	review	look	back,	retrospect								
+v	revise	make	revisions	to								
+v	revive	resuscitate										
+v	reward	repay,	pay	back								
+v	tease	rag,	taunt									
+v	ride	be	carried	or	travel	in	or	on	a	vehicle		
+v	ring	peal										
+v	arise	get	up,	get	out	of	bed					
+v	rise	increase,	go	up,	climb,	increase	in	value	or	level		
+v	rise	move	upward									
+v	rise	arise,	get	up,	stand	up,	rise	to	one's	feet		
+v	rise	come	up,	ascend	in	the	sky					
+v	risk	gamble,	chance,	hazard,	take	chances						
+v	roar	bellow,	make	a	loud	noise						
+v	rob	deprive	somebody	of	something							
+v	rock	sway,	move	back	and	forth						
+v	roll	turn	over,	turn	over	or	rotate					
+v	wander	stray,	tramp,	roam,	ramble,	rove,	range,	drift				
+v	row	propel	with	oars								
+v	rub	apply	friction									
+v	scratch	scrape	or	rub	to	relieve	itching					
+v	rule	govern										
+v	run	campaign	for	office								
+v	run	be	operating	or	functioning							
+v	run	move	fast	on	one's	feet						
+v	flow	run										
+v	escape	run,	run	away,	flee							
+v	sail											
+v	save	lay	aside,	save	up							
+v	save	spare										
+v	say	state,	tell									
+v	scan	skim,	examine	hastily								
+v	scatter	sprinkle,	dot,	dust,	disperse							
+v	scramble	jumble										
+v	scrape	grate,	scratch									
+v	scratch	scrape										
+v	scream	yell,	shriek									
+v	screen	examine	methodically									
+v	screen	screen	out,	sieve	out							
+v	cheat	fool,	swindle									
+v	screw	tighten,	fasten									
+v	seal	seal	off,	make	tight,	secure	against	leakage				
+v	secure	fasten,	fix,	cause	to	be	firmly	attached				
+v	see	understand,	realize									
+v	see	meet,	ran	into,	encounter,	run	across,	come	across			
+v	see	perceive	by	sight								
+v	seek	search,	look	for								
+v	seem	appear										
+v	seize	clutch,	take	hold	of,	grab,	grasp					
+v	sell	exchange	for	money								
+v	betray	sell	out									
+v	mail	send,	post									
+v	broadcast	air,	send									
+v	branch	fork,	divide	into	branches							
+v	separate	split	up,	split,	part	company						
+v	discriminate	separate,	single	out,	treat	differently						
+v	serve	serve	up,	dish	out							
+v	serve	attend	to,	wait	on,	attend,	assist					
+v	set	adjust,	correct,	regulate								
+v	plant	put	or	set	into	the	ground					
+v	set	go	down,	go	below	the	horizon					
+v	settle	establish	a	residence								
+v	settle	end	a	legal	dispute							
+v	reconcile	make	up									
+v	sink	go	down,	go	under							
+v	shake	agitate,	move	back	and	forth						
+v	rock	sway										
+v	shape	form,	work,	mold,	forge							
+v	share	use	jointly	or	in	common						
+v	shatter	break										
+v	shave	remove	body	hair								
+v	shed	spill,	disgorge									
+v	budge	shift,	stir									
+v	polish	shine										
+v	shine	glitter,	glisten,	glint,	gleam							
+v	shiver	shudder										
+v	stun	floor,	surprise	greatly								
+v	shock	offend,	scandalize,	outrage								
+v	shoot	spud,	germinate,	sprout								
+v	shoot	fire	a	shot								
+v	shout	speak	loudly									
+v	abuse	shout	at,	abuse	verbally							
+v	show	indicate,	point									
+v	show	exhibit,	present,	demonstrate								
+v	show	reveal,	display									
+v	shrink	shrivel										
+v	shrug											
+v	sigh	utter	a	sigh								
+v	sightsee											
+v	sign	mark	with	one's	signature							
+v	sing											
+v	sip	drink										
+v	sit	sit	down,	be	seated							
+v	skate	move	on	skates								
+v	slam	bang,	close	violently								
+v	slap	hit	with	a	flat	surface						
+v	slide	slither,	pass	or	move	unobtrusively	or	smoothly				
+v	slip	skid,	slide									
+v	slump	slouch										
+v	smash	break	into	pieces								
+v	smell	emit	an	odor								
+v	smell	perceive	by	the	olfactory	sense						
+v	smile											
+v	smoke	inhale	a	plant	derivative							
+v	snap	crack,	break	suddenly,	rupture							
+v	snarl	speak	sharply,	snap								
+v	snatch	snatch	up,	snap	up							
+v	snap	click,	flick,	make	a	snapping	sound					
+v	kidnap	snatch,	abduct									
+v	sniff	whiff,	inhale									
+v	snuggle	cuddle,	nestle,	draw	close							
+v	soak	submerge	in	liquid								
+v	overcharge	surcharge,	fleece,	rip	off							
+v	pawn	hock										
+v	soar	fly	upwards									
+v	solve	work	out,	figure	out,	puzzle	out					
+v	sow	place	seeds	into	the	ground						
+v	spare	give	up,	part	with							
+v	spare	save	from	an	unpleasant	experience						
+v	speculate	invest	at	a	risk							
+v	speed	travel	at	an	excessive	or	illegal	velocity				
+v	spend	expend										
+v	spill	flow	out									
+v	spin	twist	and	turn	so	as	to	give	an	intended	interpretation	
+v	spin	form	a	web								
+v	spin	spin	around,	whirl,	reel,	gyrate,	revolve					
+v	spit	spew										
+v	split	burst,	break	open								
+v	spoil	rot,	go	bad,	become	unfit	for	consumption				
+v	spoil	impair,	make	imperfect								
+v	spoil	pamper,	coddle,	mollycoddle,	indulge							
+v	spray	scatter										
+v	circulate	distribute,	disseminate,	propagate,	broadcast,	diffuse,	disperse,	spread,	cause	to	become	widely
+v	spread	distribute	over	a	surface							
+v	square	raise	to	the	second	power						
+v	squeeze	pinch										
+v	embrace	hug										
+v	squash	crush,	mash									
+v	extort	gouge										
+v	stab	knife										
+v	stain	spot,	produce	stains								
+v	stereotype	pigeonhole										
+v	stamp	stomp,	walk	heavily								
+v	stand	bear,	endure,	stomach,	bear,	put	up	with				
+v	stand	stand	up									
+v	depart	leave,	start	out,	set	forth,	set	off,	set	out,	take	off
+v	stay	stick	around,	stay	put							
+v	step	tread										
+v	mistreat	maltreat,	abuse									
+v	stick	adhere,	hold	fast,	bond,	bind,	stick	to				
+v	pierce	stick,	puncture									
+v	sting	bite,	deliver	an	animal	sting						
+v	stir	move	an	implement	with	a	circular	motion				
+v	stop	halt,	come	to	a	halt,	stop	moving				
+v	stop	discontinue,	cease	doing								
+v	store	lay	in,	put	in,	salt	away,	stack	away,	stash	away	
+v	storm	rain,	hail,	or	snow	hard						
+v	straighten	straighten	out,	make	straight							
+v	strain	tense,	tense	up								
+v	stress	emphasize,	underline									
+v	stretch	stretch	out,	extend	one's	limbs						
+v	stride	walk	with	long	steps							
+v	strike	scratch,	expunge,	excise,	remove	by	erasing					
+v	strike	walk	out,	walk	off	a	job					
+v	undress	disrobe										
+v	stroke	fondle,	caress									
+v	stroll	saunter										
+v	study	hit	the	books								
+v	stuff	fill	tightly									
+v	overeat	gorge										
+v	stumble	slip	up,	trip	up,	make	an	error				
+v	resign	reconcile	oneself,	accept	as	inevitable						
+v	substitute	replace,	put	in	the	place	of	another				
+v	suffer	hurt,	ache									
+v	suggest	propose,	advise									
+v	evoke	suggest										
+v	suit	be	agreeable	or	acceptable							
+v	support	confirm,	corroborate,	substantiate								
+v	hypothesize	speculate,	theorize,	conjecture								
+v	suppress	curb,	inhibit									
+v	surround	encircle,	circle,	round								
+v	sustain	prolong,	keep	up								
+v	swallow	believe	or	accept	without	questioning						
+v	swallow	pass	through	the	esophagus							
+v	swear	declare	under	oath								
+v	swear	curse,	cuss,	blaspheme								
+v	sweep	use	a	broom								
+v	swell	swell	up									
+v	swim	travel	through	water								
+v	float	be	afloat,	fail	to	sink						
+v	swing	move	with	a	swaying	motion						
+v	swipe	move	something	with	a	swiping	motion					
+v	swop	switch,	trade,	swap,	exchange							
+v	take	choose,	select,	pick	out							
+v	take	bring,	convey									
+v	talk	speak,	use	language								
+v	tap	draw	from									
+v	tap	strike	lightly									
+v	taste	perceive	by	the	sense	of	taste					
+v	tease	mock,	make	fun	of							
+v	tease	arouse	hope	or	desire	without	satisfying	them				
+v	tell	narrate,	recount,	recite								
+v	tempt	entice,	lure									
+v	terrify	frighten	greatly									
+v	testify	bear	witness									
+v	thank	give	thanks									
+v	think	cogitate,	cerebrate									
+v	think	believe,	accept	as	TRUE							
+v	remember	retrieve,	recall									
+v	threaten	utter	intentions	of	injury	or	punishment					
+v	confuse	throw,	befuddle,	confound								
+v	throw	project	through	the	air							
+v	thrust	lunge,	hurl,	hurtle								
+v	tick	click										
+v	tie	form	a	knot	or	bow	in					
+v	time	clock,	measure	the	time	or	duration	of	an	event		
+v	tiptoe	tippytoe										
+v	topple	tip,	cause	to	fall	over						
+v	tolerate	recognize,	respect	others'	rights							
+v	toss	flip,	pitch,	throw								
+v	total	damage	beyond	the	point	of	repair					
+v	touch	make	physical	contact	with							
+v	train	coach										
+v	transfer	transmit,	transport,	channel								
+v	transform	transmute,	metamorphose									
+v	tread	trample										
+v	treat	care	for,	provide	treatment	for,	treat	medically				
+v	treat	handle										
+v	tremble											
+v	trip	stumble										
+v	trouble	perturb,	distract,	make	uneasy							
+v	try	sample,	try	out,	taste							
+v	try	seek,	attempt,	essay								
+v	try	judge,	adjudicate									
+v	tumble	topple,	fall	down								
+v	tune	tune	up,	adjust	for	(better)	functioning					
+v	bend	flex,	turn,	deform,	twist							
+v	turn	turn	around,	change	orientation							
+v	rotate	turn										
+v	twist	entwine,	form	into	a	spiral						
+v	wriggle	writhe,	worm,	squirm								
+v	underline	underscore,	draw	a	line							
+v	undermine	sabotage,	countermine,	counteract								
+v	understand	comprehend										
+v	understand	sympathize,	empathize									
+v	undertake	tackle,	take	on								
+v	update	bring	up	to	date							
+v	upset	disturb,	trouble,	move	deeply							
+v	upset	overturn,	tip	over,	turn	over,	knock	over				
+v	urge	cheer,	inspire,	urge	on							
+v	use	practice,	apply									
+v	utter	emit										
+v	visit	travel	to									
+v	vote	cast	a	vote	in	an	election					
+v	wait	stay	in	one	place	and	anticipate	something				
+v	wake	wake	up,	stop	sleeping							
+v	walk	use	one's	feet	to	advance						
+v	digress	wander,	stray									
+v	want	desire										
+v	warn	notify	of	danger,	potential	harm,	or	risk				
+v	wash	bathe,	cleanse	one's	body							
+v	wash	launder										
+v	waste	squander,	spend	extravagantly								
+v	watch	look	on,	observe								
+v	wave	beckon,	signal	with	the	hands						
+v	wear	have	on	clothes								
+v	weave	make	cloth									
+v	weigh	determine	the	weight	of							
+v	weigh	have	a	certain	weight							
+v	whip	lash										
+v	whisper	speak	softly									
+v	widen	make	wider									
+v	win	be	victorious									
+v	wind	wind	up,	coil	the	spring	of	a	mechanism			
+v	wipe											
+v	withdraw	retreat,	pull	out								
+v	wonder	question,	want	to	know							
+v	work	do	work									
+v	work	out]	exercise									
+v	worry	be	worried									
+v	wrap	enfold	in	a	tissue							
+v	wrestle	engage	in	a	wrestling	match						
+v	write	communicate	or	express	by	writing						
+v	write	publish										
+v	spell	write										
+v	compose	write	music									
+v	yawn											
