@@ -71,9 +71,15 @@ public class DictionaryDao {
 		return template.opsForSet().intersect(partOfSpeech1,
 				Arrays.asList(partOfSpeeches));
 	}
-	
-	public Long countOfMembersInASet(String key){
+
+	public Long countOfMembersInASet(String key) {
 		return template.opsForSet().size(key);
+	}
+
+	public Set<String> findWordsThatCanBeEitherOrBoth(String partOfSpeech,
+			String... partOfSpeeches) {
+		return template.opsForSet().union(partOfSpeech,
+				Arrays.asList(partOfSpeeches));
 	}
 
 }

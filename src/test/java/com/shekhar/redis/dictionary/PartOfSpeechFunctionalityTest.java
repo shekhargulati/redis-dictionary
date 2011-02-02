@@ -90,4 +90,24 @@ public class PartOfSpeechFunctionalityTest {
 		System.out.println(wordsWhichAreBothAreNounVerbAndAdjective);
 		Assert.assertEquals(3, wordsWhichAreBothAreNounVerbAndAdjective.size());
 	}
+
+	@Test
+	public void shouldFindWordsThatCanBeEitherNounOrVerbOrBoth()
+			throws Exception {
+		Set<String> wordsWhichAreEitherNounOrVerbOrBoth = dictionaryDao
+				.findWordsThatCanBeEitherOrBoth("noun", "verb");
+		System.out.println(wordsWhichAreEitherNounOrVerbOrBoth);
+		Assert.assertEquals(3145, wordsWhichAreEitherNounOrVerbOrBoth.size());
+	}
+
+	@Test
+	public void shouldFindWordsThatCanBeEitherNounOrVerbOrAdjectiveOrAllOfThem()
+			throws Exception {
+		Set<String> wordsThatCanBeEitherNounOrVerbOrAdjectiveOrAllOfThem = dictionaryDao
+				.findWordsThatCanBeEitherOrBoth("noun", "verb", "adjective");
+		System.out
+				.println(wordsThatCanBeEitherNounOrVerbOrAdjectiveOrAllOfThem);
+		Assert.assertEquals(3718,
+				wordsThatCanBeEitherNounOrVerbOrAdjectiveOrAllOfThem.size());
+	}
 }
