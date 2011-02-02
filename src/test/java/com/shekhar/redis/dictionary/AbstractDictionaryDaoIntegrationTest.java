@@ -45,19 +45,21 @@ public abstract class AbstractDictionaryDaoIntegrationTest {
 	@Test
 	public void shouldAddWordWithItsMeaningToDictionary() {
 		Long index = dao.addWordWithItsMeaningToDictionary("lollop",
-				"To move forward with a bounding, drooping motion.");
+				"To move forward with a bounding, drooping motion.", "verb");
 		assertThat(index, is(notNullValue()));
 		assertThat(index, is(equalTo(1L)));
+		List<String> allMeanings = dao.getAllTheMeaningsForAWord("lollop");
+		System.out.println(allMeanings);
 	}
 
 	@Test
 	public void shouldAddMeaningToAWordIfItExists() {
 		Long index = dao.addWordWithItsMeaningToDictionary("lollop",
-				"To move forward with a bounding, drooping motion.");
+				"To move forward with a bounding, drooping motion.", "verb");
 		assertThat(index, is(notNullValue()));
 		assertThat(index, is(equalTo(1L)));
 		index = dao.addWordWithItsMeaningToDictionary("lollop",
-				"To hang loosely; droop; dangle.");
+				"To hang loosely; droop; dangle.", "verb");
 		assertThat(index, is(equalTo(2L)));
 	}
 
@@ -118,16 +120,17 @@ public abstract class AbstractDictionaryDaoIntegrationTest {
 
 	private void setupTwoWords() {
 		setupOneWord();
-		dao.addWordWithItsMeaningToDictionary("fain", "Content; willing.");
+		dao.addWordWithItsMeaningToDictionary("fain", "Content; willing.",
+				"adjective");
 		dao.addWordWithItsMeaningToDictionary("fain",
-				"Archaic: Constrained; obliged.");
+				"Archaic: Constrained; obliged.", "adjective");
 	}
 
 	private void setupOneWord() {
 		dao.addWordWithItsMeaningToDictionary("lollop",
-				"To move forward with a bounding, drooping motion.");
+				"To move forward with a bounding, drooping motion.", "verb");
 		dao.addWordWithItsMeaningToDictionary("lollop",
-				"To hang loosely; droop; dangle.");
+				"To hang loosely; droop; dangle.", "verb");
 	}
 
 }

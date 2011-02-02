@@ -38,16 +38,14 @@ public class DictionaryServiceTest {
 	@Test
 	public void shouldDumpWordMeaningsToDatabase() throws Exception {
 		long startTime = System.currentTimeMillis();
-		service.dumpWordMeaningsToDatabase(new File("src/test/resources/word_meanings.txt"));
+		service.dumpWordMeaningsToDatabase(new File(
+				"src/test/resources/word_meanings.txt"));
 		Set<String> allUniqueWordsInDictionary = service.dao
 				.allUniqueWordsInDictionary();
-		for (String word : allUniqueWordsInDictionary) {
-			System.out.println(word + " : "
-					+ service.dao.getAllTheMeaningsForAWord(word));
-		}
-
+		System.out.println(allUniqueWordsInDictionary);
 		long endTime = System.currentTimeMillis();
-		System.out.println("Total time taken : " + (endTime - startTime));
+		System.out.println("Total time taken to put "
+				+ allUniqueWordsInDictionary.size() + " words in redis is : "
+				+ (endTime - startTime) + " ms ");
 	}
-
 }

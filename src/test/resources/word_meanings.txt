@@ -2640,7 +2640,6 @@ n	notebook	book	with	blank	pages
 n	notice	announcement										
 n	notice	advance	notification									
 n	notion	concept										
-n	noun											
 n	novel	fictional	work									
 n	number	quantity										
 n	number	numeral										

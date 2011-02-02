@@ -19,14 +19,18 @@ public class DictionaryDao {
 		this.template = template;
 	}
 
-	public Long addWordWithItsMeaningToDictionary(String word, String meaning) {
-		Long index = template.getListOps().rightPush(word, meaning);
-		template.getSetOps().add(ALL_UNIQUE_WORDS, word);
+	public Long addWordWithItsMeaningToDictionary(String word, String meaning,
+			String partOfSpeech) {
+		// System.out.println("word : " + word + " , meaning : " + meaning
+		// + " , partOfSpeech : " + partOfSpeech);
+		Long index = template.opsForList().rightPush(word, meaning);
+		template.opsForSet().add(ALL_UNIQUE_WORDS, word);
+		template.opsForSet().add(partOfSpeech, word);
 		return index;
 	}
 
 	public List<String> getAllTheMeaningsForAWord(String word) {
-		List<String> meanings = template.getListOps().range(word, 0, -1);
+		List<String> meanings = template.opsForList().range(word, 0, -1);
 		return meanings;
 	}
 
@@ -39,23 +43,37 @@ public class DictionaryDao {
 	}
 
 	public Set<String> allUniqueWordsInDictionary() {
-		Set<String> allUniqueWords = template.getSetOps().members(
+		Set<String> allUniqueWords = template.opsForSet().members(
 				ALL_UNIQUE_WORDS);
 		return allUniqueWords;
 	}
 
 	public int countOfAllUniqueWords() {
-		Set<String> allUniqueWords = template.getSetOps().members(
+		Set<String> allUniqueWords = template.opsForSet().members(
 				ALL_UNIQUE_WORDS);
 		return allUniqueWords.size();
 	}
 
 	public WordMeaningPair randomWord() {
-		String randomWord = template.getSetOps().randomMember(ALL_UNIQUE_WORDS);
-		List<String> meanings = template.getListOps().range(randomWord, 0, -1);
+		String randomWord = template.opsForSet().randomMember(ALL_UNIQUE_WORDS);
+		List<String> meanings = template.opsForList().range(randomWord, 0, -1);
 		WordMeaningPair wordMeaningPair = new WordMeaningPair(randomWord,
 				meanings);
 		return wordMeaningPair;
+	}
+
+	public Set<String> fetchAllWordsThatHavePartOfSpeech(String partOfSpeech) {
+		return template.opsForSet().members(partOfSpeech);
+	}
+
+	public Set<String> findWordWhichAre(String partOfSpeech1,
+			String... partOfSpeeches) {
+		return template.opsForSet().intersect(partOfSpeech1,
+				Arrays.asList(partOfSpeeches));
+	}
+	
+	public Long countOfMembersInASet(String key){
+		return template.opsForSet().size(key);
 	}
 
 }

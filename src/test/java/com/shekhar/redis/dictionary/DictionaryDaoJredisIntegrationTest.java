@@ -1,12 +1,6 @@
 package com.shekhar.redis.dictionary;
 
-import static org.hamcrest.CoreMatchers.equalTo;
-import static org.hamcrest.CoreMatchers.is;
-import static org.hamcrest.CoreMatchers.notNullValue;
-import static org.junit.Assert.assertThat;
-
 import org.junit.Ignore;
-import org.junit.Test;
 import org.springframework.data.keyvalue.redis.connection.jredis.JredisConnectionFactory;
 import org.springframework.data.keyvalue.redis.core.RedisTemplate;
 
@@ -34,4 +28,5 @@ public class DictionaryDaoJredisIntegrationTest extends
 	@Ignore
 	public void shouldAddMeaningToAWordIfItExists() {
 	}
+
 }

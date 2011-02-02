@@ -20,7 +20,7 @@ public class DictionaryService {
 		List<String> lines = (List<String>) FileUtils.readLines(input);
 		for (String line : lines) {
 			String[] wordAndItsMeanings = line.split("\\s");
-			String partOfSpeech = wordAndItsMeanings[0];
+			String partOfSpeech = partOfSpeech(wordAndItsMeanings[0].trim());
 			String word = wordAndItsMeanings[1].trim();
 			StringBuilder meaningBuilder = new StringBuilder();
 			for (int i = 2; i < wordAndItsMeanings.length; i++) {
@@ -28,8 +28,20 @@ public class DictionaryService {
 			}
 			meaningBuilder.trimToSize();
 			String meaning = meaningBuilder.toString();
-			dao.addWordWithItsMeaningToDictionary(word, meaning);
+			dao.addWordWithItsMeaningToDictionary(word, meaning, partOfSpeech);
 		}
+	}
+
+	private String partOfSpeech(String abbOfPartOfSpeech) {
+		if ("a".equals(abbOfPartOfSpeech)) {
+			return "adjective";
+		} else if ("n".equals(abbOfPartOfSpeech)) {
+			return "noun";
+		} else if ("v".equals(abbOfPartOfSpeech)) {
+			return "verb";
+		}
+		return null;
+
 	}
 
 }
